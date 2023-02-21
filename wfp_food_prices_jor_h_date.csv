@@ -28829,3 +28829,2070 @@ date,market,category,commodity,unit,price,H-date
 7/15/2022,Zarqa,vegetables and fruits,Oranges (big size),KG,1.14,16/12/1443
 7/15/2022,Zarqa,vegetables and fruits,Spinach,KG,0.77,16/12/1443
 7/15/2022,Zarqa,vegetables and fruits,Tomatoes,KG,0.37,16/12/1443
+8/15/2022,Ajloun,cereals and tubers,Bread (pita),KG,0.32,18/01/1444
+8/15/2022,Ajloun,cereals and tubers,Bulgur,KG,0.81,18/01/1444
+8/15/2022,Ajloun,cereals and tubers,Pasta,300 G,0.35,18/01/1444
+8/15/2022,Ajloun,cereals and tubers,Potatoes,KG,0.57,18/01/1444
+8/15/2022,Ajloun,cereals and tubers,Rice (imported),KG,1.48,18/01/1444
+8/15/2022,Ajloun,cereals and tubers,Wheat flour,1.5 KG,0.85,18/01/1444
+8/15/2022,Ajloun,"meat, fish and eggs",Eggs,2 KG,2.47,18/01/1444
+8/15/2022,Ajloun,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.22,18/01/1444
+8/15/2022,Ajloun,"meat, fish and eggs",Meat (beef),KG,8.64,18/01/1444
+8/15/2022,Ajloun,"meat, fish and eggs",Meat (chicken),KG,2.19,18/01/1444
+8/15/2022,Ajloun,"meat, fish and eggs","Meat (chicken, whole)",KG,1.43,18/01/1444
+8/15/2022,Ajloun,"meat, fish and eggs",Meat (lamb),KG,10.34,18/01/1444
+8/15/2022,Ajloun,milk and dairy,Cheese (picon),160 G,0.84,18/01/1444
+8/15/2022,Ajloun,milk and dairy,"Cheese (white, boiled)",KG,6.74,18/01/1444
+8/15/2022,Ajloun,milk and dairy,Milk (pasteurized),L,1.2,18/01/1444
+8/15/2022,Ajloun,milk and dairy,Milk (powder),0.8 KG,4.12,18/01/1444
+8/15/2022,Ajloun,miscellaneous food,Salt (iodised),750 G,0.28,18/01/1444
+8/15/2022,Ajloun,miscellaneous food,Sugar,KG,0.74,18/01/1444
+8/15/2022,Ajloun,non-food,Fuel (diesel),L,0.76,18/01/1444
+8/15/2022,Ajloun,non-food,Fuel (gas),12.5 KG,7,18/01/1444
+8/15/2022,Ajloun,non-food,Fuel (kerosene),L,0.76,18/01/1444
+8/15/2022,Ajloun,non-food,Fuel (petrol-gasoline),L,0.99,18/01/1444
+8/15/2022,Ajloun,oil and fats,Oil (olive),L,6.5,18/01/1444
+8/15/2022,Ajloun,oil and fats,Oil (vegetable),1.8 L,2.69,18/01/1444
+8/15/2022,Ajloun,pulses and nuts,"Beans (fava, dry)",KG,1.56,18/01/1444
+8/15/2022,Ajloun,pulses and nuts,Chickpeas,KG,1.63,18/01/1444
+8/15/2022,Ajloun,pulses and nuts,Lentils,KG,1,18/01/1444
+8/15/2022,Ajloun,vegetables and fruits,Apples (red),KG,1.27,18/01/1444
+8/15/2022,Ajloun,vegetables and fruits,Bananas,KG,0.84,18/01/1444
+8/15/2022,Ajloun,vegetables and fruits,Cucumbers,KG,0.56,18/01/1444
+8/15/2022,Ajloun,vegetables and fruits,Garlic,KG,3.6,18/01/1444
+8/15/2022,Ajloun,vegetables and fruits,Onions,KG,0.5,18/01/1444
+8/15/2022,Ajloun,vegetables and fruits,Oranges (big size),KG,1.29,18/01/1444
+8/15/2022,Ajloun,vegetables and fruits,Spinach,KG,0.52,18/01/1444
+8/15/2022,Ajloun,vegetables and fruits,Tomatoes,KG,0.4,18/01/1444
+8/15/2022,Al Aqaba,cereals and tubers,Bread (pita),KG,0.32,18/01/1444
+8/15/2022,Al Aqaba,cereals and tubers,Bulgur,KG,0.98,18/01/1444
+8/15/2022,Al Aqaba,cereals and tubers,Pasta,300 G,0.36,18/01/1444
+8/15/2022,Al Aqaba,cereals and tubers,Potatoes,KG,0.64,18/01/1444
+8/15/2022,Al Aqaba,cereals and tubers,Rice (imported),KG,1.34,18/01/1444
+8/15/2022,Al Aqaba,cereals and tubers,Wheat flour,1.5 KG,0.95,18/01/1444
+8/15/2022,Al Aqaba,"meat, fish and eggs",Eggs,2 KG,2.25,18/01/1444
+8/15/2022,Al Aqaba,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.19,18/01/1444
+8/15/2022,Al Aqaba,"meat, fish and eggs",Meat (beef),KG,8.77,18/01/1444
+8/15/2022,Al Aqaba,"meat, fish and eggs",Meat (chicken),KG,2.4,18/01/1444
+8/15/2022,Al Aqaba,"meat, fish and eggs","Meat (chicken, whole)",KG,1.59,18/01/1444
+8/15/2022,Al Aqaba,"meat, fish and eggs",Meat (lamb),KG,10.62,18/01/1444
+8/15/2022,Al Aqaba,milk and dairy,Cheese (picon),160 G,0.75,18/01/1444
+8/15/2022,Al Aqaba,milk and dairy,"Cheese (white, boiled)",KG,6.15,18/01/1444
+8/15/2022,Al Aqaba,milk and dairy,Milk (pasteurized),L,1.1,18/01/1444
+8/15/2022,Al Aqaba,milk and dairy,Milk (powder),0.8 KG,3.83,18/01/1444
+8/15/2022,Al Aqaba,miscellaneous food,Salt (iodised),750 G,0.26,18/01/1444
+8/15/2022,Al Aqaba,miscellaneous food,Sugar,KG,0.71,18/01/1444
+8/15/2022,Al Aqaba,non-food,Fuel (diesel),L,0.76,18/01/1444
+8/15/2022,Al Aqaba,non-food,Fuel (gas),12.5 KG,7,18/01/1444
+8/15/2022,Al Aqaba,non-food,Fuel (kerosene),L,0.76,18/01/1444
+8/15/2022,Al Aqaba,non-food,Fuel (petrol-gasoline),L,0.99,18/01/1444
+8/15/2022,Al Aqaba,oil and fats,Oil (olive),L,7.48,18/01/1444
+8/15/2022,Al Aqaba,oil and fats,Oil (vegetable),1.8 L,2.77,18/01/1444
+8/15/2022,Al Aqaba,pulses and nuts,"Beans (fava, dry)",KG,1.58,18/01/1444
+8/15/2022,Al Aqaba,pulses and nuts,Chickpeas,KG,1.83,18/01/1444
+8/15/2022,Al Aqaba,pulses and nuts,Lentils,KG,1.33,18/01/1444
+8/15/2022,Al Aqaba,vegetables and fruits,Apples (red),KG,1.29,18/01/1444
+8/15/2022,Al Aqaba,vegetables and fruits,Cucumbers,KG,0.6,18/01/1444
+8/15/2022,Al Aqaba,vegetables and fruits,Garlic,KG,3.18,18/01/1444
+8/15/2022,Al Aqaba,vegetables and fruits,Onions,KG,0.49,18/01/1444
+8/15/2022,Al Aqaba,vegetables and fruits,Spinach,KG,0.66,18/01/1444
+8/15/2022,Al Aqaba,vegetables and fruits,Tomatoes,KG,0.38,18/01/1444
+8/15/2022,Al Balqa,cereals and tubers,Bread (pita),KG,0.32,18/01/1444
+8/15/2022,Al Balqa,cereals and tubers,Bulgur,KG,1.02,18/01/1444
+8/15/2022,Al Balqa,cereals and tubers,Pasta,300 G,0.35,18/01/1444
+8/15/2022,Al Balqa,cereals and tubers,Potatoes,KG,0.65,18/01/1444
+8/15/2022,Al Balqa,cereals and tubers,Rice (imported),KG,1.37,18/01/1444
+8/15/2022,Al Balqa,cereals and tubers,Wheat flour,1.5 KG,0.87,18/01/1444
+8/15/2022,Al Balqa,"meat, fish and eggs",Eggs,2 KG,2.64,18/01/1444
+8/15/2022,Al Balqa,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.13,18/01/1444
+8/15/2022,Al Balqa,"meat, fish and eggs",Meat (beef),KG,8,18/01/1444
+8/15/2022,Al Balqa,"meat, fish and eggs",Meat (chicken),KG,2.27,18/01/1444
+8/15/2022,Al Balqa,"meat, fish and eggs","Meat (chicken, whole)",KG,1.42,18/01/1444
+8/15/2022,Al Balqa,"meat, fish and eggs",Meat (lamb),KG,8.66,18/01/1444
+8/15/2022,Al Balqa,milk and dairy,Cheese (picon),160 G,0.85,18/01/1444
+8/15/2022,Al Balqa,milk and dairy,"Cheese (white, boiled)",KG,5.79,18/01/1444
+8/15/2022,Al Balqa,milk and dairy,Milk (pasteurized),L,1,18/01/1444
+8/15/2022,Al Balqa,milk and dairy,Milk (powder),0.8 KG,4.25,18/01/1444
+8/15/2022,Al Balqa,miscellaneous food,Salt (iodised),750 G,0.25,18/01/1444
+8/15/2022,Al Balqa,miscellaneous food,Sugar,KG,0.87,18/01/1444
+8/15/2022,Al Balqa,non-food,Fuel (diesel),L,0.76,18/01/1444
+8/15/2022,Al Balqa,non-food,Fuel (gas),12.5 KG,7,18/01/1444
+8/15/2022,Al Balqa,non-food,Fuel (kerosene),L,0.76,18/01/1444
+8/15/2022,Al Balqa,non-food,Fuel (petrol-gasoline),L,0.99,18/01/1444
+8/15/2022,Al Balqa,oil and fats,Oil (olive),L,6.5,18/01/1444
+8/15/2022,Al Balqa,oil and fats,Oil (vegetable),1.8 L,2.78,18/01/1444
+8/15/2022,Al Balqa,pulses and nuts,"Beans (fava, dry)",KG,1.73,18/01/1444
+8/15/2022,Al Balqa,pulses and nuts,Chickpeas,KG,2.36,18/01/1444
+8/15/2022,Al Balqa,pulses and nuts,Lentils,KG,1.16,18/01/1444
+8/15/2022,Al Balqa,vegetables and fruits,Apples (red),KG,1.25,18/01/1444
+8/15/2022,Al Balqa,vegetables and fruits,Bananas,KG,0.75,18/01/1444
+8/15/2022,Al Balqa,vegetables and fruits,Cucumbers,KG,0.5,18/01/1444
+8/15/2022,Al Balqa,vegetables and fruits,Garlic,KG,3,18/01/1444
+8/15/2022,Al Balqa,vegetables and fruits,Onions,KG,0.49,18/01/1444
+8/15/2022,Al Balqa,vegetables and fruits,Spinach,KG,0.7,18/01/1444
+8/15/2022,Al Balqa,vegetables and fruits,Tomatoes,KG,0.43,18/01/1444
+8/15/2022,Al Karak,cereals and tubers,Bread (pita),KG,0.32,18/01/1444
+8/15/2022,Al Karak,cereals and tubers,Bulgur,KG,1.01,18/01/1444
+8/15/2022,Al Karak,cereals and tubers,Pasta,300 G,0.45,18/01/1444
+8/15/2022,Al Karak,cereals and tubers,Potatoes,KG,0.57,18/01/1444
+8/15/2022,Al Karak,cereals and tubers,Rice (imported),KG,1.3,18/01/1444
+8/15/2022,Al Karak,cereals and tubers,Wheat flour,1.5 KG,1,18/01/1444
+8/15/2022,Al Karak,"meat, fish and eggs",Eggs,2 KG,2.53,18/01/1444
+8/15/2022,Al Karak,"meat, fish and eggs","Fish (tuna, canned)",170 G,0.85,18/01/1444
+8/15/2022,Al Karak,"meat, fish and eggs",Meat (beef),KG,8,18/01/1444
+8/15/2022,Al Karak,"meat, fish and eggs",Meat (chicken),KG,2.33,18/01/1444
+8/15/2022,Al Karak,"meat, fish and eggs","Meat (chicken, whole)",KG,1.45,18/01/1444
+8/15/2022,Al Karak,"meat, fish and eggs",Meat (lamb),KG,8.5,18/01/1444
+8/15/2022,Al Karak,milk and dairy,Cheese (picon),160 G,0.8,18/01/1444
+8/15/2022,Al Karak,milk and dairy,"Cheese (white, boiled)",KG,5.69,18/01/1444
+8/15/2022,Al Karak,milk and dairy,Milk (pasteurized),L,1.2,18/01/1444
+8/15/2022,Al Karak,milk and dairy,Milk (powder),0.8 KG,3.78,18/01/1444
+8/15/2022,Al Karak,miscellaneous food,Salt (iodised),750 G,0.3,18/01/1444
+8/15/2022,Al Karak,miscellaneous food,Sugar,KG,0.72,18/01/1444
+8/15/2022,Al Karak,non-food,Fuel (diesel),L,0.76,18/01/1444
+8/15/2022,Al Karak,non-food,Fuel (gas),12.5 KG,7,18/01/1444
+8/15/2022,Al Karak,non-food,Fuel (kerosene),L,0.76,18/01/1444
+8/15/2022,Al Karak,non-food,Fuel (petrol-gasoline),L,0.99,18/01/1444
+8/15/2022,Al Karak,oil and fats,Oil (olive),L,5.32,18/01/1444
+8/15/2022,Al Karak,oil and fats,Oil (vegetable),1.8 L,2.93,18/01/1444
+8/15/2022,Al Karak,pulses and nuts,"Beans (fava, dry)",KG,1.49,18/01/1444
+8/15/2022,Al Karak,pulses and nuts,Chickpeas,KG,2.22,18/01/1444
+8/15/2022,Al Karak,pulses and nuts,Lentils,KG,1.68,18/01/1444
+8/15/2022,Al Karak,vegetables and fruits,Apples (red),KG,1.16,18/01/1444
+8/15/2022,Al Karak,vegetables and fruits,Bananas,KG,0.85,18/01/1444
+8/15/2022,Al Karak,vegetables and fruits,Cucumbers,KG,0.57,18/01/1444
+8/15/2022,Al Karak,vegetables and fruits,Garlic,KG,3.19,18/01/1444
+8/15/2022,Al Karak,vegetables and fruits,Onions,KG,0.44,18/01/1444
+8/15/2022,Al Karak,vegetables and fruits,Oranges (big size),KG,1.5,18/01/1444
+8/15/2022,Al Karak,vegetables and fruits,Spinach,KG,0.63,18/01/1444
+8/15/2022,Al Karak,vegetables and fruits,Tomatoes,KG,0.35,18/01/1444
+8/15/2022,Al Mafraq,cereals and tubers,Bread (pita),KG,0.32,18/01/1444
+8/15/2022,Al Mafraq,cereals and tubers,Bulgur,KG,0.74,18/01/1444
+8/15/2022,Al Mafraq,cereals and tubers,Pasta,300 G,0.35,18/01/1444
+8/15/2022,Al Mafraq,cereals and tubers,Potatoes,KG,0.62,18/01/1444
+8/15/2022,Al Mafraq,cereals and tubers,Rice (imported),KG,1.43,18/01/1444
+8/15/2022,Al Mafraq,cereals and tubers,Wheat flour,1.5 KG,0.83,18/01/1444
+8/15/2022,Al Mafraq,"meat, fish and eggs",Eggs,2 KG,2.35,18/01/1444
+8/15/2022,Al Mafraq,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.22,18/01/1444
+8/15/2022,Al Mafraq,"meat, fish and eggs",Meat (beef),KG,8.24,18/01/1444
+8/15/2022,Al Mafraq,"meat, fish and eggs",Meat (chicken),KG,2.1,18/01/1444
+8/15/2022,Al Mafraq,"meat, fish and eggs","Meat (chicken, whole)",KG,1.35,18/01/1444
+8/15/2022,Al Mafraq,"meat, fish and eggs",Meat (lamb),KG,10.41,18/01/1444
+8/15/2022,Al Mafraq,milk and dairy,Cheese (picon),160 G,0.79,18/01/1444
+8/15/2022,Al Mafraq,milk and dairy,"Cheese (white, boiled)",KG,6,18/01/1444
+8/15/2022,Al Mafraq,milk and dairy,Milk (pasteurized),L,1.2,18/01/1444
+8/15/2022,Al Mafraq,milk and dairy,Milk (powder),0.8 KG,4.29,18/01/1444
+8/15/2022,Al Mafraq,miscellaneous food,Salt (iodised),750 G,0.3,18/01/1444
+8/15/2022,Al Mafraq,miscellaneous food,Sugar,KG,0.75,18/01/1444
+8/15/2022,Al Mafraq,non-food,Fuel (diesel),L,0.76,18/01/1444
+8/15/2022,Al Mafraq,non-food,Fuel (gas),12.5 KG,7,18/01/1444
+8/15/2022,Al Mafraq,non-food,Fuel (kerosene),L,0.76,18/01/1444
+8/15/2022,Al Mafraq,non-food,Fuel (petrol-gasoline),L,0.99,18/01/1444
+8/15/2022,Al Mafraq,oil and fats,Oil (olive),L,6.34,18/01/1444
+8/15/2022,Al Mafraq,oil and fats,Oil (vegetable),1.8 L,2.8,18/01/1444
+8/15/2022,Al Mafraq,pulses and nuts,"Beans (fava, dry)",KG,1.71,18/01/1444
+8/15/2022,Al Mafraq,pulses and nuts,Chickpeas,KG,1.7,18/01/1444
+8/15/2022,Al Mafraq,pulses and nuts,Lentils,KG,1.21,18/01/1444
+8/15/2022,Al Mafraq,vegetables and fruits,Apples (red),KG,1.41,18/01/1444
+8/15/2022,Al Mafraq,vegetables and fruits,Bananas,KG,0.84,18/01/1444
+8/15/2022,Al Mafraq,vegetables and fruits,Cucumbers,KG,0.64,18/01/1444
+8/15/2022,Al Mafraq,vegetables and fruits,Garlic,KG,3.13,18/01/1444
+8/15/2022,Al Mafraq,vegetables and fruits,Onions,KG,0.53,18/01/1444
+8/15/2022,Al Mafraq,vegetables and fruits,Spinach,KG,0.85,18/01/1444
+8/15/2022,Al Mafraq,vegetables and fruits,Tomatoes,KG,0.35,18/01/1444
+8/15/2022,Al Tafilah,cereals and tubers,Bread (pita),KG,0.32,18/01/1444
+8/15/2022,Al Tafilah,cereals and tubers,Bulgur,KG,0.81,18/01/1444
+8/15/2022,Al Tafilah,cereals and tubers,Pasta,300 G,0.37,18/01/1444
+8/15/2022,Al Tafilah,cereals and tubers,Potatoes,KG,0.62,18/01/1444
+8/15/2022,Al Tafilah,cereals and tubers,Rice (imported),KG,1.25,18/01/1444
+8/15/2022,Al Tafilah,cereals and tubers,Wheat flour,1.5 KG,1.04,18/01/1444
+8/15/2022,Al Tafilah,"meat, fish and eggs",Eggs,2 KG,2.54,18/01/1444
+8/15/2022,Al Tafilah,"meat, fish and eggs","Fish (tuna, canned)",170 G,0.84,18/01/1444
+8/15/2022,Al Tafilah,"meat, fish and eggs",Meat (beef),KG,8,18/01/1444
+8/15/2022,Al Tafilah,"meat, fish and eggs",Meat (chicken),KG,2.29,18/01/1444
+8/15/2022,Al Tafilah,"meat, fish and eggs","Meat (chicken, whole)",KG,1.37,18/01/1444
+8/15/2022,Al Tafilah,"meat, fish and eggs",Meat (lamb),KG,8.91,18/01/1444
+8/15/2022,Al Tafilah,milk and dairy,Cheese (picon),160 G,0.78,18/01/1444
+8/15/2022,Al Tafilah,milk and dairy,"Cheese (white, boiled)",KG,5.08,18/01/1444
+8/15/2022,Al Tafilah,milk and dairy,Milk (pasteurized),L,1.11,18/01/1444
+8/15/2022,Al Tafilah,milk and dairy,Milk (powder),0.8 KG,4.02,18/01/1444
+8/15/2022,Al Tafilah,miscellaneous food,Salt (iodised),750 G,0.31,18/01/1444
+8/15/2022,Al Tafilah,miscellaneous food,Sugar,KG,0.76,18/01/1444
+8/15/2022,Al Tafilah,non-food,Fuel (diesel),L,0.76,18/01/1444
+8/15/2022,Al Tafilah,non-food,Fuel (gas),12.5 KG,7,18/01/1444
+8/15/2022,Al Tafilah,non-food,Fuel (kerosene),L,0.76,18/01/1444
+8/15/2022,Al Tafilah,non-food,Fuel (petrol-gasoline),L,0.99,18/01/1444
+8/15/2022,Al Tafilah,oil and fats,Oil (olive),L,5.58,18/01/1444
+8/15/2022,Al Tafilah,oil and fats,Oil (vegetable),1.8 L,2.79,18/01/1444
+8/15/2022,Al Tafilah,pulses and nuts,"Beans (fava, dry)",KG,1.41,18/01/1444
+8/15/2022,Al Tafilah,pulses and nuts,Chickpeas,KG,1.75,18/01/1444
+8/15/2022,Al Tafilah,pulses and nuts,Lentils,KG,1.58,18/01/1444
+8/15/2022,Al Tafilah,vegetables and fruits,Apples (red),KG,1.06,18/01/1444
+8/15/2022,Al Tafilah,vegetables and fruits,Bananas,KG,0.83,18/01/1444
+8/15/2022,Al Tafilah,vegetables and fruits,Cucumbers,KG,0.58,18/01/1444
+8/15/2022,Al Tafilah,vegetables and fruits,Garlic,KG,2.16,18/01/1444
+8/15/2022,Al Tafilah,vegetables and fruits,Onions,KG,0.47,18/01/1444
+8/15/2022,Al Tafilah,vegetables and fruits,Oranges (big size),KG,0.9,18/01/1444
+8/15/2022,Al Tafilah,vegetables and fruits,Tomatoes,KG,0.35,18/01/1444
+8/15/2022,Amman,cereals and tubers,Bread (pita),KG,0.32,18/01/1444
+8/15/2022,Amman,cereals and tubers,Bulgur,KG,0.87,18/01/1444
+8/15/2022,Amman,cereals and tubers,Pasta,300 G,0.35,18/01/1444
+8/15/2022,Amman,cereals and tubers,Potatoes,KG,0.71,18/01/1444
+8/15/2022,Amman,cereals and tubers,Rice (imported),KG,1.35,18/01/1444
+8/15/2022,Amman,cereals and tubers,Wheat flour,1.5 KG,0.85,18/01/1444
+8/15/2022,Amman,"meat, fish and eggs",Eggs,2 KG,2.65,18/01/1444
+8/15/2022,Amman,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.15,18/01/1444
+8/15/2022,Amman,"meat, fish and eggs",Meat (beef),KG,9.2,18/01/1444
+8/15/2022,Amman,"meat, fish and eggs",Meat (chicken),KG,2.35,18/01/1444
+8/15/2022,Amman,"meat, fish and eggs","Meat (chicken, whole)",KG,1.45,18/01/1444
+8/15/2022,Amman,"meat, fish and eggs",Meat (lamb),KG,11,18/01/1444
+8/15/2022,Amman,milk and dairy,Cheese (picon),160 G,0.79,18/01/1444
+8/15/2022,Amman,milk and dairy,"Cheese (white, boiled)",KG,6.26,18/01/1444
+8/15/2022,Amman,milk and dairy,Milk (pasteurized),L,1.06,18/01/1444
+8/15/2022,Amman,milk and dairy,Milk (powder),0.8 KG,4.14,18/01/1444
+8/15/2022,Amman,miscellaneous food,Salt (iodised),750 G,0.3,18/01/1444
+8/15/2022,Amman,miscellaneous food,Sugar,KG,0.68,18/01/1444
+8/15/2022,Amman,non-food,Fuel (diesel),L,0.76,18/01/1444
+8/15/2022,Amman,non-food,Fuel (gas),12.5 KG,7,18/01/1444
+8/15/2022,Amman,non-food,Fuel (kerosene),L,0.76,18/01/1444
+8/15/2022,Amman,non-food,Fuel (petrol-gasoline),L,0.99,18/01/1444
+8/15/2022,Amman,oil and fats,Oil (olive),L,7.13,18/01/1444
+8/15/2022,Amman,oil and fats,Oil (vegetable),1.8 L,2.77,18/01/1444
+8/15/2022,Amman,pulses and nuts,"Beans (fava, dry)",KG,1.69,18/01/1444
+8/15/2022,Amman,pulses and nuts,Chickpeas,KG,1.87,18/01/1444
+8/15/2022,Amman,pulses and nuts,Lentils,KG,1.28,18/01/1444
+8/15/2022,Amman,vegetables and fruits,Apples (red),KG,1.98,18/01/1444
+8/15/2022,Amman,vegetables and fruits,Bananas,KG,0.89,18/01/1444
+8/15/2022,Amman,vegetables and fruits,Cucumbers,KG,0.65,18/01/1444
+8/15/2022,Amman,vegetables and fruits,Garlic,KG,3.67,18/01/1444
+8/15/2022,Amman,vegetables and fruits,Onions,KG,0.52,18/01/1444
+8/15/2022,Amman,vegetables and fruits,Oranges (big size),KG,1.7,18/01/1444
+8/15/2022,Amman,vegetables and fruits,Spinach,KG,0.67,18/01/1444
+8/15/2022,Amman,vegetables and fruits,Tomatoes,KG,0.45,18/01/1444
+8/15/2022,Irbid,cereals and tubers,Bread (pita),KG,0.33,18/01/1444
+8/15/2022,Irbid,cereals and tubers,Bulgur,KG,0.97,18/01/1444
+8/15/2022,Irbid,cereals and tubers,Pasta,300 G,0.34,18/01/1444
+8/15/2022,Irbid,cereals and tubers,Potatoes,KG,0.67,18/01/1444
+8/15/2022,Irbid,cereals and tubers,Rice (imported),KG,1.43,18/01/1444
+8/15/2022,Irbid,cereals and tubers,Wheat flour,1.5 KG,0.89,18/01/1444
+8/15/2022,Irbid,"meat, fish and eggs",Eggs,2 KG,2.48,18/01/1444
+8/15/2022,Irbid,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.22,18/01/1444
+8/15/2022,Irbid,"meat, fish and eggs",Meat (beef),KG,9.13,18/01/1444
+8/15/2022,Irbid,"meat, fish and eggs",Meat (chicken),KG,2.2,18/01/1444
+8/15/2022,Irbid,"meat, fish and eggs","Meat (chicken, whole)",KG,1.45,18/01/1444
+8/15/2022,Irbid,"meat, fish and eggs",Meat (lamb),KG,10.55,18/01/1444
+8/15/2022,Irbid,milk and dairy,Cheese (picon),160 G,0.76,18/01/1444
+8/15/2022,Irbid,milk and dairy,"Cheese (white, boiled)",KG,5.85,18/01/1444
+8/15/2022,Irbid,milk and dairy,Milk (pasteurized),L,1.02,18/01/1444
+8/15/2022,Irbid,milk and dairy,Milk (powder),0.8 KG,4.07,18/01/1444
+8/15/2022,Irbid,miscellaneous food,Salt (iodised),750 G,0.28,18/01/1444
+8/15/2022,Irbid,miscellaneous food,Sugar,KG,0.72,18/01/1444
+8/15/2022,Irbid,non-food,Fuel (diesel),L,0.76,18/01/1444
+8/15/2022,Irbid,non-food,Fuel (gas),12.5 KG,7,18/01/1444
+8/15/2022,Irbid,non-food,Fuel (kerosene),L,0.76,18/01/1444
+8/15/2022,Irbid,non-food,Fuel (petrol-gasoline),L,0.99,18/01/1444
+8/15/2022,Irbid,oil and fats,Oil (olive),L,6.47,18/01/1444
+8/15/2022,Irbid,oil and fats,Oil (vegetable),1.8 L,2.58,18/01/1444
+8/15/2022,Irbid,pulses and nuts,"Beans (fava, dry)",KG,1.48,18/01/1444
+8/15/2022,Irbid,pulses and nuts,Chickpeas,KG,1.75,18/01/1444
+8/15/2022,Irbid,pulses and nuts,Lentils,KG,1.34,18/01/1444
+8/15/2022,Irbid,vegetables and fruits,Apples (red),KG,1.55,18/01/1444
+8/15/2022,Irbid,vegetables and fruits,Bananas,KG,0.88,18/01/1444
+8/15/2022,Irbid,vegetables and fruits,Cucumbers,KG,0.61,18/01/1444
+8/15/2022,Irbid,vegetables and fruits,Garlic,KG,3.71,18/01/1444
+8/15/2022,Irbid,vegetables and fruits,Onions,KG,0.5,18/01/1444
+8/15/2022,Irbid,vegetables and fruits,Oranges (big size),KG,1.58,18/01/1444
+8/15/2022,Irbid,vegetables and fruits,Spinach,KG,0.8,18/01/1444
+8/15/2022,Irbid,vegetables and fruits,Tomatoes,KG,0.42,18/01/1444
+8/15/2022,Jarash,cereals and tubers,Bread (pita),KG,0.35,18/01/1444
+8/15/2022,Jarash,cereals and tubers,Bulgur,KG,0.83,18/01/1444
+8/15/2022,Jarash,cereals and tubers,Pasta,300 G,0.34,18/01/1444
+8/15/2022,Jarash,cereals and tubers,Potatoes,KG,0.65,18/01/1444
+8/15/2022,Jarash,cereals and tubers,Rice (imported),KG,1.43,18/01/1444
+8/15/2022,Jarash,cereals and tubers,Wheat flour,1.5 KG,1.41,18/01/1444
+8/15/2022,Jarash,"meat, fish and eggs",Eggs,2 KG,2.43,18/01/1444
+8/15/2022,Jarash,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.19,18/01/1444
+8/15/2022,Jarash,"meat, fish and eggs",Meat (beef),KG,8.62,18/01/1444
+8/15/2022,Jarash,"meat, fish and eggs",Meat (chicken),KG,2.1,18/01/1444
+8/15/2022,Jarash,"meat, fish and eggs","Meat (chicken, whole)",KG,1.33,18/01/1444
+8/15/2022,Jarash,"meat, fish and eggs",Meat (lamb),KG,10.74,18/01/1444
+8/15/2022,Jarash,milk and dairy,Cheese (picon),160 G,0.77,18/01/1444
+8/15/2022,Jarash,milk and dairy,"Cheese (white, boiled)",KG,6,18/01/1444
+8/15/2022,Jarash,milk and dairy,Milk (pasteurized),L,1.16,18/01/1444
+8/15/2022,Jarash,milk and dairy,Milk (powder),0.8 KG,3.9,18/01/1444
+8/15/2022,Jarash,miscellaneous food,Salt (iodised),750 G,0.29,18/01/1444
+8/15/2022,Jarash,miscellaneous food,Sugar,KG,0.71,18/01/1444
+8/15/2022,Jarash,non-food,Fuel (diesel),L,0.76,18/01/1444
+8/15/2022,Jarash,non-food,Fuel (gas),12.5 KG,7,18/01/1444
+8/15/2022,Jarash,non-food,Fuel (kerosene),L,0.76,18/01/1444
+8/15/2022,Jarash,non-food,Fuel (petrol-gasoline),L,0.99,18/01/1444
+8/15/2022,Jarash,oil and fats,Oil (olive),L,6.5,18/01/1444
+8/15/2022,Jarash,oil and fats,Oil (vegetable),1.8 L,2.74,18/01/1444
+8/15/2022,Jarash,pulses and nuts,"Beans (fava, dry)",KG,1.63,18/01/1444
+8/15/2022,Jarash,pulses and nuts,Chickpeas,KG,1.72,18/01/1444
+8/15/2022,Jarash,pulses and nuts,Lentils,KG,1.19,18/01/1444
+8/15/2022,Jarash,vegetables and fruits,Apples (red),KG,1.45,18/01/1444
+8/15/2022,Jarash,vegetables and fruits,Bananas,KG,0.82,18/01/1444
+8/15/2022,Jarash,vegetables and fruits,Cucumbers,KG,0.53,18/01/1444
+8/15/2022,Jarash,vegetables and fruits,Garlic,KG,3.57,18/01/1444
+8/15/2022,Jarash,vegetables and fruits,Onions,KG,0.52,18/01/1444
+8/15/2022,Jarash,vegetables and fruits,Spinach,KG,0.69,18/01/1444
+8/15/2022,Jarash,vegetables and fruits,Tomatoes,KG,0.42,18/01/1444
+8/15/2022,Maan,cereals and tubers,Bread (pita),KG,0.32,18/01/1444
+8/15/2022,Maan,cereals and tubers,Bulgur,KG,0.94,18/01/1444
+8/15/2022,Maan,cereals and tubers,Pasta,300 G,0.36,18/01/1444
+8/15/2022,Maan,cereals and tubers,Potatoes,KG,0.5,18/01/1444
+8/15/2022,Maan,cereals and tubers,Rice (imported),KG,1.26,18/01/1444
+8/15/2022,Maan,cereals and tubers,Wheat flour,1.5 KG,0.95,18/01/1444
+8/15/2022,Maan,"meat, fish and eggs",Eggs,2 KG,2.78,18/01/1444
+8/15/2022,Maan,"meat, fish and eggs","Fish (tuna, canned)",170 G,0.91,18/01/1444
+8/15/2022,Maan,"meat, fish and eggs",Meat (beef),KG,7.81,18/01/1444
+8/15/2022,Maan,"meat, fish and eggs",Meat (chicken),KG,2.02,18/01/1444
+8/15/2022,Maan,"meat, fish and eggs","Meat (chicken, whole)",KG,1.67,18/01/1444
+8/15/2022,Maan,"meat, fish and eggs",Meat (lamb),KG,9.3,18/01/1444
+8/15/2022,Maan,milk and dairy,Cheese (picon),160 G,0.75,18/01/1444
+8/15/2022,Maan,milk and dairy,"Cheese (white, boiled)",KG,5.06,18/01/1444
+8/15/2022,Maan,milk and dairy,Milk (pasteurized),L,1.11,18/01/1444
+8/15/2022,Maan,milk and dairy,Milk (powder),0.8 KG,4.08,18/01/1444
+8/15/2022,Maan,miscellaneous food,Salt (iodised),750 G,0.25,18/01/1444
+8/15/2022,Maan,miscellaneous food,Sugar,KG,0.73,18/01/1444
+8/15/2022,Maan,non-food,Fuel (diesel),L,0.76,18/01/1444
+8/15/2022,Maan,non-food,Fuel (gas),12.5 KG,7,18/01/1444
+8/15/2022,Maan,non-food,Fuel (kerosene),L,0.76,18/01/1444
+8/15/2022,Maan,non-food,Fuel (petrol-gasoline),L,0.99,18/01/1444
+8/15/2022,Maan,oil and fats,Oil (olive),L,6.09,18/01/1444
+8/15/2022,Maan,oil and fats,Oil (vegetable),1.8 L,2.77,18/01/1444
+8/15/2022,Maan,pulses and nuts,"Beans (fava, dry)",KG,1.25,18/01/1444
+8/15/2022,Maan,pulses and nuts,Chickpeas,KG,2.14,18/01/1444
+8/15/2022,Maan,pulses and nuts,Lentils,KG,1.13,18/01/1444
+8/15/2022,Maan,vegetables and fruits,Apples (red),KG,1.63,18/01/1444
+8/15/2022,Maan,vegetables and fruits,Bananas,KG,0.88,18/01/1444
+8/15/2022,Maan,vegetables and fruits,Cucumbers,KG,0.46,18/01/1444
+8/15/2022,Maan,vegetables and fruits,Garlic,KG,3.37,18/01/1444
+8/15/2022,Maan,vegetables and fruits,Onions,KG,0.47,18/01/1444
+8/15/2022,Maan,vegetables and fruits,Oranges (big size),KG,0.75,18/01/1444
+8/15/2022,Maan,vegetables and fruits,Tomatoes,KG,0.29,18/01/1444
+8/15/2022,Madaba,cereals and tubers,Bread (pita),KG,0.32,18/01/1444
+8/15/2022,Madaba,cereals and tubers,Bulgur,KG,0.96,18/01/1444
+8/15/2022,Madaba,cereals and tubers,Pasta,300 G,0.39,18/01/1444
+8/15/2022,Madaba,cereals and tubers,Potatoes,KG,0.68,18/01/1444
+8/15/2022,Madaba,cereals and tubers,Rice (imported),KG,1.36,18/01/1444
+8/15/2022,Madaba,cereals and tubers,Wheat flour,1.5 KG,1.12,18/01/1444
+8/15/2022,Madaba,"meat, fish and eggs",Eggs,2 KG,2.52,18/01/1444
+8/15/2022,Madaba,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.2,18/01/1444
+8/15/2022,Madaba,"meat, fish and eggs",Meat (beef),KG,9,18/01/1444
+8/15/2022,Madaba,"meat, fish and eggs",Meat (chicken),KG,1.77,18/01/1444
+8/15/2022,Madaba,"meat, fish and eggs","Meat (chicken, whole)",KG,1.53,18/01/1444
+8/15/2022,Madaba,"meat, fish and eggs",Meat (lamb),KG,11,18/01/1444
+8/15/2022,Madaba,milk and dairy,Cheese (picon),160 G,0.82,18/01/1444
+8/15/2022,Madaba,milk and dairy,"Cheese (white, boiled)",KG,6,18/01/1444
+8/15/2022,Madaba,milk and dairy,Milk (pasteurized),L,1.03,18/01/1444
+8/15/2022,Madaba,milk and dairy,Milk (powder),0.8 KG,4.29,18/01/1444
+8/15/2022,Madaba,miscellaneous food,Salt (iodised),750 G,0.28,18/01/1444
+8/15/2022,Madaba,miscellaneous food,Sugar,KG,0.75,18/01/1444
+8/15/2022,Madaba,non-food,Fuel (diesel),L,0.76,18/01/1444
+8/15/2022,Madaba,non-food,Fuel (gas),12.5 KG,7,18/01/1444
+8/15/2022,Madaba,non-food,Fuel (kerosene),L,0.76,18/01/1444
+8/15/2022,Madaba,non-food,Fuel (petrol-gasoline),L,0.99,18/01/1444
+8/15/2022,Madaba,oil and fats,Oil (olive),L,6.75,18/01/1444
+8/15/2022,Madaba,oil and fats,Oil (vegetable),1.8 L,2.62,18/01/1444
+8/15/2022,Madaba,pulses and nuts,"Beans (fava, dry)",KG,1.31,18/01/1444
+8/15/2022,Madaba,pulses and nuts,Chickpeas,KG,2.05,18/01/1444
+8/15/2022,Madaba,pulses and nuts,Lentils,KG,1.06,18/01/1444
+8/15/2022,Madaba,vegetables and fruits,Apples (red),KG,1.25,18/01/1444
+8/15/2022,Madaba,vegetables and fruits,Bananas,KG,0.84,18/01/1444
+8/15/2022,Madaba,vegetables and fruits,Cucumbers,KG,0.53,18/01/1444
+8/15/2022,Madaba,vegetables and fruits,Garlic,KG,2.79,18/01/1444
+8/15/2022,Madaba,vegetables and fruits,Onions,KG,0.47,18/01/1444
+8/15/2022,Madaba,vegetables and fruits,Spinach,KG,0.56,18/01/1444
+8/15/2022,Madaba,vegetables and fruits,Tomatoes,KG,0.36,18/01/1444
+8/15/2022,Zarqa,cereals and tubers,Bread (pita),KG,0.32,18/01/1444
+8/15/2022,Zarqa,cereals and tubers,Bulgur,KG,0.86,18/01/1444
+8/15/2022,Zarqa,cereals and tubers,Pasta,300 G,0.35,18/01/1444
+8/15/2022,Zarqa,cereals and tubers,Potatoes,KG,0.62,18/01/1444
+8/15/2022,Zarqa,cereals and tubers,Rice (imported),KG,1.25,18/01/1444
+8/15/2022,Zarqa,cereals and tubers,Wheat flour,1.5 KG,0.9,18/01/1444
+8/15/2022,Zarqa,"meat, fish and eggs",Eggs,2 KG,2.54,18/01/1444
+8/15/2022,Zarqa,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.31,18/01/1444
+8/15/2022,Zarqa,"meat, fish and eggs",Meat (beef),KG,10.46,18/01/1444
+8/15/2022,Zarqa,"meat, fish and eggs",Meat (chicken),KG,2.15,18/01/1444
+8/15/2022,Zarqa,"meat, fish and eggs","Meat (chicken, whole)",KG,1.41,18/01/1444
+8/15/2022,Zarqa,"meat, fish and eggs",Meat (lamb),KG,10.49,18/01/1444
+8/15/2022,Zarqa,milk and dairy,Cheese (picon),160 G,0.75,18/01/1444
+8/15/2022,Zarqa,milk and dairy,"Cheese (white, boiled)",KG,5.05,18/01/1444
+8/15/2022,Zarqa,milk and dairy,Milk (pasteurized),L,0.99,18/01/1444
+8/15/2022,Zarqa,milk and dairy,Milk (powder),0.8 KG,4.23,18/01/1444
+8/15/2022,Zarqa,miscellaneous food,Salt (iodised),750 G,0.28,18/01/1444
+8/15/2022,Zarqa,miscellaneous food,Sugar,KG,0.69,18/01/1444
+8/15/2022,Zarqa,non-food,Fuel (diesel),L,0.76,18/01/1444
+8/15/2022,Zarqa,non-food,Fuel (gas),12.5 KG,7,18/01/1444
+8/15/2022,Zarqa,non-food,Fuel (kerosene),L,0.76,18/01/1444
+8/15/2022,Zarqa,non-food,Fuel (petrol-gasoline),L,0.99,18/01/1444
+8/15/2022,Zarqa,oil and fats,Oil (olive),L,6.46,18/01/1444
+8/15/2022,Zarqa,oil and fats,Oil (vegetable),1.8 L,2.85,18/01/1444
+8/15/2022,Zarqa,pulses and nuts,"Beans (fava, dry)",KG,1.53,18/01/1444
+8/15/2022,Zarqa,pulses and nuts,Chickpeas,KG,1.58,18/01/1444
+8/15/2022,Zarqa,pulses and nuts,Lentils,KG,1.27,18/01/1444
+8/15/2022,Zarqa,vegetables and fruits,Apples (red),KG,1.68,18/01/1444
+8/15/2022,Zarqa,vegetables and fruits,Bananas,KG,0.82,18/01/1444
+8/15/2022,Zarqa,vegetables and fruits,Cucumbers,KG,0.59,18/01/1444
+8/15/2022,Zarqa,vegetables and fruits,Garlic,KG,3.56,18/01/1444
+8/15/2022,Zarqa,vegetables and fruits,Onions,KG,0.47,18/01/1444
+8/15/2022,Zarqa,vegetables and fruits,Spinach,KG,0.72,18/01/1444
+8/15/2022,Zarqa,vegetables and fruits,Tomatoes,KG,0.36,18/01/1444
+9/15/2022,Ajloun,cereals and tubers,Bread (pita),KG,0.32,19/02/1444
+9/15/2022,Ajloun,cereals and tubers,Bulgur,KG,0.81,19/02/1444
+9/15/2022,Ajloun,cereals and tubers,Pasta,300 G,0.35,19/02/1444
+9/15/2022,Ajloun,cereals and tubers,Potatoes,KG,0.65,19/02/1444
+9/15/2022,Ajloun,cereals and tubers,Rice (imported),KG,1.4,19/02/1444
+9/15/2022,Ajloun,cereals and tubers,Wheat flour,1.5 KG,0.85,19/02/1444
+9/15/2022,Ajloun,"meat, fish and eggs",Eggs,2 KG,2.52,19/02/1444
+9/15/2022,Ajloun,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.22,19/02/1444
+9/15/2022,Ajloun,"meat, fish and eggs",Meat (beef),KG,8.82,19/02/1444
+9/15/2022,Ajloun,"meat, fish and eggs",Meat (chicken),KG,2.2,19/02/1444
+9/15/2022,Ajloun,"meat, fish and eggs","Meat (chicken, whole)",KG,1.54,19/02/1444
+9/15/2022,Ajloun,"meat, fish and eggs",Meat (lamb),KG,10.24,19/02/1444
+9/15/2022,Ajloun,milk and dairy,Cheese (picon),160 G,0.84,19/02/1444
+9/15/2022,Ajloun,milk and dairy,"Cheese (white, boiled)",KG,6.74,19/02/1444
+9/15/2022,Ajloun,milk and dairy,Milk (pasteurized),L,1.2,19/02/1444
+9/15/2022,Ajloun,milk and dairy,Milk (powder),0.8 KG,4.12,19/02/1444
+9/15/2022,Ajloun,miscellaneous food,Salt (iodised),750 G,0.28,19/02/1444
+9/15/2022,Ajloun,miscellaneous food,Sugar,KG,0.74,19/02/1444
+9/15/2022,Ajloun,non-food,Fuel (diesel),L,0.79,19/02/1444
+9/15/2022,Ajloun,non-food,Fuel (gas),12.5 KG,7,19/02/1444
+9/15/2022,Ajloun,non-food,Fuel (kerosene),L,0.79,19/02/1444
+9/15/2022,Ajloun,non-food,Fuel (petrol-gasoline),L,0.98,19/02/1444
+9/15/2022,Ajloun,oil and fats,Oil (olive),L,6,19/02/1444
+9/15/2022,Ajloun,oil and fats,Oil (vegetable),1.8 L,2.6,19/02/1444
+9/15/2022,Ajloun,pulses and nuts,"Beans (fava, dry)",KG,1.56,19/02/1444
+9/15/2022,Ajloun,pulses and nuts,Chickpeas,KG,1.63,19/02/1444
+9/15/2022,Ajloun,pulses and nuts,Lentils,KG,1,19/02/1444
+9/15/2022,Ajloun,vegetables and fruits,Apples (red),KG,1.38,19/02/1444
+9/15/2022,Ajloun,vegetables and fruits,Bananas,KG,0.91,19/02/1444
+9/15/2022,Ajloun,vegetables and fruits,Cucumbers,KG,0.68,19/02/1444
+9/15/2022,Ajloun,vegetables and fruits,Garlic,KG,3.49,19/02/1444
+9/15/2022,Ajloun,vegetables and fruits,Onions,KG,0.54,19/02/1444
+9/15/2022,Ajloun,vegetables and fruits,Oranges (big size),KG,1.19,19/02/1444
+9/15/2022,Ajloun,vegetables and fruits,Spinach,KG,0.63,19/02/1444
+9/15/2022,Ajloun,vegetables and fruits,Tomatoes,KG,0.33,19/02/1444
+9/15/2022,Al Aqaba,cereals and tubers,Bread (pita),KG,0.32,19/02/1444
+9/15/2022,Al Aqaba,cereals and tubers,Bulgur,KG,0.98,19/02/1444
+9/15/2022,Al Aqaba,cereals and tubers,Pasta,300 G,0.37,19/02/1444
+9/15/2022,Al Aqaba,cereals and tubers,Potatoes,KG,0.69,19/02/1444
+9/15/2022,Al Aqaba,cereals and tubers,Rice (imported),KG,1.33,19/02/1444
+9/15/2022,Al Aqaba,cereals and tubers,Wheat flour,1.5 KG,0.95,19/02/1444
+9/15/2022,Al Aqaba,"meat, fish and eggs",Eggs,2 KG,2.47,19/02/1444
+9/15/2022,Al Aqaba,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.2,19/02/1444
+9/15/2022,Al Aqaba,"meat, fish and eggs",Meat (beef),KG,8.72,19/02/1444
+9/15/2022,Al Aqaba,"meat, fish and eggs",Meat (chicken),KG,2.5,19/02/1444
+9/15/2022,Al Aqaba,"meat, fish and eggs","Meat (chicken, whole)",KG,1.4,19/02/1444
+9/15/2022,Al Aqaba,"meat, fish and eggs",Meat (lamb),KG,10.45,19/02/1444
+9/15/2022,Al Aqaba,milk and dairy,Cheese (picon),160 G,0.76,19/02/1444
+9/15/2022,Al Aqaba,milk and dairy,"Cheese (white, boiled)",KG,6.14,19/02/1444
+9/15/2022,Al Aqaba,milk and dairy,Milk (pasteurized),L,1.1,19/02/1444
+9/15/2022,Al Aqaba,milk and dairy,Milk (powder),0.8 KG,4.08,19/02/1444
+9/15/2022,Al Aqaba,miscellaneous food,Salt (iodised),750 G,0.26,19/02/1444
+9/15/2022,Al Aqaba,miscellaneous food,Sugar,KG,0.71,19/02/1444
+9/15/2022,Al Aqaba,non-food,Fuel (diesel),L,0.79,19/02/1444
+9/15/2022,Al Aqaba,non-food,Fuel (gas),12.5 KG,7,19/02/1444
+9/15/2022,Al Aqaba,non-food,Fuel (kerosene),L,0.79,19/02/1444
+9/15/2022,Al Aqaba,non-food,Fuel (petrol-gasoline),L,0.98,19/02/1444
+9/15/2022,Al Aqaba,oil and fats,Oil (olive),L,7.48,19/02/1444
+9/15/2022,Al Aqaba,oil and fats,Oil (vegetable),1.8 L,2.77,19/02/1444
+9/15/2022,Al Aqaba,pulses and nuts,"Beans (fava, dry)",KG,1.58,19/02/1444
+9/15/2022,Al Aqaba,pulses and nuts,Chickpeas,KG,1.83,19/02/1444
+9/15/2022,Al Aqaba,pulses and nuts,Lentils,KG,1.33,19/02/1444
+9/15/2022,Al Aqaba,vegetables and fruits,Apples (red),KG,1.29,19/02/1444
+9/15/2022,Al Aqaba,vegetables and fruits,Cucumbers,KG,0.69,19/02/1444
+9/15/2022,Al Aqaba,vegetables and fruits,Garlic,KG,3.15,19/02/1444
+9/15/2022,Al Aqaba,vegetables and fruits,Onions,KG,0.59,19/02/1444
+9/15/2022,Al Aqaba,vegetables and fruits,Oranges (big size),KG,1,19/02/1444
+9/15/2022,Al Aqaba,vegetables and fruits,Spinach,KG,0.64,19/02/1444
+9/15/2022,Al Aqaba,vegetables and fruits,Tomatoes,KG,0.32,19/02/1444
+9/15/2022,Al Balqa,cereals and tubers,Bread (pita),KG,0.32,19/02/1444
+9/15/2022,Al Balqa,cereals and tubers,Bulgur,KG,1.03,19/02/1444
+9/15/2022,Al Balqa,cereals and tubers,Pasta,300 G,0.35,19/02/1444
+9/15/2022,Al Balqa,cereals and tubers,Potatoes,KG,0.66,19/02/1444
+9/15/2022,Al Balqa,cereals and tubers,Rice (imported),KG,1.41,19/02/1444
+9/15/2022,Al Balqa,cereals and tubers,Wheat flour,1.5 KG,0.89,19/02/1444
+9/15/2022,Al Balqa,"meat, fish and eggs",Eggs,2 KG,2.7,19/02/1444
+9/15/2022,Al Balqa,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.13,19/02/1444
+9/15/2022,Al Balqa,"meat, fish and eggs",Meat (beef),KG,8,19/02/1444
+9/15/2022,Al Balqa,"meat, fish and eggs",Meat (chicken),KG,2.3,19/02/1444
+9/15/2022,Al Balqa,"meat, fish and eggs","Meat (chicken, whole)",KG,1.58,19/02/1444
+9/15/2022,Al Balqa,"meat, fish and eggs",Meat (lamb),KG,10,19/02/1444
+9/15/2022,Al Balqa,milk and dairy,Cheese (picon),160 G,0.85,19/02/1444
+9/15/2022,Al Balqa,milk and dairy,"Cheese (white, boiled)",KG,5.79,19/02/1444
+9/15/2022,Al Balqa,milk and dairy,Milk (pasteurized),L,1,19/02/1444
+9/15/2022,Al Balqa,milk and dairy,Milk (powder),0.8 KG,4.29,19/02/1444
+9/15/2022,Al Balqa,miscellaneous food,Salt (iodised),750 G,0.25,19/02/1444
+9/15/2022,Al Balqa,miscellaneous food,Sugar,KG,0.87,19/02/1444
+9/15/2022,Al Balqa,non-food,Fuel (diesel),L,0.79,19/02/1444
+9/15/2022,Al Balqa,non-food,Fuel (gas),12.5 KG,7,19/02/1444
+9/15/2022,Al Balqa,non-food,Fuel (kerosene),L,0.79,19/02/1444
+9/15/2022,Al Balqa,non-food,Fuel (petrol-gasoline),L,0.98,19/02/1444
+9/15/2022,Al Balqa,oil and fats,Oil (olive),L,6.5,19/02/1444
+9/15/2022,Al Balqa,oil and fats,Oil (vegetable),1.8 L,2.78,19/02/1444
+9/15/2022,Al Balqa,pulses and nuts,"Beans (fava, dry)",KG,1.73,19/02/1444
+9/15/2022,Al Balqa,pulses and nuts,Chickpeas,KG,2.36,19/02/1444
+9/15/2022,Al Balqa,pulses and nuts,Lentils,KG,1.16,19/02/1444
+9/15/2022,Al Balqa,vegetables and fruits,Apples (red),KG,1.25,19/02/1444
+9/15/2022,Al Balqa,vegetables and fruits,Bananas,KG,0.76,19/02/1444
+9/15/2022,Al Balqa,vegetables and fruits,Cucumbers,KG,0.56,19/02/1444
+9/15/2022,Al Balqa,vegetables and fruits,Garlic,KG,3,19/02/1444
+9/15/2022,Al Balqa,vegetables and fruits,Onions,KG,0.5,19/02/1444
+9/15/2022,Al Balqa,vegetables and fruits,Spinach,KG,0.75,19/02/1444
+9/15/2022,Al Balqa,vegetables and fruits,Tomatoes,KG,0.39,19/02/1444
+9/15/2022,Al Karak,cereals and tubers,Bread (pita),KG,0.32,19/02/1444
+9/15/2022,Al Karak,cereals and tubers,Bulgur,KG,1.01,19/02/1444
+9/15/2022,Al Karak,cereals and tubers,Pasta,300 G,0.45,19/02/1444
+9/15/2022,Al Karak,cereals and tubers,Potatoes,KG,0.64,19/02/1444
+9/15/2022,Al Karak,cereals and tubers,Rice (imported),KG,1.3,19/02/1444
+9/15/2022,Al Karak,cereals and tubers,Wheat flour,1.5 KG,1,19/02/1444
+9/15/2022,Al Karak,"meat, fish and eggs",Eggs,2 KG,2.68,19/02/1444
+9/15/2022,Al Karak,"meat, fish and eggs","Fish (tuna, canned)",170 G,0.85,19/02/1444
+9/15/2022,Al Karak,"meat, fish and eggs",Meat (beef),KG,7.83,19/02/1444
+9/15/2022,Al Karak,"meat, fish and eggs",Meat (chicken),KG,2.34,19/02/1444
+9/15/2022,Al Karak,"meat, fish and eggs","Meat (chicken, whole)",KG,1.57,19/02/1444
+9/15/2022,Al Karak,"meat, fish and eggs",Meat (lamb),KG,8.29,19/02/1444
+9/15/2022,Al Karak,milk and dairy,Cheese (picon),160 G,0.8,19/02/1444
+9/15/2022,Al Karak,milk and dairy,"Cheese (white, boiled)",KG,5.69,19/02/1444
+9/15/2022,Al Karak,milk and dairy,Milk (pasteurized),L,1.2,19/02/1444
+9/15/2022,Al Karak,milk and dairy,Milk (powder),0.8 KG,3.87,19/02/1444
+9/15/2022,Al Karak,miscellaneous food,Salt (iodised),750 G,0.3,19/02/1444
+9/15/2022,Al Karak,miscellaneous food,Sugar,KG,0.72,19/02/1444
+9/15/2022,Al Karak,non-food,Fuel (diesel),L,0.79,19/02/1444
+9/15/2022,Al Karak,non-food,Fuel (gas),12.5 KG,7,19/02/1444
+9/15/2022,Al Karak,non-food,Fuel (kerosene),L,0.79,19/02/1444
+9/15/2022,Al Karak,non-food,Fuel (petrol-gasoline),L,0.98,19/02/1444
+9/15/2022,Al Karak,oil and fats,Oil (olive),L,5.32,19/02/1444
+9/15/2022,Al Karak,oil and fats,Oil (vegetable),1.8 L,2.99,19/02/1444
+9/15/2022,Al Karak,pulses and nuts,"Beans (fava, dry)",KG,1.49,19/02/1444
+9/15/2022,Al Karak,pulses and nuts,Chickpeas,KG,2.22,19/02/1444
+9/15/2022,Al Karak,pulses and nuts,Lentils,KG,1.68,19/02/1444
+9/15/2022,Al Karak,vegetables and fruits,Apples (red),KG,1.17,19/02/1444
+9/15/2022,Al Karak,vegetables and fruits,Bananas,KG,0.88,19/02/1444
+9/15/2022,Al Karak,vegetables and fruits,Cucumbers,KG,0.66,19/02/1444
+9/15/2022,Al Karak,vegetables and fruits,Garlic,KG,3.09,19/02/1444
+9/15/2022,Al Karak,vegetables and fruits,Onions,KG,0.52,19/02/1444
+9/15/2022,Al Karak,vegetables and fruits,Oranges (big size),KG,1.61,19/02/1444
+9/15/2022,Al Karak,vegetables and fruits,Spinach,KG,0.71,19/02/1444
+9/15/2022,Al Karak,vegetables and fruits,Tomatoes,KG,0.34,19/02/1444
+9/15/2022,Al Mafraq,cereals and tubers,Bread (pita),KG,0.32,19/02/1444
+9/15/2022,Al Mafraq,cereals and tubers,Bulgur,KG,0.74,19/02/1444
+9/15/2022,Al Mafraq,cereals and tubers,Pasta,300 G,0.35,19/02/1444
+9/15/2022,Al Mafraq,cereals and tubers,Potatoes,KG,0.68,19/02/1444
+9/15/2022,Al Mafraq,cereals and tubers,Rice (imported),KG,1.33,19/02/1444
+9/15/2022,Al Mafraq,cereals and tubers,Wheat flour,1.5 KG,0.83,19/02/1444
+9/15/2022,Al Mafraq,"meat, fish and eggs",Eggs,2 KG,2.5,19/02/1444
+9/15/2022,Al Mafraq,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.22,19/02/1444
+9/15/2022,Al Mafraq,"meat, fish and eggs",Meat (beef),KG,8.16,19/02/1444
+9/15/2022,Al Mafraq,"meat, fish and eggs",Meat (chicken),KG,2,19/02/1444
+9/15/2022,Al Mafraq,"meat, fish and eggs","Meat (chicken, whole)",KG,1.5,19/02/1444
+9/15/2022,Al Mafraq,"meat, fish and eggs",Meat (lamb),KG,10.5,19/02/1444
+9/15/2022,Al Mafraq,milk and dairy,Cheese (picon),160 G,0.79,19/02/1444
+9/15/2022,Al Mafraq,milk and dairy,"Cheese (white, boiled)",KG,6,19/02/1444
+9/15/2022,Al Mafraq,milk and dairy,Milk (pasteurized),L,1.2,19/02/1444
+9/15/2022,Al Mafraq,milk and dairy,Milk (powder),0.8 KG,4.29,19/02/1444
+9/15/2022,Al Mafraq,miscellaneous food,Salt (iodised),750 G,0.3,19/02/1444
+9/15/2022,Al Mafraq,miscellaneous food,Sugar,KG,0.75,19/02/1444
+9/15/2022,Al Mafraq,non-food,Fuel (diesel),L,0.79,19/02/1444
+9/15/2022,Al Mafraq,non-food,Fuel (gas),12.5 KG,7,19/02/1444
+9/15/2022,Al Mafraq,non-food,Fuel (kerosene),L,0.79,19/02/1444
+9/15/2022,Al Mafraq,non-food,Fuel (petrol-gasoline),L,0.98,19/02/1444
+9/15/2022,Al Mafraq,oil and fats,Oil (olive),L,6.34,19/02/1444
+9/15/2022,Al Mafraq,oil and fats,Oil (vegetable),1.8 L,2.77,19/02/1444
+9/15/2022,Al Mafraq,pulses and nuts,"Beans (fava, dry)",KG,1.71,19/02/1444
+9/15/2022,Al Mafraq,pulses and nuts,Chickpeas,KG,1.7,19/02/1444
+9/15/2022,Al Mafraq,pulses and nuts,Lentils,KG,1.21,19/02/1444
+9/15/2022,Al Mafraq,vegetables and fruits,Apples (red),KG,1.49,19/02/1444
+9/15/2022,Al Mafraq,vegetables and fruits,Bananas,KG,0.88,19/02/1444
+9/15/2022,Al Mafraq,vegetables and fruits,Cucumbers,KG,0.62,19/02/1444
+9/15/2022,Al Mafraq,vegetables and fruits,Garlic,KG,3.21,19/02/1444
+9/15/2022,Al Mafraq,vegetables and fruits,Onions,KG,0.58,19/02/1444
+9/15/2022,Al Mafraq,vegetables and fruits,Oranges (big size),KG,1.43,19/02/1444
+9/15/2022,Al Mafraq,vegetables and fruits,Spinach,KG,1.02,19/02/1444
+9/15/2022,Al Mafraq,vegetables and fruits,Tomatoes,KG,0.36,19/02/1444
+9/15/2022,Al Tafilah,cereals and tubers,Bread (pita),KG,0.32,19/02/1444
+9/15/2022,Al Tafilah,cereals and tubers,Bulgur,KG,0.81,19/02/1444
+9/15/2022,Al Tafilah,cereals and tubers,Pasta,300 G,0.37,19/02/1444
+9/15/2022,Al Tafilah,cereals and tubers,Potatoes,KG,0.65,19/02/1444
+9/15/2022,Al Tafilah,cereals and tubers,Rice (imported),KG,1.25,19/02/1444
+9/15/2022,Al Tafilah,cereals and tubers,Wheat flour,1.5 KG,1.04,19/02/1444
+9/15/2022,Al Tafilah,"meat, fish and eggs",Eggs,2 KG,2.5,19/02/1444
+9/15/2022,Al Tafilah,"meat, fish and eggs","Fish (tuna, canned)",170 G,0.87,19/02/1444
+9/15/2022,Al Tafilah,"meat, fish and eggs",Meat (beef),KG,8.05,19/02/1444
+9/15/2022,Al Tafilah,"meat, fish and eggs",Meat (chicken),KG,2.25,19/02/1444
+9/15/2022,Al Tafilah,"meat, fish and eggs","Meat (chicken, whole)",KG,1.5,19/02/1444
+9/15/2022,Al Tafilah,"meat, fish and eggs",Meat (lamb),KG,9.1,19/02/1444
+9/15/2022,Al Tafilah,milk and dairy,Cheese (picon),160 G,0.78,19/02/1444
+9/15/2022,Al Tafilah,milk and dairy,"Cheese (white, boiled)",KG,5.08,19/02/1444
+9/15/2022,Al Tafilah,milk and dairy,Milk (pasteurized),L,1.11,19/02/1444
+9/15/2022,Al Tafilah,milk and dairy,Milk (powder),0.8 KG,4.02,19/02/1444
+9/15/2022,Al Tafilah,miscellaneous food,Salt (iodised),750 G,0.31,19/02/1444
+9/15/2022,Al Tafilah,miscellaneous food,Sugar,KG,0.76,19/02/1444
+9/15/2022,Al Tafilah,non-food,Fuel (diesel),L,0.79,19/02/1444
+9/15/2022,Al Tafilah,non-food,Fuel (gas),12.5 KG,7,19/02/1444
+9/15/2022,Al Tafilah,non-food,Fuel (kerosene),L,0.79,19/02/1444
+9/15/2022,Al Tafilah,non-food,Fuel (petrol-gasoline),L,0.98,19/02/1444
+9/15/2022,Al Tafilah,oil and fats,Oil (olive),L,5.58,19/02/1444
+9/15/2022,Al Tafilah,oil and fats,Oil (vegetable),1.8 L,2.79,19/02/1444
+9/15/2022,Al Tafilah,pulses and nuts,"Beans (fava, dry)",KG,1.41,19/02/1444
+9/15/2022,Al Tafilah,pulses and nuts,Chickpeas,KG,1.75,19/02/1444
+9/15/2022,Al Tafilah,pulses and nuts,Lentils,KG,1.58,19/02/1444
+9/15/2022,Al Tafilah,vegetables and fruits,Apples (red),KG,1.12,19/02/1444
+9/15/2022,Al Tafilah,vegetables and fruits,Bananas,KG,0.91,19/02/1444
+9/15/2022,Al Tafilah,vegetables and fruits,Cucumbers,KG,0.59,19/02/1444
+9/15/2022,Al Tafilah,vegetables and fruits,Garlic,KG,2.86,19/02/1444
+9/15/2022,Al Tafilah,vegetables and fruits,Onions,KG,0.46,19/02/1444
+9/15/2022,Al Tafilah,vegetables and fruits,Spinach,KG,0.75,19/02/1444
+9/15/2022,Al Tafilah,vegetables and fruits,Tomatoes,KG,0.33,19/02/1444
+9/15/2022,Amman,cereals and tubers,Bread (pita),KG,0.32,19/02/1444
+9/15/2022,Amman,cereals and tubers,Bulgur,KG,0.87,19/02/1444
+9/15/2022,Amman,cereals and tubers,Pasta,300 G,0.35,19/02/1444
+9/15/2022,Amman,cereals and tubers,Potatoes,KG,0.77,19/02/1444
+9/15/2022,Amman,cereals and tubers,Rice (imported),KG,1.36,19/02/1444
+9/15/2022,Amman,cereals and tubers,Wheat flour,1.5 KG,0.85,19/02/1444
+9/15/2022,Amman,"meat, fish and eggs",Eggs,2 KG,2.78,19/02/1444
+9/15/2022,Amman,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.15,19/02/1444
+9/15/2022,Amman,"meat, fish and eggs",Meat (beef),KG,8.91,19/02/1444
+9/15/2022,Amman,"meat, fish and eggs",Meat (chicken),KG,2.32,19/02/1444
+9/15/2022,Amman,"meat, fish and eggs","Meat (chicken, whole)",KG,1.54,19/02/1444
+9/15/2022,Amman,"meat, fish and eggs",Meat (lamb),KG,10.5,19/02/1444
+9/15/2022,Amman,milk and dairy,Cheese (picon),160 G,0.79,19/02/1444
+9/15/2022,Amman,milk and dairy,"Cheese (white, boiled)",KG,6.26,19/02/1444
+9/15/2022,Amman,milk and dairy,Milk (pasteurized),L,1.06,19/02/1444
+9/15/2022,Amman,milk and dairy,Milk (powder),0.8 KG,4.16,19/02/1444
+9/15/2022,Amman,miscellaneous food,Salt (iodised),750 G,0.3,19/02/1444
+9/15/2022,Amman,miscellaneous food,Sugar,KG,0.69,19/02/1444
+9/15/2022,Amman,non-food,Fuel (diesel),L,0.79,19/02/1444
+9/15/2022,Amman,non-food,Fuel (gas),12.5 KG,7,19/02/1444
+9/15/2022,Amman,non-food,Fuel (kerosene),L,0.79,19/02/1444
+9/15/2022,Amman,non-food,Fuel (petrol-gasoline),L,0.98,19/02/1444
+9/15/2022,Amman,oil and fats,Oil (olive),L,7.13,19/02/1444
+9/15/2022,Amman,oil and fats,Oil (vegetable),1.8 L,2.78,19/02/1444
+9/15/2022,Amman,pulses and nuts,"Beans (fava, dry)",KG,1.69,19/02/1444
+9/15/2022,Amman,pulses and nuts,Chickpeas,KG,1.87,19/02/1444
+9/15/2022,Amman,pulses and nuts,Lentils,KG,1.28,19/02/1444
+9/15/2022,Amman,vegetables and fruits,Apples (red),KG,2.01,19/02/1444
+9/15/2022,Amman,vegetables and fruits,Bananas,KG,0.91,19/02/1444
+9/15/2022,Amman,vegetables and fruits,Cucumbers,KG,0.68,19/02/1444
+9/15/2022,Amman,vegetables and fruits,Garlic,KG,3.88,19/02/1444
+9/15/2022,Amman,vegetables and fruits,Onions,KG,0.57,19/02/1444
+9/15/2022,Amman,vegetables and fruits,Oranges (big size),KG,1.62,19/02/1444
+9/15/2022,Amman,vegetables and fruits,Spinach,KG,0.76,19/02/1444
+9/15/2022,Amman,vegetables and fruits,Tomatoes,KG,0.45,19/02/1444
+9/15/2022,Irbid,cereals and tubers,Bread (pita),KG,0.33,19/02/1444
+9/15/2022,Irbid,cereals and tubers,Bulgur,KG,0.97,19/02/1444
+9/15/2022,Irbid,cereals and tubers,Pasta,300 G,0.34,19/02/1444
+9/15/2022,Irbid,cereals and tubers,Potatoes,KG,0.73,19/02/1444
+9/15/2022,Irbid,cereals and tubers,Rice (imported),KG,1.41,19/02/1444
+9/15/2022,Irbid,cereals and tubers,Wheat flour,1.5 KG,0.89,19/02/1444
+9/15/2022,Irbid,"meat, fish and eggs",Eggs,2 KG,2.93,19/02/1444
+9/15/2022,Irbid,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.22,19/02/1444
+9/15/2022,Irbid,"meat, fish and eggs",Meat (beef),KG,8.89,19/02/1444
+9/15/2022,Irbid,"meat, fish and eggs",Meat (chicken),KG,2.18,19/02/1444
+9/15/2022,Irbid,"meat, fish and eggs","Meat (chicken, whole)",KG,1.6,19/02/1444
+9/15/2022,Irbid,"meat, fish and eggs",Meat (lamb),KG,10.39,19/02/1444
+9/15/2022,Irbid,milk and dairy,Cheese (picon),160 G,0.77,19/02/1444
+9/15/2022,Irbid,milk and dairy,"Cheese (white, boiled)",KG,5.85,19/02/1444
+9/15/2022,Irbid,milk and dairy,Milk (pasteurized),L,1.02,19/02/1444
+9/15/2022,Irbid,milk and dairy,Milk (powder),0.8 KG,4.07,19/02/1444
+9/15/2022,Irbid,miscellaneous food,Salt (iodised),750 G,0.28,19/02/1444
+9/15/2022,Irbid,miscellaneous food,Sugar,KG,0.72,19/02/1444
+9/15/2022,Irbid,non-food,Fuel (diesel),L,0.79,19/02/1444
+9/15/2022,Irbid,non-food,Fuel (gas),12.5 KG,7,19/02/1444
+9/15/2022,Irbid,non-food,Fuel (kerosene),L,0.79,19/02/1444
+9/15/2022,Irbid,non-food,Fuel (petrol-gasoline),L,0.98,19/02/1444
+9/15/2022,Irbid,oil and fats,Oil (olive),L,6.47,19/02/1444
+9/15/2022,Irbid,oil and fats,Oil (vegetable),1.8 L,2.57,19/02/1444
+9/15/2022,Irbid,pulses and nuts,"Beans (fava, dry)",KG,1.48,19/02/1444
+9/15/2022,Irbid,pulses and nuts,Chickpeas,KG,1.75,19/02/1444
+9/15/2022,Irbid,pulses and nuts,Lentils,KG,1.34,19/02/1444
+9/15/2022,Irbid,vegetables and fruits,Apples (red),KG,1.57,19/02/1444
+9/15/2022,Irbid,vegetables and fruits,Bananas,KG,0.89,19/02/1444
+9/15/2022,Irbid,vegetables and fruits,Cucumbers,KG,0.67,19/02/1444
+9/15/2022,Irbid,vegetables and fruits,Garlic,KG,3.71,19/02/1444
+9/15/2022,Irbid,vegetables and fruits,Onions,KG,0.58,19/02/1444
+9/15/2022,Irbid,vegetables and fruits,Oranges (big size),KG,1.6,19/02/1444
+9/15/2022,Irbid,vegetables and fruits,Spinach,KG,0.93,19/02/1444
+9/15/2022,Irbid,vegetables and fruits,Tomatoes,KG,0.41,19/02/1444
+9/15/2022,Jarash,cereals and tubers,Bread (pita),KG,0.35,19/02/1444
+9/15/2022,Jarash,cereals and tubers,Bulgur,KG,0.83,19/02/1444
+9/15/2022,Jarash,cereals and tubers,Pasta,300 G,0.34,19/02/1444
+9/15/2022,Jarash,cereals and tubers,Potatoes,KG,0.73,19/02/1444
+9/15/2022,Jarash,cereals and tubers,Rice (imported),KG,1.36,19/02/1444
+9/15/2022,Jarash,cereals and tubers,Wheat flour,1.5 KG,1.41,19/02/1444
+9/15/2022,Jarash,"meat, fish and eggs",Eggs,2 KG,2.45,19/02/1444
+9/15/2022,Jarash,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.19,19/02/1444
+9/15/2022,Jarash,"meat, fish and eggs",Meat (beef),KG,8.74,19/02/1444
+9/15/2022,Jarash,"meat, fish and eggs",Meat (chicken),KG,1.92,19/02/1444
+9/15/2022,Jarash,"meat, fish and eggs","Meat (chicken, whole)",KG,1.46,19/02/1444
+9/15/2022,Jarash,"meat, fish and eggs",Meat (lamb),KG,10.61,19/02/1444
+9/15/2022,Jarash,milk and dairy,Cheese (picon),160 G,0.77,19/02/1444
+9/15/2022,Jarash,milk and dairy,"Cheese (white, boiled)",KG,6,19/02/1444
+9/15/2022,Jarash,milk and dairy,Milk (pasteurized),L,1.16,19/02/1444
+9/15/2022,Jarash,milk and dairy,Milk (powder),0.8 KG,3.9,19/02/1444
+9/15/2022,Jarash,miscellaneous food,Salt (iodised),750 G,0.29,19/02/1444
+9/15/2022,Jarash,miscellaneous food,Sugar,KG,0.71,19/02/1444
+9/15/2022,Jarash,non-food,Fuel (diesel),L,0.79,19/02/1444
+9/15/2022,Jarash,non-food,Fuel (gas),12.5 KG,7,19/02/1444
+9/15/2022,Jarash,non-food,Fuel (kerosene),L,0.79,19/02/1444
+9/15/2022,Jarash,non-food,Fuel (petrol-gasoline),L,0.98,19/02/1444
+9/15/2022,Jarash,oil and fats,Oil (olive),L,6,19/02/1444
+9/15/2022,Jarash,oil and fats,Oil (vegetable),1.8 L,2.71,19/02/1444
+9/15/2022,Jarash,pulses and nuts,"Beans (fava, dry)",KG,1.63,19/02/1444
+9/15/2022,Jarash,pulses and nuts,Chickpeas,KG,1.72,19/02/1444
+9/15/2022,Jarash,pulses and nuts,Lentils,KG,1.19,19/02/1444
+9/15/2022,Jarash,vegetables and fruits,Apples (red),KG,1.46,19/02/1444
+9/15/2022,Jarash,vegetables and fruits,Bananas,KG,0.86,19/02/1444
+9/15/2022,Jarash,vegetables and fruits,Cucumbers,KG,0.76,19/02/1444
+9/15/2022,Jarash,vegetables and fruits,Garlic,KG,3.59,19/02/1444
+9/15/2022,Jarash,vegetables and fruits,Onions,KG,0.55,19/02/1444
+9/15/2022,Jarash,vegetables and fruits,Spinach,KG,0.87,19/02/1444
+9/15/2022,Jarash,vegetables and fruits,Tomatoes,KG,0.35,19/02/1444
+9/15/2022,Maan,cereals and tubers,Bread (pita),KG,0.32,19/02/1444
+9/15/2022,Maan,cereals and tubers,Bulgur,KG,0.94,19/02/1444
+9/15/2022,Maan,cereals and tubers,Pasta,300 G,0.36,19/02/1444
+9/15/2022,Maan,cereals and tubers,Potatoes,KG,0.59,19/02/1444
+9/15/2022,Maan,cereals and tubers,Rice (imported),KG,1.26,19/02/1444
+9/15/2022,Maan,cereals and tubers,Wheat flour,1.5 KG,0.95,19/02/1444
+9/15/2022,Maan,"meat, fish and eggs",Eggs,2 KG,2.87,19/02/1444
+9/15/2022,Maan,"meat, fish and eggs","Fish (tuna, canned)",170 G,0.91,19/02/1444
+9/15/2022,Maan,"meat, fish and eggs",Meat (beef),KG,7.61,19/02/1444
+9/15/2022,Maan,"meat, fish and eggs",Meat (chicken),KG,2.1,19/02/1444
+9/15/2022,Maan,"meat, fish and eggs","Meat (chicken, whole)",KG,1.69,19/02/1444
+9/15/2022,Maan,"meat, fish and eggs",Meat (lamb),KG,9.09,19/02/1444
+9/15/2022,Maan,milk and dairy,Cheese (picon),160 G,0.75,19/02/1444
+9/15/2022,Maan,milk and dairy,"Cheese (white, boiled)",KG,5.06,19/02/1444
+9/15/2022,Maan,milk and dairy,Milk (pasteurized),L,1.11,19/02/1444
+9/15/2022,Maan,milk and dairy,Milk (powder),0.8 KG,4.08,19/02/1444
+9/15/2022,Maan,miscellaneous food,Salt (iodised),750 G,0.25,19/02/1444
+9/15/2022,Maan,miscellaneous food,Sugar,KG,0.73,19/02/1444
+9/15/2022,Maan,non-food,Fuel (diesel),L,0.79,19/02/1444
+9/15/2022,Maan,non-food,Fuel (gas),12.5 KG,7,19/02/1444
+9/15/2022,Maan,non-food,Fuel (kerosene),L,0.79,19/02/1444
+9/15/2022,Maan,non-food,Fuel (petrol-gasoline),L,0.98,19/02/1444
+9/15/2022,Maan,oil and fats,Oil (olive),L,6.09,19/02/1444
+9/15/2022,Maan,oil and fats,Oil (vegetable),1.8 L,2.77,19/02/1444
+9/15/2022,Maan,pulses and nuts,"Beans (fava, dry)",KG,1.25,19/02/1444
+9/15/2022,Maan,pulses and nuts,Chickpeas,KG,2.14,19/02/1444
+9/15/2022,Maan,pulses and nuts,Lentils,KG,1.13,19/02/1444
+9/15/2022,Maan,vegetables and fruits,Apples (red),KG,1.6,19/02/1444
+9/15/2022,Maan,vegetables and fruits,Bananas,KG,0.9,19/02/1444
+9/15/2022,Maan,vegetables and fruits,Cucumbers,KG,0.51,19/02/1444
+9/15/2022,Maan,vegetables and fruits,Garlic,KG,3.27,19/02/1444
+9/15/2022,Maan,vegetables and fruits,Onions,KG,0.49,19/02/1444
+9/15/2022,Maan,vegetables and fruits,Tomatoes,KG,0.32,19/02/1444
+9/15/2022,Madaba,cereals and tubers,Bread (pita),KG,0.32,19/02/1444
+9/15/2022,Madaba,cereals and tubers,Bulgur,KG,0.96,19/02/1444
+9/15/2022,Madaba,cereals and tubers,Pasta,300 G,0.39,19/02/1444
+9/15/2022,Madaba,cereals and tubers,Potatoes,KG,0.69,19/02/1444
+9/15/2022,Madaba,cereals and tubers,Rice (imported),KG,1.36,19/02/1444
+9/15/2022,Madaba,cereals and tubers,Wheat flour,1.5 KG,1.12,19/02/1444
+9/15/2022,Madaba,"meat, fish and eggs",Eggs,2 KG,2.58,19/02/1444
+9/15/2022,Madaba,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.2,19/02/1444
+9/15/2022,Madaba,"meat, fish and eggs",Meat (beef),KG,9,19/02/1444
+9/15/2022,Madaba,"meat, fish and eggs",Meat (chicken),KG,1.75,19/02/1444
+9/15/2022,Madaba,"meat, fish and eggs","Meat (chicken, whole)",KG,1.57,19/02/1444
+9/15/2022,Madaba,"meat, fish and eggs",Meat (lamb),KG,11,19/02/1444
+9/15/2022,Madaba,milk and dairy,Cheese (picon),160 G,0.82,19/02/1444
+9/15/2022,Madaba,milk and dairy,"Cheese (white, boiled)",KG,5.75,19/02/1444
+9/15/2022,Madaba,milk and dairy,Milk (pasteurized),L,1.03,19/02/1444
+9/15/2022,Madaba,milk and dairy,Milk (powder),0.8 KG,4.29,19/02/1444
+9/15/2022,Madaba,miscellaneous food,Salt (iodised),750 G,0.28,19/02/1444
+9/15/2022,Madaba,miscellaneous food,Sugar,KG,0.74,19/02/1444
+9/15/2022,Madaba,non-food,Fuel (diesel),L,0.79,19/02/1444
+9/15/2022,Madaba,non-food,Fuel (gas),12.5 KG,7,19/02/1444
+9/15/2022,Madaba,non-food,Fuel (kerosene),L,0.79,19/02/1444
+9/15/2022,Madaba,non-food,Fuel (petrol-gasoline),L,0.98,19/02/1444
+9/15/2022,Madaba,oil and fats,Oil (olive),L,6.75,19/02/1444
+9/15/2022,Madaba,oil and fats,Oil (vegetable),1.8 L,2.6,19/02/1444
+9/15/2022,Madaba,pulses and nuts,"Beans (fava, dry)",KG,1.31,19/02/1444
+9/15/2022,Madaba,pulses and nuts,Chickpeas,KG,2.05,19/02/1444
+9/15/2022,Madaba,pulses and nuts,Lentils,KG,1.06,19/02/1444
+9/15/2022,Madaba,vegetables and fruits,Apples (red),KG,1.2,19/02/1444
+9/15/2022,Madaba,vegetables and fruits,Bananas,KG,0.92,19/02/1444
+9/15/2022,Madaba,vegetables and fruits,Cucumbers,KG,0.67,19/02/1444
+9/15/2022,Madaba,vegetables and fruits,Garlic,KG,3.14,19/02/1444
+9/15/2022,Madaba,vegetables and fruits,Onions,KG,0.53,19/02/1444
+9/15/2022,Madaba,vegetables and fruits,Spinach,KG,0.9,19/02/1444
+9/15/2022,Madaba,vegetables and fruits,Tomatoes,KG,0.36,19/02/1444
+9/15/2022,Zarqa,cereals and tubers,Bread (pita),KG,0.32,19/02/1444
+9/15/2022,Zarqa,cereals and tubers,Bulgur,KG,0.86,19/02/1444
+9/15/2022,Zarqa,cereals and tubers,Pasta,300 G,0.35,19/02/1444
+9/15/2022,Zarqa,cereals and tubers,Potatoes,KG,0.73,19/02/1444
+9/15/2022,Zarqa,cereals and tubers,Rice (imported),KG,1.25,19/02/1444
+9/15/2022,Zarqa,cereals and tubers,Wheat flour,1.5 KG,0.88,19/02/1444
+9/15/2022,Zarqa,"meat, fish and eggs",Eggs,2 KG,2.67,19/02/1444
+9/15/2022,Zarqa,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.3,19/02/1444
+9/15/2022,Zarqa,"meat, fish and eggs",Meat (beef),KG,10.02,19/02/1444
+9/15/2022,Zarqa,"meat, fish and eggs",Meat (chicken),KG,2.3,19/02/1444
+9/15/2022,Zarqa,"meat, fish and eggs","Meat (chicken, whole)",KG,1.48,19/02/1444
+9/15/2022,Zarqa,"meat, fish and eggs",Meat (lamb),KG,9.65,19/02/1444
+9/15/2022,Zarqa,milk and dairy,Cheese (picon),160 G,0.76,19/02/1444
+9/15/2022,Zarqa,milk and dairy,"Cheese (white, boiled)",KG,5.05,19/02/1444
+9/15/2022,Zarqa,milk and dairy,Milk (pasteurized),L,0.99,19/02/1444
+9/15/2022,Zarqa,milk and dairy,Milk (powder),0.8 KG,4.23,19/02/1444
+9/15/2022,Zarqa,miscellaneous food,Salt (iodised),750 G,0.28,19/02/1444
+9/15/2022,Zarqa,miscellaneous food,Sugar,KG,0.7,19/02/1444
+9/15/2022,Zarqa,non-food,Fuel (diesel),L,0.79,19/02/1444
+9/15/2022,Zarqa,non-food,Fuel (gas),12.5 KG,7,19/02/1444
+9/15/2022,Zarqa,non-food,Fuel (kerosene),L,0.79,19/02/1444
+9/15/2022,Zarqa,non-food,Fuel (petrol-gasoline),L,0.98,19/02/1444
+9/15/2022,Zarqa,oil and fats,Oil (olive),L,6.46,19/02/1444
+9/15/2022,Zarqa,oil and fats,Oil (vegetable),1.8 L,2.85,19/02/1444
+9/15/2022,Zarqa,pulses and nuts,"Beans (fava, dry)",KG,1.53,19/02/1444
+9/15/2022,Zarqa,pulses and nuts,Chickpeas,KG,1.58,19/02/1444
+9/15/2022,Zarqa,pulses and nuts,Lentils,KG,1.27,19/02/1444
+9/15/2022,Zarqa,vegetables and fruits,Apples (red),KG,1.86,19/02/1444
+9/15/2022,Zarqa,vegetables and fruits,Bananas,KG,0.82,19/02/1444
+9/15/2022,Zarqa,vegetables and fruits,Cucumbers,KG,0.66,19/02/1444
+9/15/2022,Zarqa,vegetables and fruits,Garlic,KG,3.77,19/02/1444
+9/15/2022,Zarqa,vegetables and fruits,Onions,KG,0.53,19/02/1444
+9/15/2022,Zarqa,vegetables and fruits,Oranges (big size),KG,1.73,19/02/1444
+9/15/2022,Zarqa,vegetables and fruits,Tomatoes,KG,0.38,19/02/1444
+10/15/2022,Ajloun,cereals and tubers,Bread (pita),KG,0.32,20/03/1444
+10/15/2022,Ajloun,cereals and tubers,Bulgur,KG,0.81,20/03/1444
+10/15/2022,Ajloun,cereals and tubers,Pasta,300 G,0.35,20/03/1444
+10/15/2022,Ajloun,cereals and tubers,Potatoes,KG,0.71,20/03/1444
+10/15/2022,Ajloun,cereals and tubers,Rice (imported),KG,1.37,20/03/1444
+10/15/2022,Ajloun,cereals and tubers,Wheat flour,1.5 KG,0.85,20/03/1444
+10/15/2022,Ajloun,"meat, fish and eggs",Eggs,2 KG,2.74,20/03/1444
+10/15/2022,Ajloun,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.22,20/03/1444
+10/15/2022,Ajloun,"meat, fish and eggs",Meat (beef),KG,8.62,20/03/1444
+10/15/2022,Ajloun,"meat, fish and eggs",Meat (chicken),KG,2.02,20/03/1444
+10/15/2022,Ajloun,"meat, fish and eggs","Meat (chicken, whole)",KG,1.42,20/03/1444
+10/15/2022,Ajloun,"meat, fish and eggs",Meat (lamb),KG,10.49,20/03/1444
+10/15/2022,Ajloun,milk and dairy,Cheese (picon),160 G,0.84,20/03/1444
+10/15/2022,Ajloun,milk and dairy,"Cheese (white, boiled)",KG,6.74,20/03/1444
+10/15/2022,Ajloun,milk and dairy,Milk (pasteurized),L,1.2,20/03/1444
+10/15/2022,Ajloun,milk and dairy,Milk (powder),0.8 KG,4.12,20/03/1444
+10/15/2022,Ajloun,miscellaneous food,Salt (iodised),750 G,0.28,20/03/1444
+10/15/2022,Ajloun,miscellaneous food,Sugar,KG,0.74,20/03/1444
+10/15/2022,Ajloun,non-food,Fuel (diesel),L,0.82,20/03/1444
+10/15/2022,Ajloun,non-food,Fuel (gas),12.5 KG,7,20/03/1444
+10/15/2022,Ajloun,non-food,Fuel (kerosene),L,0.82,20/03/1444
+10/15/2022,Ajloun,non-food,Fuel (petrol-gasoline),L,0.93,20/03/1444
+10/15/2022,Ajloun,oil and fats,Oil (olive),L,6,20/03/1444
+10/15/2022,Ajloun,oil and fats,Oil (vegetable),1.8 L,2.48,20/03/1444
+10/15/2022,Ajloun,pulses and nuts,"Beans (fava, dry)",KG,1.56,20/03/1444
+10/15/2022,Ajloun,pulses and nuts,Chickpeas,KG,1.63,20/03/1444
+10/15/2022,Ajloun,pulses and nuts,Lentils,KG,1,20/03/1444
+10/15/2022,Ajloun,vegetables and fruits,Apples (red),KG,1.36,20/03/1444
+10/15/2022,Ajloun,vegetables and fruits,Bananas,KG,0.88,20/03/1444
+10/15/2022,Ajloun,vegetables and fruits,Cucumbers,KG,0.65,20/03/1444
+10/15/2022,Ajloun,vegetables and fruits,Garlic,KG,3.35,20/03/1444
+10/15/2022,Ajloun,vegetables and fruits,Onions,KG,0.61,20/03/1444
+10/15/2022,Ajloun,vegetables and fruits,Oranges (big size),KG,1.45,20/03/1444
+10/15/2022,Ajloun,vegetables and fruits,Spinach,KG,0.74,20/03/1444
+10/15/2022,Ajloun,vegetables and fruits,Tomatoes,KG,0.31,20/03/1444
+10/15/2022,Al Aqaba,cereals and tubers,Bread (pita),KG,0.32,20/03/1444
+10/15/2022,Al Aqaba,cereals and tubers,Bulgur,KG,0.98,20/03/1444
+10/15/2022,Al Aqaba,cereals and tubers,Pasta,300 G,0.37,20/03/1444
+10/15/2022,Al Aqaba,cereals and tubers,Potatoes,KG,0.78,20/03/1444
+10/15/2022,Al Aqaba,cereals and tubers,Rice (imported),KG,1.33,20/03/1444
+10/15/2022,Al Aqaba,cereals and tubers,Wheat flour,1.5 KG,0.95,20/03/1444
+10/15/2022,Al Aqaba,"meat, fish and eggs",Eggs,2 KG,2.56,20/03/1444
+10/15/2022,Al Aqaba,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.21,20/03/1444
+10/15/2022,Al Aqaba,"meat, fish and eggs",Meat (beef),KG,8.74,20/03/1444
+10/15/2022,Al Aqaba,"meat, fish and eggs",Meat (chicken),KG,2.5,20/03/1444
+10/15/2022,Al Aqaba,"meat, fish and eggs","Meat (chicken, whole)",KG,1.4,20/03/1444
+10/15/2022,Al Aqaba,"meat, fish and eggs",Meat (lamb),KG,10.49,20/03/1444
+10/15/2022,Al Aqaba,milk and dairy,Cheese (picon),160 G,0.77,20/03/1444
+10/15/2022,Al Aqaba,milk and dairy,"Cheese (white, boiled)",KG,6.25,20/03/1444
+10/15/2022,Al Aqaba,milk and dairy,Milk (pasteurized),L,1.1,20/03/1444
+10/15/2022,Al Aqaba,milk and dairy,Milk (powder),0.8 KG,4.08,20/03/1444
+10/15/2022,Al Aqaba,miscellaneous food,Salt (iodised),750 G,0.26,20/03/1444
+10/15/2022,Al Aqaba,miscellaneous food,Sugar,KG,0.72,20/03/1444
+10/15/2022,Al Aqaba,non-food,Fuel (diesel),L,0.82,20/03/1444
+10/15/2022,Al Aqaba,non-food,Fuel (gas),12.5 KG,7,20/03/1444
+10/15/2022,Al Aqaba,non-food,Fuel (kerosene),L,0.82,20/03/1444
+10/15/2022,Al Aqaba,non-food,Fuel (petrol-gasoline),L,0.93,20/03/1444
+10/15/2022,Al Aqaba,oil and fats,Oil (olive),L,7.48,20/03/1444
+10/15/2022,Al Aqaba,oil and fats,Oil (vegetable),1.8 L,2.77,20/03/1444
+10/15/2022,Al Aqaba,pulses and nuts,"Beans (fava, dry)",KG,1.58,20/03/1444
+10/15/2022,Al Aqaba,pulses and nuts,Chickpeas,KG,1.83,20/03/1444
+10/15/2022,Al Aqaba,pulses and nuts,Lentils,KG,1.33,20/03/1444
+10/15/2022,Al Aqaba,vegetables and fruits,Apples (red),KG,1.28,20/03/1444
+10/15/2022,Al Aqaba,vegetables and fruits,Cucumbers,KG,0.72,20/03/1444
+10/15/2022,Al Aqaba,vegetables and fruits,Garlic,KG,2.09,20/03/1444
+10/15/2022,Al Aqaba,vegetables and fruits,Onions,KG,0.65,20/03/1444
+10/15/2022,Al Aqaba,vegetables and fruits,Oranges (big size),KG,0.75,20/03/1444
+10/15/2022,Al Aqaba,vegetables and fruits,Spinach,KG,0.64,20/03/1444
+10/15/2022,Al Aqaba,vegetables and fruits,Tomatoes,KG,0.48,20/03/1444
+10/15/2022,Al Balqa,cereals and tubers,Bread (pita),KG,0.32,20/03/1444
+10/15/2022,Al Balqa,cereals and tubers,Bulgur,KG,1.03,20/03/1444
+10/15/2022,Al Balqa,cereals and tubers,Pasta,300 G,0.35,20/03/1444
+10/15/2022,Al Balqa,cereals and tubers,Potatoes,KG,0.68,20/03/1444
+10/15/2022,Al Balqa,cereals and tubers,Rice (imported),KG,1.41,20/03/1444
+10/15/2022,Al Balqa,cereals and tubers,Wheat flour,1.5 KG,0.89,20/03/1444
+10/15/2022,Al Balqa,"meat, fish and eggs",Eggs,2 KG,2.79,20/03/1444
+10/15/2022,Al Balqa,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.13,20/03/1444
+10/15/2022,Al Balqa,"meat, fish and eggs",Meat (beef),KG,8,20/03/1444
+10/15/2022,Al Balqa,"meat, fish and eggs",Meat (chicken),KG,2.3,20/03/1444
+10/15/2022,Al Balqa,"meat, fish and eggs","Meat (chicken, whole)",KG,1.6,20/03/1444
+10/15/2022,Al Balqa,"meat, fish and eggs",Meat (lamb),KG,10,20/03/1444
+10/15/2022,Al Balqa,milk and dairy,Cheese (picon),160 G,0.85,20/03/1444
+10/15/2022,Al Balqa,milk and dairy,"Cheese (white, boiled)",KG,5.79,20/03/1444
+10/15/2022,Al Balqa,milk and dairy,Milk (pasteurized),L,1,20/03/1444
+10/15/2022,Al Balqa,milk and dairy,Milk (powder),0.8 KG,4.29,20/03/1444
+10/15/2022,Al Balqa,miscellaneous food,Salt (iodised),750 G,0.25,20/03/1444
+10/15/2022,Al Balqa,miscellaneous food,Sugar,KG,0.87,20/03/1444
+10/15/2022,Al Balqa,non-food,Fuel (diesel),L,0.82,20/03/1444
+10/15/2022,Al Balqa,non-food,Fuel (gas),12.5 KG,7,20/03/1444
+10/15/2022,Al Balqa,non-food,Fuel (kerosene),L,0.82,20/03/1444
+10/15/2022,Al Balqa,non-food,Fuel (petrol-gasoline),L,0.93,20/03/1444
+10/15/2022,Al Balqa,oil and fats,Oil (olive),L,6.5,20/03/1444
+10/15/2022,Al Balqa,oil and fats,Oil (vegetable),1.8 L,2.78,20/03/1444
+10/15/2022,Al Balqa,pulses and nuts,"Beans (fava, dry)",KG,1.73,20/03/1444
+10/15/2022,Al Balqa,pulses and nuts,Chickpeas,KG,2.36,20/03/1444
+10/15/2022,Al Balqa,pulses and nuts,Lentils,KG,1.16,20/03/1444
+10/15/2022,Al Balqa,vegetables and fruits,Apples (red),KG,1.25,20/03/1444
+10/15/2022,Al Balqa,vegetables and fruits,Bananas,KG,0.75,20/03/1444
+10/15/2022,Al Balqa,vegetables and fruits,Cucumbers,KG,0.63,20/03/1444
+10/15/2022,Al Balqa,vegetables and fruits,Garlic,KG,2.38,20/03/1444
+10/15/2022,Al Balqa,vegetables and fruits,Onions,KG,0.52,20/03/1444
+10/15/2022,Al Balqa,vegetables and fruits,Spinach,KG,0.74,20/03/1444
+10/15/2022,Al Balqa,vegetables and fruits,Tomatoes,KG,0.4,20/03/1444
+10/15/2022,Al Karak,cereals and tubers,Bread (pita),KG,0.32,20/03/1444
+10/15/2022,Al Karak,cereals and tubers,Bulgur,KG,1.01,20/03/1444
+10/15/2022,Al Karak,cereals and tubers,Pasta,300 G,0.45,20/03/1444
+10/15/2022,Al Karak,cereals and tubers,Potatoes,KG,0.73,20/03/1444
+10/15/2022,Al Karak,cereals and tubers,Rice (imported),KG,1.3,20/03/1444
+10/15/2022,Al Karak,cereals and tubers,Wheat flour,1.5 KG,1,20/03/1444
+10/15/2022,Al Karak,"meat, fish and eggs",Eggs,2 KG,2.79,20/03/1444
+10/15/2022,Al Karak,"meat, fish and eggs","Fish (tuna, canned)",170 G,0.85,20/03/1444
+10/15/2022,Al Karak,"meat, fish and eggs",Meat (beef),KG,8,20/03/1444
+10/15/2022,Al Karak,"meat, fish and eggs",Meat (chicken),KG,2.34,20/03/1444
+10/15/2022,Al Karak,"meat, fish and eggs","Meat (chicken, whole)",KG,1.31,20/03/1444
+10/15/2022,Al Karak,"meat, fish and eggs",Meat (lamb),KG,8.5,20/03/1444
+10/15/2022,Al Karak,milk and dairy,Cheese (picon),160 G,0.79,20/03/1444
+10/15/2022,Al Karak,milk and dairy,"Cheese (white, boiled)",KG,5.69,20/03/1444
+10/15/2022,Al Karak,milk and dairy,Milk (pasteurized),L,1.2,20/03/1444
+10/15/2022,Al Karak,milk and dairy,Milk (powder),0.8 KG,3.95,20/03/1444
+10/15/2022,Al Karak,miscellaneous food,Salt (iodised),750 G,0.3,20/03/1444
+10/15/2022,Al Karak,miscellaneous food,Sugar,KG,0.72,20/03/1444
+10/15/2022,Al Karak,non-food,Fuel (diesel),L,0.82,20/03/1444
+10/15/2022,Al Karak,non-food,Fuel (gas),12.5 KG,7,20/03/1444
+10/15/2022,Al Karak,non-food,Fuel (kerosene),L,0.82,20/03/1444
+10/15/2022,Al Karak,non-food,Fuel (petrol-gasoline),L,0.93,20/03/1444
+10/15/2022,Al Karak,oil and fats,Oil (olive),L,5.32,20/03/1444
+10/15/2022,Al Karak,oil and fats,Oil (vegetable),1.8 L,3.19,20/03/1444
+10/15/2022,Al Karak,pulses and nuts,"Beans (fava, dry)",KG,1.49,20/03/1444
+10/15/2022,Al Karak,pulses and nuts,Chickpeas,KG,2.22,20/03/1444
+10/15/2022,Al Karak,pulses and nuts,Lentils,KG,1.68,20/03/1444
+10/15/2022,Al Karak,vegetables and fruits,Apples (red),KG,1.32,20/03/1444
+10/15/2022,Al Karak,vegetables and fruits,Bananas,KG,0.91,20/03/1444
+10/15/2022,Al Karak,vegetables and fruits,Cucumbers,KG,0.68,20/03/1444
+10/15/2022,Al Karak,vegetables and fruits,Garlic,KG,2.77,20/03/1444
+10/15/2022,Al Karak,vegetables and fruits,Onions,KG,0.58,20/03/1444
+10/15/2022,Al Karak,vegetables and fruits,Oranges (big size),KG,1.48,20/03/1444
+10/15/2022,Al Karak,vegetables and fruits,Spinach,KG,0.79,20/03/1444
+10/15/2022,Al Karak,vegetables and fruits,Tomatoes,KG,0.32,20/03/1444
+10/15/2022,Al Mafraq,cereals and tubers,Bread (pita),KG,0.32,20/03/1444
+10/15/2022,Al Mafraq,cereals and tubers,Bulgur,KG,0.74,20/03/1444
+10/15/2022,Al Mafraq,cereals and tubers,Pasta,300 G,0.35,20/03/1444
+10/15/2022,Al Mafraq,cereals and tubers,Potatoes,KG,0.73,20/03/1444
+10/15/2022,Al Mafraq,cereals and tubers,Rice (imported),KG,1.27,20/03/1444
+10/15/2022,Al Mafraq,cereals and tubers,Wheat flour,1.5 KG,0.83,20/03/1444
+10/15/2022,Al Mafraq,"meat, fish and eggs",Eggs,2 KG,2.64,20/03/1444
+10/15/2022,Al Mafraq,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.22,20/03/1444
+10/15/2022,Al Mafraq,"meat, fish and eggs",Meat (beef),KG,8.02,20/03/1444
+10/15/2022,Al Mafraq,"meat, fish and eggs",Meat (chicken),KG,2.03,20/03/1444
+10/15/2022,Al Mafraq,"meat, fish and eggs","Meat (chicken, whole)",KG,1.32,20/03/1444
+10/15/2022,Al Mafraq,"meat, fish and eggs",Meat (lamb),KG,9.82,20/03/1444
+10/15/2022,Al Mafraq,milk and dairy,Cheese (picon),160 G,0.79,20/03/1444
+10/15/2022,Al Mafraq,milk and dairy,"Cheese (white, boiled)",KG,6,20/03/1444
+10/15/2022,Al Mafraq,milk and dairy,Milk (pasteurized),L,1.2,20/03/1444
+10/15/2022,Al Mafraq,milk and dairy,Milk (powder),0.8 KG,4.02,20/03/1444
+10/15/2022,Al Mafraq,miscellaneous food,Salt (iodised),750 G,0.3,20/03/1444
+10/15/2022,Al Mafraq,miscellaneous food,Sugar,KG,0.7,20/03/1444
+10/15/2022,Al Mafraq,non-food,Fuel (diesel),L,0.82,20/03/1444
+10/15/2022,Al Mafraq,non-food,Fuel (gas),12.5 KG,7,20/03/1444
+10/15/2022,Al Mafraq,non-food,Fuel (kerosene),L,0.82,20/03/1444
+10/15/2022,Al Mafraq,non-food,Fuel (petrol-gasoline),L,0.93,20/03/1444
+10/15/2022,Al Mafraq,oil and fats,Oil (olive),L,6.34,20/03/1444
+10/15/2022,Al Mafraq,oil and fats,Oil (vegetable),1.8 L,2.65,20/03/1444
+10/15/2022,Al Mafraq,pulses and nuts,"Beans (fava, dry)",KG,1.71,20/03/1444
+10/15/2022,Al Mafraq,pulses and nuts,Chickpeas,KG,1.7,20/03/1444
+10/15/2022,Al Mafraq,pulses and nuts,Lentils,KG,1.21,20/03/1444
+10/15/2022,Al Mafraq,vegetables and fruits,Apples (red),KG,1.49,20/03/1444
+10/15/2022,Al Mafraq,vegetables and fruits,Bananas,KG,0.9,20/03/1444
+10/15/2022,Al Mafraq,vegetables and fruits,Cucumbers,KG,0.67,20/03/1444
+10/15/2022,Al Mafraq,vegetables and fruits,Garlic,KG,2.46,20/03/1444
+10/15/2022,Al Mafraq,vegetables and fruits,Onions,KG,0.63,20/03/1444
+10/15/2022,Al Mafraq,vegetables and fruits,Oranges (big size),KG,1.66,20/03/1444
+10/15/2022,Al Mafraq,vegetables and fruits,Spinach,KG,0.75,20/03/1444
+10/15/2022,Al Mafraq,vegetables and fruits,Tomatoes,KG,0.49,20/03/1444
+10/15/2022,Al Tafilah,cereals and tubers,Bread (pita),KG,0.32,20/03/1444
+10/15/2022,Al Tafilah,cereals and tubers,Bulgur,KG,0.81,20/03/1444
+10/15/2022,Al Tafilah,cereals and tubers,Pasta,300 G,0.37,20/03/1444
+10/15/2022,Al Tafilah,cereals and tubers,Potatoes,KG,0.68,20/03/1444
+10/15/2022,Al Tafilah,cereals and tubers,Rice (imported),KG,1.25,20/03/1444
+10/15/2022,Al Tafilah,cereals and tubers,Wheat flour,1.5 KG,1.04,20/03/1444
+10/15/2022,Al Tafilah,"meat, fish and eggs",Eggs,2 KG,2.74,20/03/1444
+10/15/2022,Al Tafilah,"meat, fish and eggs","Fish (tuna, canned)",170 G,0.88,20/03/1444
+10/15/2022,Al Tafilah,"meat, fish and eggs",Meat (beef),KG,8.49,20/03/1444
+10/15/2022,Al Tafilah,"meat, fish and eggs",Meat (chicken),KG,2.2,20/03/1444
+10/15/2022,Al Tafilah,"meat, fish and eggs","Meat (chicken, whole)",KG,1.28,20/03/1444
+10/15/2022,Al Tafilah,"meat, fish and eggs",Meat (lamb),KG,9.05,20/03/1444
+10/15/2022,Al Tafilah,milk and dairy,Cheese (picon),160 G,0.78,20/03/1444
+10/15/2022,Al Tafilah,milk and dairy,"Cheese (white, boiled)",KG,5.08,20/03/1444
+10/15/2022,Al Tafilah,milk and dairy,Milk (pasteurized),L,1.11,20/03/1444
+10/15/2022,Al Tafilah,milk and dairy,Milk (powder),0.8 KG,4.02,20/03/1444
+10/15/2022,Al Tafilah,miscellaneous food,Salt (iodised),750 G,0.31,20/03/1444
+10/15/2022,Al Tafilah,miscellaneous food,Sugar,KG,0.76,20/03/1444
+10/15/2022,Al Tafilah,non-food,Fuel (diesel),L,0.82,20/03/1444
+10/15/2022,Al Tafilah,non-food,Fuel (gas),12.5 KG,7,20/03/1444
+10/15/2022,Al Tafilah,non-food,Fuel (kerosene),L,0.82,20/03/1444
+10/15/2022,Al Tafilah,non-food,Fuel (petrol-gasoline),L,0.93,20/03/1444
+10/15/2022,Al Tafilah,oil and fats,Oil (olive),L,5.58,20/03/1444
+10/15/2022,Al Tafilah,oil and fats,Oil (vegetable),1.8 L,2.79,20/03/1444
+10/15/2022,Al Tafilah,pulses and nuts,"Beans (fava, dry)",KG,1.41,20/03/1444
+10/15/2022,Al Tafilah,pulses and nuts,Chickpeas,KG,1.75,20/03/1444
+10/15/2022,Al Tafilah,pulses and nuts,Lentils,KG,1.58,20/03/1444
+10/15/2022,Al Tafilah,vegetables and fruits,Apples (red),KG,1.11,20/03/1444
+10/15/2022,Al Tafilah,vegetables and fruits,Bananas,KG,0.87,20/03/1444
+10/15/2022,Al Tafilah,vegetables and fruits,Cucumbers,KG,0.59,20/03/1444
+10/15/2022,Al Tafilah,vegetables and fruits,Garlic,KG,2.54,20/03/1444
+10/15/2022,Al Tafilah,vegetables and fruits,Onions,KG,0.51,20/03/1444
+10/15/2022,Al Tafilah,vegetables and fruits,Oranges (big size),KG,9,20/03/1444
+10/15/2022,Al Tafilah,vegetables and fruits,Spinach,KG,0.63,20/03/1444
+10/15/2022,Al Tafilah,vegetables and fruits,Tomatoes,KG,0.36,20/03/1444
+10/15/2022,Amman,cereals and tubers,Bread (pita),KG,0.32,20/03/1444
+10/15/2022,Amman,cereals and tubers,Bulgur,KG,0.87,20/03/1444
+10/15/2022,Amman,cereals and tubers,Pasta,300 G,0.35,20/03/1444
+10/15/2022,Amman,cereals and tubers,Potatoes,KG,0.8,20/03/1444
+10/15/2022,Amman,cereals and tubers,Rice (imported),KG,1.36,20/03/1444
+10/15/2022,Amman,cereals and tubers,Wheat flour,1.5 KG,0.85,20/03/1444
+10/15/2022,Amman,"meat, fish and eggs",Eggs,2 KG,2.86,20/03/1444
+10/15/2022,Amman,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.17,20/03/1444
+10/15/2022,Amman,"meat, fish and eggs",Meat (beef),KG,9.01,20/03/1444
+10/15/2022,Amman,"meat, fish and eggs",Meat (chicken),KG,2.38,20/03/1444
+10/15/2022,Amman,"meat, fish and eggs","Meat (chicken, whole)",KG,1.49,20/03/1444
+10/15/2022,Amman,"meat, fish and eggs",Meat (lamb),KG,10.4,20/03/1444
+10/15/2022,Amman,milk and dairy,Cheese (picon),160 G,0.79,20/03/1444
+10/15/2022,Amman,milk and dairy,"Cheese (white, boiled)",KG,6.26,20/03/1444
+10/15/2022,Amman,milk and dairy,Milk (pasteurized),L,1.06,20/03/1444
+10/15/2022,Amman,milk and dairy,Milk (powder),0.8 KG,4.18,20/03/1444
+10/15/2022,Amman,miscellaneous food,Salt (iodised),750 G,0.3,20/03/1444
+10/15/2022,Amman,miscellaneous food,Sugar,KG,0.69,20/03/1444
+10/15/2022,Amman,non-food,Fuel (diesel),L,0.82,20/03/1444
+10/15/2022,Amman,non-food,Fuel (gas),12.5 KG,7,20/03/1444
+10/15/2022,Amman,non-food,Fuel (kerosene),L,0.82,20/03/1444
+10/15/2022,Amman,non-food,Fuel (petrol-gasoline),L,0.93,20/03/1444
+10/15/2022,Amman,oil and fats,Oil (olive),L,7.1,20/03/1444
+10/15/2022,Amman,oil and fats,Oil (vegetable),1.8 L,2.79,20/03/1444
+10/15/2022,Amman,pulses and nuts,"Beans (fava, dry)",KG,1.69,20/03/1444
+10/15/2022,Amman,pulses and nuts,Chickpeas,KG,1.87,20/03/1444
+10/15/2022,Amman,pulses and nuts,Lentils,KG,1.27,20/03/1444
+10/15/2022,Amman,vegetables and fruits,Apples (red),KG,2.08,20/03/1444
+10/15/2022,Amman,vegetables and fruits,Bananas,KG,0.9,20/03/1444
+10/15/2022,Amman,vegetables and fruits,Cucumbers,KG,0.63,20/03/1444
+10/15/2022,Amman,vegetables and fruits,Garlic,KG,3.54,20/03/1444
+10/15/2022,Amman,vegetables and fruits,Onions,KG,0.64,20/03/1444
+10/15/2022,Amman,vegetables and fruits,Oranges (big size),KG,1.62,20/03/1444
+10/15/2022,Amman,vegetables and fruits,Spinach,KG,0.62,20/03/1444
+10/15/2022,Amman,vegetables and fruits,Tomatoes,KG,0.45,20/03/1444
+10/15/2022,Irbid,cereals and tubers,Bread (pita),KG,0.33,20/03/1444
+10/15/2022,Irbid,cereals and tubers,Bulgur,KG,0.94,20/03/1444
+10/15/2022,Irbid,cereals and tubers,Pasta,300 G,0.34,20/03/1444
+10/15/2022,Irbid,cereals and tubers,Potatoes,KG,0.75,20/03/1444
+10/15/2022,Irbid,cereals and tubers,Rice (imported),KG,1.41,20/03/1444
+10/15/2022,Irbid,cereals and tubers,Wheat flour,1.5 KG,0.89,20/03/1444
+10/15/2022,Irbid,"meat, fish and eggs",Eggs,2 KG,2.86,20/03/1444
+10/15/2022,Irbid,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.22,20/03/1444
+10/15/2022,Irbid,"meat, fish and eggs",Meat (beef),KG,8.22,20/03/1444
+10/15/2022,Irbid,"meat, fish and eggs",Meat (chicken),KG,2.12,20/03/1444
+10/15/2022,Irbid,"meat, fish and eggs","Meat (chicken, whole)",KG,1.55,20/03/1444
+10/15/2022,Irbid,"meat, fish and eggs",Meat (lamb),KG,9.6,20/03/1444
+10/15/2022,Irbid,milk and dairy,Cheese (picon),160 G,0.77,20/03/1444
+10/15/2022,Irbid,milk and dairy,"Cheese (white, boiled)",KG,5.85,20/03/1444
+10/15/2022,Irbid,milk and dairy,Milk (pasteurized),L,1.02,20/03/1444
+10/15/2022,Irbid,milk and dairy,Milk (powder),0.8 KG,4.1,20/03/1444
+10/15/2022,Irbid,miscellaneous food,Salt (iodised),750 G,0.28,20/03/1444
+10/15/2022,Irbid,miscellaneous food,Sugar,KG,0.72,20/03/1444
+10/15/2022,Irbid,non-food,Fuel (diesel),L,0.82,20/03/1444
+10/15/2022,Irbid,non-food,Fuel (gas),12.5 KG,7,20/03/1444
+10/15/2022,Irbid,non-food,Fuel (kerosene),L,0.82,20/03/1444
+10/15/2022,Irbid,non-food,Fuel (petrol-gasoline),L,0.93,20/03/1444
+10/15/2022,Irbid,oil and fats,Oil (olive),L,6.47,20/03/1444
+10/15/2022,Irbid,oil and fats,Oil (vegetable),1.8 L,2.52,20/03/1444
+10/15/2022,Irbid,pulses and nuts,"Beans (fava, dry)",KG,1.48,20/03/1444
+10/15/2022,Irbid,pulses and nuts,Chickpeas,KG,1.73,20/03/1444
+10/15/2022,Irbid,pulses and nuts,Lentils,KG,1.28,20/03/1444
+10/15/2022,Irbid,vegetables and fruits,Apples (red),KG,1.61,20/03/1444
+10/15/2022,Irbid,vegetables and fruits,Bananas,KG,1.04,20/03/1444
+10/15/2022,Irbid,vegetables and fruits,Cucumbers,KG,0.67,20/03/1444
+10/15/2022,Irbid,vegetables and fruits,Garlic,KG,3.05,20/03/1444
+10/15/2022,Irbid,vegetables and fruits,Onions,KG,0.6,20/03/1444
+10/15/2022,Irbid,vegetables and fruits,Oranges (big size),KG,1.51,20/03/1444
+10/15/2022,Irbid,vegetables and fruits,Spinach,KG,0.72,20/03/1444
+10/15/2022,Irbid,vegetables and fruits,Tomatoes,KG,0.42,20/03/1444
+10/15/2022,Jarash,cereals and tubers,Bread (pita),KG,0.35,20/03/1444
+10/15/2022,Jarash,cereals and tubers,Bulgur,KG,0.83,20/03/1444
+10/15/2022,Jarash,cereals and tubers,Pasta,300 G,0.34,20/03/1444
+10/15/2022,Jarash,cereals and tubers,Potatoes,KG,0.74,20/03/1444
+10/15/2022,Jarash,cereals and tubers,Rice (imported),KG,1.36,20/03/1444
+10/15/2022,Jarash,cereals and tubers,Wheat flour,1.5 KG,1.41,20/03/1444
+10/15/2022,Jarash,"meat, fish and eggs",Eggs,2 KG,2.73,20/03/1444
+10/15/2022,Jarash,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.19,20/03/1444
+10/15/2022,Jarash,"meat, fish and eggs",Meat (beef),KG,8.58,20/03/1444
+10/15/2022,Jarash,"meat, fish and eggs",Meat (chicken),KG,1.94,20/03/1444
+10/15/2022,Jarash,"meat, fish and eggs","Meat (chicken, whole)",KG,1.35,20/03/1444
+10/15/2022,Jarash,"meat, fish and eggs",Meat (lamb),KG,10.1,20/03/1444
+10/15/2022,Jarash,milk and dairy,Cheese (picon),160 G,0.77,20/03/1444
+10/15/2022,Jarash,milk and dairy,"Cheese (white, boiled)",KG,6,20/03/1444
+10/15/2022,Jarash,milk and dairy,Milk (pasteurized),L,1.16,20/03/1444
+10/15/2022,Jarash,milk and dairy,Milk (powder),0.8 KG,3.9,20/03/1444
+10/15/2022,Jarash,miscellaneous food,Salt (iodised),750 G,0.29,20/03/1444
+10/15/2022,Jarash,miscellaneous food,Sugar,KG,0.71,20/03/1444
+10/15/2022,Jarash,non-food,Fuel (diesel),L,0.82,20/03/1444
+10/15/2022,Jarash,non-food,Fuel (gas),12.5 KG,7,20/03/1444
+10/15/2022,Jarash,non-food,Fuel (kerosene),L,0.82,20/03/1444
+10/15/2022,Jarash,non-food,Fuel (petrol-gasoline),L,0.93,20/03/1444
+10/15/2022,Jarash,oil and fats,Oil (olive),L,6,20/03/1444
+10/15/2022,Jarash,oil and fats,Oil (vegetable),1.8 L,2.64,20/03/1444
+10/15/2022,Jarash,pulses and nuts,"Beans (fava, dry)",KG,1.63,20/03/1444
+10/15/2022,Jarash,pulses and nuts,Chickpeas,KG,1.72,20/03/1444
+10/15/2022,Jarash,pulses and nuts,Lentils,KG,1.21,20/03/1444
+10/15/2022,Jarash,vegetables and fruits,Apples (red),KG,1.42,20/03/1444
+10/15/2022,Jarash,vegetables and fruits,Bananas,KG,0.81,20/03/1444
+10/15/2022,Jarash,vegetables and fruits,Cucumbers,KG,0.69,20/03/1444
+10/15/2022,Jarash,vegetables and fruits,Garlic,KG,2.98,20/03/1444
+10/15/2022,Jarash,vegetables and fruits,Onions,KG,0.64,20/03/1444
+10/15/2022,Jarash,vegetables and fruits,Oranges (big size),KG,1,20/03/1444
+10/15/2022,Jarash,vegetables and fruits,Spinach,KG,0.77,20/03/1444
+10/15/2022,Jarash,vegetables and fruits,Tomatoes,KG,0.4,20/03/1444
+10/15/2022,Maan,cereals and tubers,Bread (pita),KG,0.32,20/03/1444
+10/15/2022,Maan,cereals and tubers,Bulgur,KG,0.94,20/03/1444
+10/15/2022,Maan,cereals and tubers,Pasta,300 G,0.36,20/03/1444
+10/15/2022,Maan,cereals and tubers,Potatoes,KG,0.62,20/03/1444
+10/15/2022,Maan,cereals and tubers,Rice (imported),KG,1.26,20/03/1444
+10/15/2022,Maan,cereals and tubers,Wheat flour,1.5 KG,0.95,20/03/1444
+10/15/2022,Maan,"meat, fish and eggs",Eggs,2 KG,2.95,20/03/1444
+10/15/2022,Maan,"meat, fish and eggs","Fish (tuna, canned)",170 G,0.91,20/03/1444
+10/15/2022,Maan,"meat, fish and eggs",Meat (beef),KG,8.26,20/03/1444
+10/15/2022,Maan,"meat, fish and eggs",Meat (chicken),KG,2,20/03/1444
+10/15/2022,Maan,"meat, fish and eggs","Meat (chicken, whole)",KG,1.65,20/03/1444
+10/15/2022,Maan,"meat, fish and eggs",Meat (lamb),KG,9.36,20/03/1444
+10/15/2022,Maan,milk and dairy,Cheese (picon),160 G,0.75,20/03/1444
+10/15/2022,Maan,milk and dairy,"Cheese (white, boiled)",KG,5.06,20/03/1444
+10/15/2022,Maan,milk and dairy,Milk (pasteurized),L,1.11,20/03/1444
+10/15/2022,Maan,milk and dairy,Milk (powder),0.8 KG,4.08,20/03/1444
+10/15/2022,Maan,miscellaneous food,Salt (iodised),750 G,0.25,20/03/1444
+10/15/2022,Maan,miscellaneous food,Sugar,KG,0.73,20/03/1444
+10/15/2022,Maan,non-food,Fuel (diesel),L,0.82,20/03/1444
+10/15/2022,Maan,non-food,Fuel (gas),12.5 KG,7,20/03/1444
+10/15/2022,Maan,non-food,Fuel (kerosene),L,0.82,20/03/1444
+10/15/2022,Maan,non-food,Fuel (petrol-gasoline),L,0.93,20/03/1444
+10/15/2022,Maan,oil and fats,Oil (olive),L,6.09,20/03/1444
+10/15/2022,Maan,oil and fats,Oil (vegetable),1.8 L,2.77,20/03/1444
+10/15/2022,Maan,pulses and nuts,"Beans (fava, dry)",KG,1.25,20/03/1444
+10/15/2022,Maan,pulses and nuts,Chickpeas,KG,2.14,20/03/1444
+10/15/2022,Maan,pulses and nuts,Lentils,KG,1.13,20/03/1444
+10/15/2022,Maan,vegetables and fruits,Apples (red),KG,1.51,20/03/1444
+10/15/2022,Maan,vegetables and fruits,Bananas,KG,0.92,20/03/1444
+10/15/2022,Maan,vegetables and fruits,Cucumbers,KG,0.55,20/03/1444
+10/15/2022,Maan,vegetables and fruits,Garlic,KG,2.62,20/03/1444
+10/15/2022,Maan,vegetables and fruits,Onions,KG,0.55,20/03/1444
+10/15/2022,Maan,vegetables and fruits,Oranges (big size),KG,1.26,20/03/1444
+10/15/2022,Maan,vegetables and fruits,Spinach,KG,0.81,20/03/1444
+10/15/2022,Maan,vegetables and fruits,Tomatoes,KG,0.36,20/03/1444
+10/15/2022,Madaba,cereals and tubers,Bread (pita),KG,0.32,20/03/1444
+10/15/2022,Madaba,cereals and tubers,Bulgur,KG,0.96,20/03/1444
+10/15/2022,Madaba,cereals and tubers,Pasta,300 G,0.39,20/03/1444
+10/15/2022,Madaba,cereals and tubers,Potatoes,KG,0.75,20/03/1444
+10/15/2022,Madaba,cereals and tubers,Rice (imported),KG,1.36,20/03/1444
+10/15/2022,Madaba,cereals and tubers,Wheat flour,1.5 KG,1.12,20/03/1444
+10/15/2022,Madaba,"meat, fish and eggs",Eggs,2 KG,2.67,20/03/1444
+10/15/2022,Madaba,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.26,20/03/1444
+10/15/2022,Madaba,"meat, fish and eggs",Meat (beef),KG,8.79,20/03/1444
+10/15/2022,Madaba,"meat, fish and eggs",Meat (chicken),KG,1.68,20/03/1444
+10/15/2022,Madaba,"meat, fish and eggs","Meat (chicken, whole)",KG,1.59,20/03/1444
+10/15/2022,Madaba,"meat, fish and eggs",Meat (lamb),KG,10.68,20/03/1444
+10/15/2022,Madaba,milk and dairy,Cheese (picon),160 G,0.82,20/03/1444
+10/15/2022,Madaba,milk and dairy,"Cheese (white, boiled)",KG,5.75,20/03/1444
+10/15/2022,Madaba,milk and dairy,Milk (pasteurized),L,1.03,20/03/1444
+10/15/2022,Madaba,milk and dairy,Milk (powder),0.8 KG,4.29,20/03/1444
+10/15/2022,Madaba,miscellaneous food,Salt (iodised),750 G,0.28,20/03/1444
+10/15/2022,Madaba,miscellaneous food,Sugar,KG,0.74,20/03/1444
+10/15/2022,Madaba,non-food,Fuel (diesel),L,0.82,20/03/1444
+10/15/2022,Madaba,non-food,Fuel (gas),12.5 KG,7,20/03/1444
+10/15/2022,Madaba,non-food,Fuel (kerosene),L,0.82,20/03/1444
+10/15/2022,Madaba,non-food,Fuel (petrol-gasoline),L,0.93,20/03/1444
+10/15/2022,Madaba,oil and fats,Oil (olive),L,6.75,20/03/1444
+10/15/2022,Madaba,oil and fats,Oil (vegetable),1.8 L,2.6,20/03/1444
+10/15/2022,Madaba,pulses and nuts,"Beans (fava, dry)",KG,1.31,20/03/1444
+10/15/2022,Madaba,pulses and nuts,Chickpeas,KG,2.1,20/03/1444
+10/15/2022,Madaba,pulses and nuts,Lentils,KG,1.22,20/03/1444
+10/15/2022,Madaba,vegetables and fruits,Apples (red),KG,1.25,20/03/1444
+10/15/2022,Madaba,vegetables and fruits,Bananas,KG,0.95,20/03/1444
+10/15/2022,Madaba,vegetables and fruits,Cucumbers,KG,0.66,20/03/1444
+10/15/2022,Madaba,vegetables and fruits,Garlic,KG,3.06,20/03/1444
+10/15/2022,Madaba,vegetables and fruits,Onions,KG,0.55,20/03/1444
+10/15/2022,Madaba,vegetables and fruits,Oranges (big size),KG,1.03,20/03/1444
+10/15/2022,Madaba,vegetables and fruits,Spinach,KG,0.89,20/03/1444
+10/15/2022,Madaba,vegetables and fruits,Tomatoes,KG,0.38,20/03/1444
+10/15/2022,Zarqa,cereals and tubers,Bread (pita),KG,0.32,20/03/1444
+10/15/2022,Zarqa,cereals and tubers,Bulgur,KG,0.86,20/03/1444
+10/15/2022,Zarqa,cereals and tubers,Pasta,300 G,0.35,20/03/1444
+10/15/2022,Zarqa,cereals and tubers,Potatoes,KG,0.76,20/03/1444
+10/15/2022,Zarqa,cereals and tubers,Rice (imported),KG,1.27,20/03/1444
+10/15/2022,Zarqa,cereals and tubers,Wheat flour,1.5 KG,0.88,20/03/1444
+10/15/2022,Zarqa,"meat, fish and eggs",Eggs,2 KG,2.82,20/03/1444
+10/15/2022,Zarqa,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.3,20/03/1444
+10/15/2022,Zarqa,"meat, fish and eggs",Meat (beef),KG,9.86,20/03/1444
+10/15/2022,Zarqa,"meat, fish and eggs",Meat (chicken),KG,2.33,20/03/1444
+10/15/2022,Zarqa,"meat, fish and eggs","Meat (chicken, whole)",KG,1.39,20/03/1444
+10/15/2022,Zarqa,"meat, fish and eggs",Meat (lamb),KG,9.38,20/03/1444
+10/15/2022,Zarqa,milk and dairy,Cheese (picon),160 G,0.77,20/03/1444
+10/15/2022,Zarqa,milk and dairy,"Cheese (white, boiled)",KG,5.05,20/03/1444
+10/15/2022,Zarqa,milk and dairy,Milk (pasteurized),L,1.01,20/03/1444
+10/15/2022,Zarqa,milk and dairy,Milk (powder),0.8 KG,4.25,20/03/1444
+10/15/2022,Zarqa,miscellaneous food,Salt (iodised),750 G,0.28,20/03/1444
+10/15/2022,Zarqa,miscellaneous food,Sugar,KG,0.71,20/03/1444
+10/15/2022,Zarqa,non-food,Fuel (diesel),L,0.82,20/03/1444
+10/15/2022,Zarqa,non-food,Fuel (gas),12.5 KG,7,20/03/1444
+10/15/2022,Zarqa,non-food,Fuel (kerosene),L,0.82,20/03/1444
+10/15/2022,Zarqa,non-food,Fuel (petrol-gasoline),L,0.93,20/03/1444
+10/15/2022,Zarqa,oil and fats,Oil (olive),L,6.46,20/03/1444
+10/15/2022,Zarqa,oil and fats,Oil (vegetable),1.8 L,2.9,20/03/1444
+10/15/2022,Zarqa,pulses and nuts,"Beans (fava, dry)",KG,1.53,20/03/1444
+10/15/2022,Zarqa,pulses and nuts,Chickpeas,KG,1.58,20/03/1444
+10/15/2022,Zarqa,pulses and nuts,Lentils,KG,1.27,20/03/1444
+10/15/2022,Zarqa,vegetables and fruits,Apples (red),KG,1.82,20/03/1444
+10/15/2022,Zarqa,vegetables and fruits,Bananas,KG,0.86,20/03/1444
+10/15/2022,Zarqa,vegetables and fruits,Cucumbers,KG,0.61,20/03/1444
+10/15/2022,Zarqa,vegetables and fruits,Garlic,KG,3.56,20/03/1444
+10/15/2022,Zarqa,vegetables and fruits,Onions,KG,0.62,20/03/1444
+10/15/2022,Zarqa,vegetables and fruits,Oranges (big size),KG,1.56,20/03/1444
+10/15/2022,Zarqa,vegetables and fruits,Spinach,KG,0.71,20/03/1444
+10/15/2022,Zarqa,vegetables and fruits,Tomatoes,KG,0.38,20/03/1444
+11/15/2022,Ajloun,cereals and tubers,Bread (pita),KG,0.32,21/04/1444
+11/15/2022,Ajloun,cereals and tubers,Bulgur,KG,0.86,21/04/1444
+11/15/2022,Ajloun,cereals and tubers,Pasta,300 G,0.35,21/04/1444
+11/15/2022,Ajloun,cereals and tubers,Potatoes,KG,0.81,21/04/1444
+11/15/2022,Ajloun,cereals and tubers,Rice (imported),KG,1.37,21/04/1444
+11/15/2022,Ajloun,cereals and tubers,Wheat flour,1.5 KG,0.85,21/04/1444
+11/15/2022,Ajloun,"meat, fish and eggs",Eggs,2 KG,2.81,21/04/1444
+11/15/2022,Ajloun,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.22,21/04/1444
+11/15/2022,Ajloun,"meat, fish and eggs",Meat (beef),KG,8.7,21/04/1444
+11/15/2022,Ajloun,"meat, fish and eggs",Meat (chicken),KG,2,21/04/1444
+11/15/2022,Ajloun,"meat, fish and eggs","Meat (chicken, whole)",KG,1.27,21/04/1444
+11/15/2022,Ajloun,"meat, fish and eggs",Meat (lamb),KG,10.14,21/04/1444
+11/15/2022,Ajloun,milk and dairy,Cheese (picon),160 G,0.84,21/04/1444
+11/15/2022,Ajloun,milk and dairy,"Cheese (white, boiled)",KG,6.74,21/04/1444
+11/15/2022,Ajloun,milk and dairy,Milk (pasteurized),L,1.2,21/04/1444
+11/15/2022,Ajloun,milk and dairy,Milk (powder),0.8 KG,4.12,21/04/1444
+11/15/2022,Ajloun,miscellaneous food,Salt (iodised),750 G,0.28,21/04/1444
+11/15/2022,Ajloun,miscellaneous food,Sugar,KG,0.74,21/04/1444
+11/15/2022,Ajloun,non-food,Fuel (diesel),L,0.86,21/04/1444
+11/15/2022,Ajloun,non-food,Fuel (gas),12.5 KG,7,21/04/1444
+11/15/2022,Ajloun,non-food,Fuel (kerosene),L,0.86,21/04/1444
+11/15/2022,Ajloun,non-food,Fuel (petrol-gasoline),L,0.91,21/04/1444
+11/15/2022,Ajloun,oil and fats,Oil (olive),L,6,21/04/1444
+11/15/2022,Ajloun,oil and fats,Oil (vegetable),1.8 L,2.48,21/04/1444
+11/15/2022,Ajloun,pulses and nuts,"Beans (fava, dry)",KG,1.56,21/04/1444
+11/15/2022,Ajloun,pulses and nuts,Chickpeas,KG,1.63,21/04/1444
+11/15/2022,Ajloun,pulses and nuts,Lentils,KG,1.03,21/04/1444
+11/15/2022,Ajloun,vegetables and fruits,Apples (red),KG,1.35,21/04/1444
+11/15/2022,Ajloun,vegetables and fruits,Bananas,KG,0.9,21/04/1444
+11/15/2022,Ajloun,vegetables and fruits,Cucumbers,KG,0.56,21/04/1444
+11/15/2022,Ajloun,vegetables and fruits,Garlic,KG,2.85,21/04/1444
+11/15/2022,Ajloun,vegetables and fruits,Onions,KG,0.75,21/04/1444
+11/15/2022,Ajloun,vegetables and fruits,Oranges (big size),KG,1.09,21/04/1444
+11/15/2022,Ajloun,vegetables and fruits,Spinach,KG,0.47,21/04/1444
+11/15/2022,Ajloun,vegetables and fruits,Tomatoes,KG,0.31,21/04/1444
+11/15/2022,Al Aqaba,cereals and tubers,Bread (pita),KG,0.32,21/04/1444
+11/15/2022,Al Aqaba,cereals and tubers,Bulgur,KG,0.98,21/04/1444
+11/15/2022,Al Aqaba,cereals and tubers,Pasta,300 G,0.37,21/04/1444
+11/15/2022,Al Aqaba,cereals and tubers,Potatoes,KG,0.96,21/04/1444
+11/15/2022,Al Aqaba,cereals and tubers,Rice (imported),KG,1.35,21/04/1444
+11/15/2022,Al Aqaba,cereals and tubers,Wheat flour,1.5 KG,0.93,21/04/1444
+11/15/2022,Al Aqaba,"meat, fish and eggs",Eggs,2 KG,2.59,21/04/1444
+11/15/2022,Al Aqaba,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.2,21/04/1444
+11/15/2022,Al Aqaba,"meat, fish and eggs",Meat (beef),KG,8.71,21/04/1444
+11/15/2022,Al Aqaba,"meat, fish and eggs",Meat (chicken),KG,2.89,21/04/1444
+11/15/2022,Al Aqaba,"meat, fish and eggs","Meat (chicken, whole)",KG,1.44,21/04/1444
+11/15/2022,Al Aqaba,"meat, fish and eggs",Meat (lamb),KG,10.41,21/04/1444
+11/15/2022,Al Aqaba,milk and dairy,Cheese (picon),160 G,0.77,21/04/1444
+11/15/2022,Al Aqaba,milk and dairy,"Cheese (white, boiled)",KG,6.42,21/04/1444
+11/15/2022,Al Aqaba,milk and dairy,Milk (pasteurized),L,1.1,21/04/1444
+11/15/2022,Al Aqaba,milk and dairy,Milk (powder),0.8 KG,4.06,21/04/1444
+11/15/2022,Al Aqaba,miscellaneous food,Salt (iodised),750 G,0.26,21/04/1444
+11/15/2022,Al Aqaba,miscellaneous food,Sugar,KG,0.72,21/04/1444
+11/15/2022,Al Aqaba,non-food,Fuel (diesel),L,0.86,21/04/1444
+11/15/2022,Al Aqaba,non-food,Fuel (gas),12.5 KG,7,21/04/1444
+11/15/2022,Al Aqaba,non-food,Fuel (kerosene),L,0.86,21/04/1444
+11/15/2022,Al Aqaba,non-food,Fuel (petrol-gasoline),L,0.91,21/04/1444
+11/15/2022,Al Aqaba,oil and fats,Oil (olive),L,7.42,21/04/1444
+11/15/2022,Al Aqaba,oil and fats,Oil (vegetable),1.8 L,2.77,21/04/1444
+11/15/2022,Al Aqaba,pulses and nuts,"Beans (fava, dry)",KG,1.58,21/04/1444
+11/15/2022,Al Aqaba,pulses and nuts,Chickpeas,KG,1.83,21/04/1444
+11/15/2022,Al Aqaba,pulses and nuts,Lentils,KG,1.33,21/04/1444
+11/15/2022,Al Aqaba,vegetables and fruits,Apples (red),KG,1.24,21/04/1444
+11/15/2022,Al Aqaba,vegetables and fruits,Cucumbers,KG,0.59,21/04/1444
+11/15/2022,Al Aqaba,vegetables and fruits,Garlic,KG,2.02,21/04/1444
+11/15/2022,Al Aqaba,vegetables and fruits,Onions,KG,0.68,21/04/1444
+11/15/2022,Al Aqaba,vegetables and fruits,Oranges (big size),KG,1.25,21/04/1444
+11/15/2022,Al Aqaba,vegetables and fruits,Spinach,KG,0.57,21/04/1444
+11/15/2022,Al Aqaba,vegetables and fruits,Tomatoes,KG,0.35,21/04/1444
+11/15/2022,Al Balqa,cereals and tubers,Bread (pita),KG,0.32,21/04/1444
+11/15/2022,Al Balqa,cereals and tubers,Bulgur,KG,1.05,21/04/1444
+11/15/2022,Al Balqa,cereals and tubers,Pasta,300 G,0.35,21/04/1444
+11/15/2022,Al Balqa,cereals and tubers,Potatoes,KG,0.83,21/04/1444
+11/15/2022,Al Balqa,cereals and tubers,Rice (imported),KG,1.43,21/04/1444
+11/15/2022,Al Balqa,cereals and tubers,Wheat flour,1.5 KG,0.89,21/04/1444
+11/15/2022,Al Balqa,"meat, fish and eggs",Eggs,2 KG,2.83,21/04/1444
+11/15/2022,Al Balqa,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.13,21/04/1444
+11/15/2022,Al Balqa,"meat, fish and eggs",Meat (beef),KG,8,21/04/1444
+11/15/2022,Al Balqa,"meat, fish and eggs",Meat (chicken),KG,2.26,21/04/1444
+11/15/2022,Al Balqa,"meat, fish and eggs","Meat (chicken, whole)",KG,1.45,21/04/1444
+11/15/2022,Al Balqa,"meat, fish and eggs",Meat (lamb),KG,10,21/04/1444
+11/15/2022,Al Balqa,milk and dairy,Cheese (picon),160 G,0.85,21/04/1444
+11/15/2022,Al Balqa,milk and dairy,"Cheese (white, boiled)",KG,5.79,21/04/1444
+11/15/2022,Al Balqa,milk and dairy,Milk (pasteurized),L,1,21/04/1444
+11/15/2022,Al Balqa,milk and dairy,Milk (powder),0.8 KG,4.29,21/04/1444
+11/15/2022,Al Balqa,miscellaneous food,Salt (iodised),750 G,0.25,21/04/1444
+11/15/2022,Al Balqa,miscellaneous food,Sugar,KG,0.87,21/04/1444
+11/15/2022,Al Balqa,non-food,Fuel (diesel),L,0.86,21/04/1444
+11/15/2022,Al Balqa,non-food,Fuel (gas),12.5 KG,7,21/04/1444
+11/15/2022,Al Balqa,non-food,Fuel (kerosene),L,0.86,21/04/1444
+11/15/2022,Al Balqa,non-food,Fuel (petrol-gasoline),L,0.91,21/04/1444
+11/15/2022,Al Balqa,oil and fats,Oil (olive),L,6.5,21/04/1444
+11/15/2022,Al Balqa,oil and fats,Oil (vegetable),1.8 L,2.78,21/04/1444
+11/15/2022,Al Balqa,pulses and nuts,"Beans (fava, dry)",KG,1.73,21/04/1444
+11/15/2022,Al Balqa,pulses and nuts,Chickpeas,KG,2.37,21/04/1444
+11/15/2022,Al Balqa,pulses and nuts,Lentils,KG,1.22,21/04/1444
+11/15/2022,Al Balqa,vegetables and fruits,Apples (red),KG,1.25,21/04/1444
+11/15/2022,Al Balqa,vegetables and fruits,Bananas,KG,0.75,21/04/1444
+11/15/2022,Al Balqa,vegetables and fruits,Cucumbers,KG,0.49,21/04/1444
+11/15/2022,Al Balqa,vegetables and fruits,Garlic,KG,2.06,21/04/1444
+11/15/2022,Al Balqa,vegetables and fruits,Onions,KG,0.6,21/04/1444
+11/15/2022,Al Balqa,vegetables and fruits,Spinach,KG,0.7,21/04/1444
+11/15/2022,Al Balqa,vegetables and fruits,Tomatoes,KG,0.45,21/04/1444
+11/15/2022,Al Karak,cereals and tubers,Bread (pita),KG,0.32,21/04/1444
+11/15/2022,Al Karak,cereals and tubers,Bulgur,KG,1.01,21/04/1444
+11/15/2022,Al Karak,cereals and tubers,Pasta,300 G,0.45,21/04/1444
+11/15/2022,Al Karak,cereals and tubers,Potatoes,KG,0.84,21/04/1444
+11/15/2022,Al Karak,cereals and tubers,Rice (imported),KG,1.3,21/04/1444
+11/15/2022,Al Karak,cereals and tubers,Wheat flour,1.5 KG,1,21/04/1444
+11/15/2022,Al Karak,"meat, fish and eggs",Eggs,2 KG,2.84,21/04/1444
+11/15/2022,Al Karak,"meat, fish and eggs","Fish (tuna, canned)",170 G,0.85,21/04/1444
+11/15/2022,Al Karak,"meat, fish and eggs",Meat (beef),KG,8,21/04/1444
+11/15/2022,Al Karak,"meat, fish and eggs",Meat (chicken),KG,2.29,21/04/1444
+11/15/2022,Al Karak,"meat, fish and eggs","Meat (chicken, whole)",KG,1.25,21/04/1444
+11/15/2022,Al Karak,"meat, fish and eggs",Meat (lamb),KG,8.5,21/04/1444
+11/15/2022,Al Karak,milk and dairy,Cheese (picon),160 G,0.8,21/04/1444
+11/15/2022,Al Karak,milk and dairy,"Cheese (white, boiled)",KG,5.68,21/04/1444
+11/15/2022,Al Karak,milk and dairy,Milk (pasteurized),L,1.2,21/04/1444
+11/15/2022,Al Karak,milk and dairy,Milk (powder),0.8 KG,3.95,21/04/1444
+11/15/2022,Al Karak,miscellaneous food,Salt (iodised),750 G,0.3,21/04/1444
+11/15/2022,Al Karak,miscellaneous food,Sugar,KG,0.72,21/04/1444
+11/15/2022,Al Karak,non-food,Fuel (diesel),L,0.86,21/04/1444
+11/15/2022,Al Karak,non-food,Fuel (gas),12.5 KG,7,21/04/1444
+11/15/2022,Al Karak,non-food,Fuel (kerosene),L,0.86,21/04/1444
+11/15/2022,Al Karak,non-food,Fuel (petrol-gasoline),L,0.91,21/04/1444
+11/15/2022,Al Karak,oil and fats,Oil (olive),L,5.32,21/04/1444
+11/15/2022,Al Karak,oil and fats,Oil (vegetable),1.8 L,3.19,21/04/1444
+11/15/2022,Al Karak,pulses and nuts,"Beans (fava, dry)",KG,1.49,21/04/1444
+11/15/2022,Al Karak,pulses and nuts,Chickpeas,KG,2.23,21/04/1444
+11/15/2022,Al Karak,pulses and nuts,Lentils,KG,1.68,21/04/1444
+11/15/2022,Al Karak,vegetables and fruits,Apples (red),KG,1.2,21/04/1444
+11/15/2022,Al Karak,vegetables and fruits,Bananas,KG,0.86,21/04/1444
+11/15/2022,Al Karak,vegetables and fruits,Cucumbers,KG,0.54,21/04/1444
+11/15/2022,Al Karak,vegetables and fruits,Garlic,KG,2.97,21/04/1444
+11/15/2022,Al Karak,vegetables and fruits,Onions,KG,0.6,21/04/1444
+11/15/2022,Al Karak,vegetables and fruits,Oranges (big size),KG,1.48,21/04/1444
+11/15/2022,Al Karak,vegetables and fruits,Spinach,KG,0.62,21/04/1444
+11/15/2022,Al Karak,vegetables and fruits,Tomatoes,KG,0.4,21/04/1444
+11/15/2022,Al Mafraq,cereals and tubers,Bread (pita),KG,0.32,21/04/1444
+11/15/2022,Al Mafraq,cereals and tubers,Bulgur,KG,0.74,21/04/1444
+11/15/2022,Al Mafraq,cereals and tubers,Pasta,300 G,0.35,21/04/1444
+11/15/2022,Al Mafraq,cereals and tubers,Potatoes,KG,0.85,21/04/1444
+11/15/2022,Al Mafraq,cereals and tubers,Rice (imported),KG,1.27,21/04/1444
+11/15/2022,Al Mafraq,cereals and tubers,Wheat flour,1.5 KG,0.83,21/04/1444
+11/15/2022,Al Mafraq,"meat, fish and eggs",Eggs,2 KG,2.99,21/04/1444
+11/15/2022,Al Mafraq,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.22,21/04/1444
+11/15/2022,Al Mafraq,"meat, fish and eggs",Meat (beef),KG,8.02,21/04/1444
+11/15/2022,Al Mafraq,"meat, fish and eggs",Meat (chicken),KG,2,21/04/1444
+11/15/2022,Al Mafraq,"meat, fish and eggs","Meat (chicken, whole)",KG,1.25,21/04/1444
+11/15/2022,Al Mafraq,"meat, fish and eggs",Meat (lamb),KG,9.47,21/04/1444
+11/15/2022,Al Mafraq,milk and dairy,Cheese (picon),160 G,0.84,21/04/1444
+11/15/2022,Al Mafraq,milk and dairy,"Cheese (white, boiled)",KG,6,21/04/1444
+11/15/2022,Al Mafraq,milk and dairy,Milk (pasteurized),L,1.2,21/04/1444
+11/15/2022,Al Mafraq,milk and dairy,Milk (powder),0.8 KG,4.02,21/04/1444
+11/15/2022,Al Mafraq,miscellaneous food,Salt (iodised),750 G,0.31,21/04/1444
+11/15/2022,Al Mafraq,miscellaneous food,Sugar,KG,0.7,21/04/1444
+11/15/2022,Al Mafraq,non-food,Fuel (diesel),L,0.86,21/04/1444
+11/15/2022,Al Mafraq,non-food,Fuel (gas),12.5 KG,7,21/04/1444
+11/15/2022,Al Mafraq,non-food,Fuel (kerosene),L,0.86,21/04/1444
+11/15/2022,Al Mafraq,non-food,Fuel (petrol-gasoline),L,0.91,21/04/1444
+11/15/2022,Al Mafraq,oil and fats,Oil (olive),L,6.34,21/04/1444
+11/15/2022,Al Mafraq,oil and fats,Oil (vegetable),1.8 L,2.65,21/04/1444
+11/15/2022,Al Mafraq,pulses and nuts,"Beans (fava, dry)",KG,1.71,21/04/1444
+11/15/2022,Al Mafraq,pulses and nuts,Chickpeas,KG,1.7,21/04/1444
+11/15/2022,Al Mafraq,pulses and nuts,Lentils,KG,1.21,21/04/1444
+11/15/2022,Al Mafraq,vegetables and fruits,Apples (red),KG,1.41,21/04/1444
+11/15/2022,Al Mafraq,vegetables and fruits,Bananas,KG,0.9,21/04/1444
+11/15/2022,Al Mafraq,vegetables and fruits,Cucumbers,KG,0.54,21/04/1444
+11/15/2022,Al Mafraq,vegetables and fruits,Garlic,KG,2.35,21/04/1444
+11/15/2022,Al Mafraq,vegetables and fruits,Onions,KG,0.63,21/04/1444
+11/15/2022,Al Mafraq,vegetables and fruits,Oranges (big size),KG,1.5,21/04/1444
+11/15/2022,Al Mafraq,vegetables and fruits,Spinach,KG,0.45,21/04/1444
+11/15/2022,Al Mafraq,vegetables and fruits,Tomatoes,KG,0.4,21/04/1444
+11/15/2022,Al Tafilah,cereals and tubers,Bread (pita),KG,0.32,21/04/1444
+11/15/2022,Al Tafilah,cereals and tubers,Bulgur,KG,0.81,21/04/1444
+11/15/2022,Al Tafilah,cereals and tubers,Pasta,300 G,0.37,21/04/1444
+11/15/2022,Al Tafilah,cereals and tubers,Potatoes,KG,0.86,21/04/1444
+11/15/2022,Al Tafilah,cereals and tubers,Rice (imported),KG,1.25,21/04/1444
+11/15/2022,Al Tafilah,cereals and tubers,Wheat flour,1.5 KG,1.04,21/04/1444
+11/15/2022,Al Tafilah,"meat, fish and eggs",Eggs,2 KG,2.86,21/04/1444
+11/15/2022,Al Tafilah,"meat, fish and eggs","Fish (tuna, canned)",170 G,0.88,21/04/1444
+11/15/2022,Al Tafilah,"meat, fish and eggs",Meat (beef),KG,8.65,21/04/1444
+11/15/2022,Al Tafilah,"meat, fish and eggs",Meat (chicken),KG,2.2,21/04/1444
+11/15/2022,Al Tafilah,"meat, fish and eggs","Meat (chicken, whole)",KG,1.29,21/04/1444
+11/15/2022,Al Tafilah,"meat, fish and eggs",Meat (lamb),KG,9.26,21/04/1444
+11/15/2022,Al Tafilah,milk and dairy,Cheese (picon),160 G,0.78,21/04/1444
+11/15/2022,Al Tafilah,milk and dairy,"Cheese (white, boiled)",KG,5.08,21/04/1444
+11/15/2022,Al Tafilah,milk and dairy,Milk (pasteurized),L,1.1,21/04/1444
+11/15/2022,Al Tafilah,milk and dairy,Milk (powder),0.8 KG,4.02,21/04/1444
+11/15/2022,Al Tafilah,miscellaneous food,Salt (iodised),750 G,0.31,21/04/1444
+11/15/2022,Al Tafilah,miscellaneous food,Sugar,KG,0.76,21/04/1444
+11/15/2022,Al Tafilah,non-food,Fuel (diesel),L,0.86,21/04/1444
+11/15/2022,Al Tafilah,non-food,Fuel (gas),12.5 KG,7,21/04/1444
+11/15/2022,Al Tafilah,non-food,Fuel (kerosene),L,0.86,21/04/1444
+11/15/2022,Al Tafilah,non-food,Fuel (petrol-gasoline),L,0.91,21/04/1444
+11/15/2022,Al Tafilah,oil and fats,Oil (olive),L,5.58,21/04/1444
+11/15/2022,Al Tafilah,oil and fats,Oil (vegetable),1.8 L,2.79,21/04/1444
+11/15/2022,Al Tafilah,pulses and nuts,"Beans (fava, dry)",KG,1.41,21/04/1444
+11/15/2022,Al Tafilah,pulses and nuts,Chickpeas,KG,1.75,21/04/1444
+11/15/2022,Al Tafilah,pulses and nuts,Lentils,KG,1.58,21/04/1444
+11/15/2022,Al Tafilah,vegetables and fruits,Apples (red),KG,1.1,21/04/1444
+11/15/2022,Al Tafilah,vegetables and fruits,Bananas,KG,0.93,21/04/1444
+11/15/2022,Al Tafilah,vegetables and fruits,Cucumbers,KG,0.42,21/04/1444
+11/15/2022,Al Tafilah,vegetables and fruits,Garlic,KG,2.43,21/04/1444
+11/15/2022,Al Tafilah,vegetables and fruits,Onions,KG,0.5,21/04/1444
+11/15/2022,Al Tafilah,vegetables and fruits,Spinach,KG,0.49,21/04/1444
+11/15/2022,Al Tafilah,vegetables and fruits,Tomatoes,KG,0.37,21/04/1444
+11/15/2022,Amman,cereals and tubers,Bread (pita),KG,0.32,21/04/1444
+11/15/2022,Amman,cereals and tubers,Bulgur,KG,0.87,21/04/1444
+11/15/2022,Amman,cereals and tubers,Pasta,300 G,0.35,21/04/1444
+11/15/2022,Amman,cereals and tubers,Potatoes,KG,0.94,21/04/1444
+11/15/2022,Amman,cereals and tubers,Rice (imported),KG,1.34,21/04/1444
+11/15/2022,Amman,cereals and tubers,Wheat flour,1.5 KG,0.85,21/04/1444
+11/15/2022,Amman,"meat, fish and eggs",Eggs,2 KG,2.94,21/04/1444
+11/15/2022,Amman,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.17,21/04/1444
+11/15/2022,Amman,"meat, fish and eggs",Meat (beef),KG,9.08,21/04/1444
+11/15/2022,Amman,"meat, fish and eggs",Meat (chicken),KG,2.27,21/04/1444
+11/15/2022,Amman,"meat, fish and eggs","Meat (chicken, whole)",KG,1.4,21/04/1444
+11/15/2022,Amman,"meat, fish and eggs",Meat (lamb),KG,10.65,21/04/1444
+11/15/2022,Amman,milk and dairy,Cheese (picon),160 G,0.81,21/04/1444
+11/15/2022,Amman,milk and dairy,"Cheese (white, boiled)",KG,6.26,21/04/1444
+11/15/2022,Amman,milk and dairy,Milk (pasteurized),L,1.05,21/04/1444
+11/15/2022,Amman,milk and dairy,Milk (powder),0.8 KG,4.17,21/04/1444
+11/15/2022,Amman,miscellaneous food,Salt (iodised),750 G,0.3,21/04/1444
+11/15/2022,Amman,miscellaneous food,Sugar,KG,0.69,21/04/1444
+11/15/2022,Amman,non-food,Fuel (diesel),L,0.86,21/04/1444
+11/15/2022,Amman,non-food,Fuel (gas),12.5 KG,7,21/04/1444
+11/15/2022,Amman,non-food,Fuel (kerosene),L,0.86,21/04/1444
+11/15/2022,Amman,non-food,Fuel (petrol-gasoline),L,0.91,21/04/1444
+11/15/2022,Amman,oil and fats,Oil (olive),L,7.09,21/04/1444
+11/15/2022,Amman,oil and fats,Oil (vegetable),1.8 L,2.77,21/04/1444
+11/15/2022,Amman,pulses and nuts,"Beans (fava, dry)",KG,1.69,21/04/1444
+11/15/2022,Amman,pulses and nuts,Chickpeas,KG,1.86,21/04/1444
+11/15/2022,Amman,pulses and nuts,Lentils,KG,1.24,21/04/1444
+11/15/2022,Amman,vegetables and fruits,Apples (red),KG,2.05,21/04/1444
+11/15/2022,Amman,vegetables and fruits,Bananas,KG,0.92,21/04/1444
+11/15/2022,Amman,vegetables and fruits,Cucumbers,KG,0.56,21/04/1444
+11/15/2022,Amman,vegetables and fruits,Garlic,KG,3.16,21/04/1444
+11/15/2022,Amman,vegetables and fruits,Onions,KG,0.65,21/04/1444
+11/15/2022,Amman,vegetables and fruits,Oranges (big size),KG,1.59,21/04/1444
+11/15/2022,Amman,vegetables and fruits,Spinach,KG,0.51,21/04/1444
+11/15/2022,Amman,vegetables and fruits,Tomatoes,KG,0.48,21/04/1444
+11/15/2022,Irbid,cereals and tubers,Bread (pita),KG,0.34,21/04/1444
+11/15/2022,Irbid,cereals and tubers,Bulgur,KG,0.94,21/04/1444
+11/15/2022,Irbid,cereals and tubers,Pasta,300 G,0.34,21/04/1444
+11/15/2022,Irbid,cereals and tubers,Potatoes,KG,0.88,21/04/1444
+11/15/2022,Irbid,cereals and tubers,Rice (imported),KG,1.41,21/04/1444
+11/15/2022,Irbid,cereals and tubers,Wheat flour,1.5 KG,0.9,21/04/1444
+11/15/2022,Irbid,"meat, fish and eggs",Eggs,2 KG,2.85,21/04/1444
+11/15/2022,Irbid,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.22,21/04/1444
+11/15/2022,Irbid,"meat, fish and eggs",Meat (beef),KG,8.29,21/04/1444
+11/15/2022,Irbid,"meat, fish and eggs",Meat (chicken),KG,2.1,21/04/1444
+11/15/2022,Irbid,"meat, fish and eggs","Meat (chicken, whole)",KG,1.43,21/04/1444
+11/15/2022,Irbid,"meat, fish and eggs",Meat (lamb),KG,9.52,21/04/1444
+11/15/2022,Irbid,milk and dairy,Cheese (picon),160 G,0.79,21/04/1444
+11/15/2022,Irbid,milk and dairy,"Cheese (white, boiled)",KG,5.85,21/04/1444
+11/15/2022,Irbid,milk and dairy,Milk (pasteurized),L,1.02,21/04/1444
+11/15/2022,Irbid,milk and dairy,Milk (powder),0.8 KG,4.06,21/04/1444
+11/15/2022,Irbid,miscellaneous food,Salt (iodised),750 G,0.28,21/04/1444
+11/15/2022,Irbid,miscellaneous food,Sugar,KG,0.72,21/04/1444
+11/15/2022,Irbid,non-food,Fuel (diesel),L,0.86,21/04/1444
+11/15/2022,Irbid,non-food,Fuel (gas),12.5 KG,7,21/04/1444
+11/15/2022,Irbid,non-food,Fuel (kerosene),L,0.86,21/04/1444
+11/15/2022,Irbid,non-food,Fuel (petrol-gasoline),L,0.91,21/04/1444
+11/15/2022,Irbid,oil and fats,Oil (olive),L,6.47,21/04/1444
+11/15/2022,Irbid,oil and fats,Oil (vegetable),1.8 L,2.52,21/04/1444
+11/15/2022,Irbid,pulses and nuts,"Beans (fava, dry)",KG,1.48,21/04/1444
+11/15/2022,Irbid,pulses and nuts,Chickpeas,KG,1.73,21/04/1444
+11/15/2022,Irbid,pulses and nuts,Lentils,KG,1.28,21/04/1444
+11/15/2022,Irbid,vegetables and fruits,Apples (red),KG,1.56,21/04/1444
+11/15/2022,Irbid,vegetables and fruits,Bananas,KG,0.95,21/04/1444
+11/15/2022,Irbid,vegetables and fruits,Cucumbers,KG,0.55,21/04/1444
+11/15/2022,Irbid,vegetables and fruits,Garlic,KG,2.51,21/04/1444
+11/15/2022,Irbid,vegetables and fruits,Onions,KG,0.62,21/04/1444
+11/15/2022,Irbid,vegetables and fruits,Oranges (big size),KG,1.49,21/04/1444
+11/15/2022,Irbid,vegetables and fruits,Spinach,KG,0.44,21/04/1444
+11/15/2022,Irbid,vegetables and fruits,Tomatoes,KG,0.43,21/04/1444
+11/15/2022,Jarash,cereals and tubers,Bread (pita),KG,0.35,21/04/1444
+11/15/2022,Jarash,cereals and tubers,Bulgur,KG,0.83,21/04/1444
+11/15/2022,Jarash,cereals and tubers,Pasta,300 G,0.34,21/04/1444
+11/15/2022,Jarash,cereals and tubers,Potatoes,KG,0.83,21/04/1444
+11/15/2022,Jarash,cereals and tubers,Rice (imported),KG,1.35,21/04/1444
+11/15/2022,Jarash,cereals and tubers,Wheat flour,1.5 KG,1.41,21/04/1444
+11/15/2022,Jarash,"meat, fish and eggs",Eggs,2 KG,2.79,21/04/1444
+11/15/2022,Jarash,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.19,21/04/1444
+11/15/2022,Jarash,"meat, fish and eggs",Meat (beef),KG,8.37,21/04/1444
+11/15/2022,Jarash,"meat, fish and eggs",Meat (chicken),KG,1.92,21/04/1444
+11/15/2022,Jarash,"meat, fish and eggs","Meat (chicken, whole)",KG,1.25,21/04/1444
+11/15/2022,Jarash,"meat, fish and eggs",Meat (lamb),KG,9.53,21/04/1444
+11/15/2022,Jarash,milk and dairy,Cheese (picon),160 G,0.83,21/04/1444
+11/15/2022,Jarash,milk and dairy,"Cheese (white, boiled)",KG,6,21/04/1444
+11/15/2022,Jarash,milk and dairy,Milk (pasteurized),L,1.16,21/04/1444
+11/15/2022,Jarash,milk and dairy,Milk (powder),0.8 KG,3.9,21/04/1444
+11/15/2022,Jarash,miscellaneous food,Salt (iodised),750 G,0.29,21/04/1444
+11/15/2022,Jarash,miscellaneous food,Sugar,KG,0.71,21/04/1444
+11/15/2022,Jarash,non-food,Fuel (diesel),L,0.86,21/04/1444
+11/15/2022,Jarash,non-food,Fuel (gas),12.5 KG,7,21/04/1444
+11/15/2022,Jarash,non-food,Fuel (kerosene),L,0.86,21/04/1444
+11/15/2022,Jarash,non-food,Fuel (petrol-gasoline),L,0.91,21/04/1444
+11/15/2022,Jarash,oil and fats,Oil (olive),L,6,21/04/1444
+11/15/2022,Jarash,oil and fats,Oil (vegetable),1.8 L,2.64,21/04/1444
+11/15/2022,Jarash,pulses and nuts,"Beans (fava, dry)",KG,1.61,21/04/1444
+11/15/2022,Jarash,pulses and nuts,Chickpeas,KG,1.69,21/04/1444
+11/15/2022,Jarash,pulses and nuts,Lentils,KG,1.21,21/04/1444
+11/15/2022,Jarash,vegetables and fruits,Apples (red),KG,1.26,21/04/1444
+11/15/2022,Jarash,vegetables and fruits,Bananas,KG,0.81,21/04/1444
+11/15/2022,Jarash,vegetables and fruits,Cucumbers,KG,0.63,21/04/1444
+11/15/2022,Jarash,vegetables and fruits,Garlic,KG,2.83,21/04/1444
+11/15/2022,Jarash,vegetables and fruits,Onions,KG,0.65,21/04/1444
+11/15/2022,Jarash,vegetables and fruits,Spinach,KG,0.59,21/04/1444
+11/15/2022,Jarash,vegetables and fruits,Tomatoes,KG,0.34,21/04/1444
+11/15/2022,Maan,cereals and tubers,Bread (pita),KG,0.32,21/04/1444
+11/15/2022,Maan,cereals and tubers,Bulgur,KG,0.94,21/04/1444
+11/15/2022,Maan,cereals and tubers,Pasta,300 G,0.36,21/04/1444
+11/15/2022,Maan,cereals and tubers,Potatoes,KG,0.78,21/04/1444
+11/15/2022,Maan,cereals and tubers,Rice (imported),KG,1.26,21/04/1444
+11/15/2022,Maan,cereals and tubers,Wheat flour,1.5 KG,0.95,21/04/1444
+11/15/2022,Maan,"meat, fish and eggs",Eggs,2 KG,2.95,21/04/1444
+11/15/2022,Maan,"meat, fish and eggs","Fish (tuna, canned)",170 G,0.92,21/04/1444
+11/15/2022,Maan,"meat, fish and eggs",Meat (beef),KG,8.14,21/04/1444
+11/15/2022,Maan,"meat, fish and eggs",Meat (chicken),KG,2,21/04/1444
+11/15/2022,Maan,"meat, fish and eggs","Meat (chicken, whole)",KG,1.4,21/04/1444
+11/15/2022,Maan,"meat, fish and eggs",Meat (lamb),KG,9.47,21/04/1444
+11/15/2022,Maan,milk and dairy,Cheese (picon),160 G,0.75,21/04/1444
+11/15/2022,Maan,milk and dairy,"Cheese (white, boiled)",KG,5.06,21/04/1444
+11/15/2022,Maan,milk and dairy,Milk (pasteurized),L,1.11,21/04/1444
+11/15/2022,Maan,milk and dairy,Milk (powder),0.8 KG,4.08,21/04/1444
+11/15/2022,Maan,miscellaneous food,Salt (iodised),750 G,0.25,21/04/1444
+11/15/2022,Maan,miscellaneous food,Sugar,KG,0.73,21/04/1444
+11/15/2022,Maan,non-food,Fuel (diesel),L,0.86,21/04/1444
+11/15/2022,Maan,non-food,Fuel (gas),12.5 KG,7,21/04/1444
+11/15/2022,Maan,non-food,Fuel (kerosene),L,0.86,21/04/1444
+11/15/2022,Maan,non-food,Fuel (petrol-gasoline),L,0.91,21/04/1444
+11/15/2022,Maan,oil and fats,Oil (olive),L,6.09,21/04/1444
+11/15/2022,Maan,oil and fats,Oil (vegetable),1.8 L,2.77,21/04/1444
+11/15/2022,Maan,pulses and nuts,"Beans (fava, dry)",KG,1.25,21/04/1444
+11/15/2022,Maan,pulses and nuts,Chickpeas,KG,2.14,21/04/1444
+11/15/2022,Maan,pulses and nuts,Lentils,KG,1.13,21/04/1444
+11/15/2022,Maan,vegetables and fruits,Apples (red),KG,1.7,21/04/1444
+11/15/2022,Maan,vegetables and fruits,Bananas,KG,1,21/04/1444
+11/15/2022,Maan,vegetables and fruits,Cucumbers,KG,0.48,21/04/1444
+11/15/2022,Maan,vegetables and fruits,Garlic,KG,2.55,21/04/1444
+11/15/2022,Maan,vegetables and fruits,Onions,KG,0.6,21/04/1444
+11/15/2022,Maan,vegetables and fruits,Spinach,KG,0.6,21/04/1444
+11/15/2022,Maan,vegetables and fruits,Tomatoes,KG,0.35,21/04/1444
+11/15/2022,Madaba,cereals and tubers,Bread (pita),KG,0.32,21/04/1444
+11/15/2022,Madaba,cereals and tubers,Bulgur,KG,0.96,21/04/1444
+11/15/2022,Madaba,cereals and tubers,Pasta,300 G,0.39,21/04/1444
+11/15/2022,Madaba,cereals and tubers,Potatoes,KG,0.99,21/04/1444
+11/15/2022,Madaba,cereals and tubers,Rice (imported),KG,1.36,21/04/1444
+11/15/2022,Madaba,cereals and tubers,Wheat flour,1.5 KG,1.12,21/04/1444
+11/15/2022,Madaba,"meat, fish and eggs",Eggs,2 KG,2.72,21/04/1444
+11/15/2022,Madaba,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.26,21/04/1444
+11/15/2022,Madaba,"meat, fish and eggs",Meat (beef),KG,8.7,21/04/1444
+11/15/2022,Madaba,"meat, fish and eggs",Meat (chicken),KG,2,21/04/1444
+11/15/2022,Madaba,"meat, fish and eggs","Meat (chicken, whole)",KG,1.45,21/04/1444
+11/15/2022,Madaba,"meat, fish and eggs",Meat (lamb),KG,10.46,21/04/1444
+11/15/2022,Madaba,milk and dairy,Cheese (picon),160 G,0.82,21/04/1444
+11/15/2022,Madaba,milk and dairy,"Cheese (white, boiled)",KG,5.75,21/04/1444
+11/15/2022,Madaba,milk and dairy,Milk (pasteurized),L,1.03,21/04/1444
+11/15/2022,Madaba,milk and dairy,Milk (powder),0.8 KG,4.26,21/04/1444
+11/15/2022,Madaba,miscellaneous food,Salt (iodised),750 G,0.28,21/04/1444
+11/15/2022,Madaba,miscellaneous food,Sugar,KG,0.74,21/04/1444
+11/15/2022,Madaba,non-food,Fuel (diesel),L,0.86,21/04/1444
+11/15/2022,Madaba,non-food,Fuel (gas),12.5 KG,7,21/04/1444
+11/15/2022,Madaba,non-food,Fuel (kerosene),L,0.86,21/04/1444
+11/15/2022,Madaba,non-food,Fuel (petrol-gasoline),L,0.91,21/04/1444
+11/15/2022,Madaba,oil and fats,Oil (olive),L,6.75,21/04/1444
+11/15/2022,Madaba,oil and fats,Oil (vegetable),1.8 L,2.6,21/04/1444
+11/15/2022,Madaba,pulses and nuts,"Beans (fava, dry)",KG,1.31,21/04/1444
+11/15/2022,Madaba,pulses and nuts,Chickpeas,KG,2.1,21/04/1444
+11/15/2022,Madaba,pulses and nuts,Lentils,KG,1.23,21/04/1444
+11/15/2022,Madaba,vegetables and fruits,Apples (red),KG,1.35,21/04/1444
+11/15/2022,Madaba,vegetables and fruits,Bananas,KG,0.89,21/04/1444
+11/15/2022,Madaba,vegetables and fruits,Cucumbers,KG,0.47,21/04/1444
+11/15/2022,Madaba,vegetables and fruits,Garlic,KG,2.5,21/04/1444
+11/15/2022,Madaba,vegetables and fruits,Onions,KG,0.63,21/04/1444
+11/15/2022,Madaba,vegetables and fruits,Oranges (big size),KG,1.05,21/04/1444
+11/15/2022,Madaba,vegetables and fruits,Spinach,KG,0.47,21/04/1444
+11/15/2022,Madaba,vegetables and fruits,Tomatoes,KG,0.43,21/04/1444
+11/15/2022,Zarqa,cereals and tubers,Bread (pita),KG,0.32,21/04/1444
+11/15/2022,Zarqa,cereals and tubers,Bulgur,KG,0.86,21/04/1444
+11/15/2022,Zarqa,cereals and tubers,Pasta,300 G,0.35,21/04/1444
+11/15/2022,Zarqa,cereals and tubers,Potatoes,KG,0.84,21/04/1444
+11/15/2022,Zarqa,cereals and tubers,Rice (imported),KG,1.31,21/04/1444
+11/15/2022,Zarqa,cereals and tubers,Wheat flour,1.5 KG,0.88,21/04/1444
+11/15/2022,Zarqa,"meat, fish and eggs",Eggs,2 KG,2.85,21/04/1444
+11/15/2022,Zarqa,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.3,21/04/1444
+11/15/2022,Zarqa,"meat, fish and eggs",Meat (beef),KG,9.64,21/04/1444
+11/15/2022,Zarqa,"meat, fish and eggs",Meat (chicken),KG,2.35,21/04/1444
+11/15/2022,Zarqa,"meat, fish and eggs","Meat (chicken, whole)",KG,1.35,21/04/1444
+11/15/2022,Zarqa,"meat, fish and eggs",Meat (lamb),KG,9.38,21/04/1444
+11/15/2022,Zarqa,milk and dairy,Cheese (picon),160 G,0.77,21/04/1444
+11/15/2022,Zarqa,milk and dairy,"Cheese (white, boiled)",KG,5.05,21/04/1444
+11/15/2022,Zarqa,milk and dairy,Milk (pasteurized),L,1.01,21/04/1444
+11/15/2022,Zarqa,milk and dairy,Milk (powder),0.8 KG,4.24,21/04/1444
+11/15/2022,Zarqa,miscellaneous food,Salt (iodised),750 G,0.28,21/04/1444
+11/15/2022,Zarqa,miscellaneous food,Sugar,KG,0.71,21/04/1444
+11/15/2022,Zarqa,non-food,Fuel (diesel),L,0.86,21/04/1444
+11/15/2022,Zarqa,non-food,Fuel (gas),12.5 KG,7,21/04/1444
+11/15/2022,Zarqa,non-food,Fuel (kerosene),L,0.86,21/04/1444
+11/15/2022,Zarqa,non-food,Fuel (petrol-gasoline),L,0.91,21/04/1444
+11/15/2022,Zarqa,oil and fats,Oil (olive),L,6.46,21/04/1444
+11/15/2022,Zarqa,oil and fats,Oil (vegetable),1.8 L,2.9,21/04/1444
+11/15/2022,Zarqa,pulses and nuts,"Beans (fava, dry)",KG,1.53,21/04/1444
+11/15/2022,Zarqa,pulses and nuts,Chickpeas,KG,1.58,21/04/1444
+11/15/2022,Zarqa,pulses and nuts,Lentils,KG,1.27,21/04/1444
+11/15/2022,Zarqa,vegetables and fruits,Apples (red),KG,1.51,21/04/1444
+11/15/2022,Zarqa,vegetables and fruits,Bananas,KG,0.85,21/04/1444
+11/15/2022,Zarqa,vegetables and fruits,Cucumbers,KG,0.56,21/04/1444
+11/15/2022,Zarqa,vegetables and fruits,Garlic,KG,3.5,21/04/1444
+11/15/2022,Zarqa,vegetables and fruits,Onions,KG,0.59,21/04/1444
+11/15/2022,Zarqa,vegetables and fruits,Oranges (big size),KG,1.38,21/04/1444
+11/15/2022,Zarqa,vegetables and fruits,Spinach,KG,0.49,21/04/1444
+11/15/2022,Zarqa,vegetables and fruits,Tomatoes,KG,0.43,21/04/1444
+12/15/2022,Ajloun,cereals and tubers,Bread (pita),KG,0.32,22/05/1444
+12/15/2022,Ajloun,cereals and tubers,Bulgur,KG,0.86,22/05/1444
+12/15/2022,Ajloun,cereals and tubers,Pasta,300 G,0.35,22/05/1444
+12/15/2022,Ajloun,cereals and tubers,Potatoes,KG,0.68,22/05/1444
+12/15/2022,Ajloun,cereals and tubers,Rice (imported),KG,1.37,22/05/1444
+12/15/2022,Ajloun,cereals and tubers,Wheat flour,1.5 KG,0.85,22/05/1444
+12/15/2022,Ajloun,"meat, fish and eggs",Eggs,2 KG,2.91,22/05/1444
+12/15/2022,Ajloun,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.22,22/05/1444
+12/15/2022,Ajloun,"meat, fish and eggs",Meat (beef),KG,8.44,22/05/1444
+12/15/2022,Ajloun,"meat, fish and eggs",Meat (chicken),KG,1.96,22/05/1444
+12/15/2022,Ajloun,"meat, fish and eggs","Meat (chicken, whole)",KG,1.28,22/05/1444
+12/15/2022,Ajloun,"meat, fish and eggs",Meat (lamb),KG,9.67,22/05/1444
+12/15/2022,Ajloun,milk and dairy,Cheese (picon),160 G,0.92,22/05/1444
+12/15/2022,Ajloun,milk and dairy,"Cheese (white, boiled)",KG,6.74,22/05/1444
+12/15/2022,Ajloun,milk and dairy,Milk (pasteurized),L,1.2,22/05/1444
+12/15/2022,Ajloun,milk and dairy,Milk (powder),0.8 KG,4.05,22/05/1444
+12/15/2022,Ajloun,miscellaneous food,Salt (iodised),750 G,0.28,22/05/1444
+12/15/2022,Ajloun,miscellaneous food,Sugar,KG,0.74,22/05/1444
+12/15/2022,Ajloun,non-food,Fuel (diesel),L,0.9,22/05/1444
+12/15/2022,Ajloun,non-food,Fuel (gas),12.5 KG,7,22/05/1444
+12/15/2022,Ajloun,non-food,Fuel (kerosene),L,0.86,22/05/1444
+12/15/2022,Ajloun,non-food,Fuel (petrol-gasoline),L,0.92,22/05/1444
+12/15/2022,Ajloun,oil and fats,Oil (olive),L,6,22/05/1444
+12/15/2022,Ajloun,oil and fats,Oil (vegetable),1.8 L,2.56,22/05/1444
+12/15/2022,Ajloun,pulses and nuts,"Beans (fava, dry)",KG,1.56,22/05/1444
+12/15/2022,Ajloun,pulses and nuts,Chickpeas,KG,1.63,22/05/1444
+12/15/2022,Ajloun,pulses and nuts,Lentils,KG,1.03,22/05/1444
+12/15/2022,Ajloun,vegetables and fruits,Apples (red),KG,1.35,22/05/1444
+12/15/2022,Ajloun,vegetables and fruits,Bananas,KG,0.85,22/05/1444
+12/15/2022,Ajloun,vegetables and fruits,Cucumbers,KG,0.54,22/05/1444
+12/15/2022,Ajloun,vegetables and fruits,Garlic,KG,2.89,22/05/1444
+12/15/2022,Ajloun,vegetables and fruits,Onions,KG,0.64,22/05/1444
+12/15/2022,Ajloun,vegetables and fruits,Spinach,KG,0.41,22/05/1444
+12/15/2022,Ajloun,vegetables and fruits,Tomatoes,KG,0.31,22/05/1444
+12/15/2022,Al Aqaba,cereals and tubers,Bread (pita),KG,0.32,22/05/1444
+12/15/2022,Al Aqaba,cereals and tubers,Bulgur,KG,0.99,22/05/1444
+12/15/2022,Al Aqaba,cereals and tubers,Pasta,300 G,0.37,22/05/1444
+12/15/2022,Al Aqaba,cereals and tubers,Potatoes,KG,0.67,22/05/1444
+12/15/2022,Al Aqaba,cereals and tubers,Rice (imported),KG,1.35,22/05/1444
+12/15/2022,Al Aqaba,cereals and tubers,Wheat flour,1.5 KG,0.94,22/05/1444
+12/15/2022,Al Aqaba,"meat, fish and eggs",Eggs,2 KG,2.53,22/05/1444
+12/15/2022,Al Aqaba,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.19,22/05/1444
+12/15/2022,Al Aqaba,"meat, fish and eggs",Meat (beef),KG,8.74,22/05/1444
+12/15/2022,Al Aqaba,"meat, fish and eggs",Meat (chicken),KG,2.5,22/05/1444
+12/15/2022,Al Aqaba,"meat, fish and eggs","Meat (chicken, whole)",KG,1.46,22/05/1444
+12/15/2022,Al Aqaba,"meat, fish and eggs",Meat (lamb),KG,10.12,22/05/1444
+12/15/2022,Al Aqaba,milk and dairy,Cheese (picon),160 G,0.78,22/05/1444
+12/15/2022,Al Aqaba,milk and dairy,"Cheese (white, boiled)",KG,6.48,22/05/1444
+12/15/2022,Al Aqaba,milk and dairy,Milk (pasteurized),L,1.08,22/05/1444
+12/15/2022,Al Aqaba,milk and dairy,Milk (powder),0.8 KG,4.06,22/05/1444
+12/15/2022,Al Aqaba,miscellaneous food,Salt (iodised),750 G,0.26,22/05/1444
+12/15/2022,Al Aqaba,miscellaneous food,Sugar,KG,0.72,22/05/1444
+12/15/2022,Al Aqaba,non-food,Fuel (diesel),L,0.9,22/05/1444
+12/15/2022,Al Aqaba,non-food,Fuel (gas),12.5 KG,7,22/05/1444
+12/15/2022,Al Aqaba,non-food,Fuel (kerosene),L,0.86,22/05/1444
+12/15/2022,Al Aqaba,non-food,Fuel (petrol-gasoline),L,0.92,22/05/1444
+12/15/2022,Al Aqaba,oil and fats,Oil (olive),L,7.48,22/05/1444
+12/15/2022,Al Aqaba,oil and fats,Oil (vegetable),1.8 L,2.75,22/05/1444
+12/15/2022,Al Aqaba,pulses and nuts,"Beans (fava, dry)",KG,1.58,22/05/1444
+12/15/2022,Al Aqaba,pulses and nuts,Chickpeas,KG,1.83,22/05/1444
+12/15/2022,Al Aqaba,pulses and nuts,Lentils,KG,1.32,22/05/1444
+12/15/2022,Al Aqaba,vegetables and fruits,Apples (red),KG,1.11,22/05/1444
+12/15/2022,Al Aqaba,vegetables and fruits,Cucumbers,KG,0.44,22/05/1444
+12/15/2022,Al Aqaba,vegetables and fruits,Garlic,KG,1.56,22/05/1444
+12/15/2022,Al Aqaba,vegetables and fruits,Onions,KG,0.66,22/05/1444
+12/15/2022,Al Aqaba,vegetables and fruits,Spinach,KG,0.4,22/05/1444
+12/15/2022,Al Aqaba,vegetables and fruits,Tomatoes,KG,0.36,22/05/1444
+12/15/2022,Al Balqa,cereals and tubers,Bread (pita),KG,0.32,22/05/1444
+12/15/2022,Al Balqa,cereals and tubers,Bulgur,KG,1.06,22/05/1444
+12/15/2022,Al Balqa,cereals and tubers,Pasta,300 G,0.35,22/05/1444
+12/15/2022,Al Balqa,cereals and tubers,Potatoes,KG,0.7,22/05/1444
+12/15/2022,Al Balqa,cereals and tubers,Rice (imported),KG,1.42,22/05/1444
+12/15/2022,Al Balqa,cereals and tubers,Wheat flour,1.5 KG,0.89,22/05/1444
+12/15/2022,Al Balqa,"meat, fish and eggs",Eggs,2 KG,2.77,22/05/1444
+12/15/2022,Al Balqa,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.13,22/05/1444
+12/15/2022,Al Balqa,"meat, fish and eggs",Meat (beef),KG,7.25,22/05/1444
+12/15/2022,Al Balqa,"meat, fish and eggs",Meat (chicken),KG,2.21,22/05/1444
+12/15/2022,Al Balqa,"meat, fish and eggs","Meat (chicken, whole)",KG,1.4,22/05/1444
+12/15/2022,Al Balqa,"meat, fish and eggs",Meat (lamb),KG,9.25,22/05/1444
+12/15/2022,Al Balqa,milk and dairy,Cheese (picon),160 G,0.85,22/05/1444
+12/15/2022,Al Balqa,milk and dairy,"Cheese (white, boiled)",KG,5.79,22/05/1444
+12/15/2022,Al Balqa,milk and dairy,Milk (pasteurized),L,1,22/05/1444
+12/15/2022,Al Balqa,milk and dairy,Milk (powder),0.8 KG,4.29,22/05/1444
+12/15/2022,Al Balqa,miscellaneous food,Salt (iodised),750 G,0.25,22/05/1444
+12/15/2022,Al Balqa,miscellaneous food,Sugar,KG,0.87,22/05/1444
+12/15/2022,Al Balqa,non-food,Fuel (diesel),L,0.9,22/05/1444
+12/15/2022,Al Balqa,non-food,Fuel (gas),12.5 KG,7,22/05/1444
+12/15/2022,Al Balqa,non-food,Fuel (kerosene),L,0.86,22/05/1444
+12/15/2022,Al Balqa,non-food,Fuel (petrol-gasoline),L,0.92,22/05/1444
+12/15/2022,Al Balqa,oil and fats,Oil (olive),L,6.5,22/05/1444
+12/15/2022,Al Balqa,oil and fats,Oil (vegetable),1.8 L,2.78,22/05/1444
+12/15/2022,Al Balqa,pulses and nuts,"Beans (fava, dry)",KG,1.73,22/05/1444
+12/15/2022,Al Balqa,pulses and nuts,Chickpeas,KG,2.37,22/05/1444
+12/15/2022,Al Balqa,pulses and nuts,Lentils,KG,1.24,22/05/1444
+12/15/2022,Al Balqa,vegetables and fruits,Apples (red),KG,1.25,22/05/1444
+12/15/2022,Al Balqa,vegetables and fruits,Bananas,KG,0.74,22/05/1444
+12/15/2022,Al Balqa,vegetables and fruits,Cucumbers,KG,0.5,22/05/1444
+12/15/2022,Al Balqa,vegetables and fruits,Garlic,KG,2.99,22/05/1444
+12/15/2022,Al Balqa,vegetables and fruits,Onions,KG,0.64,22/05/1444
+12/15/2022,Al Balqa,vegetables and fruits,Spinach,KG,0.53,22/05/1444
+12/15/2022,Al Balqa,vegetables and fruits,Tomatoes,KG,0.37,22/05/1444
+12/15/2022,Al Karak,cereals and tubers,Bread (pita),KG,0.32,22/05/1444
+12/15/2022,Al Karak,cereals and tubers,Bulgur,KG,1.01,22/05/1444
+12/15/2022,Al Karak,cereals and tubers,Pasta,300 G,0.45,22/05/1444
+12/15/2022,Al Karak,cereals and tubers,Potatoes,KG,0.67,22/05/1444
+12/15/2022,Al Karak,cereals and tubers,Rice (imported),KG,1.3,22/05/1444
+12/15/2022,Al Karak,cereals and tubers,Wheat flour,1.5 KG,1,22/05/1444
+12/15/2022,Al Karak,"meat, fish and eggs",Eggs,2 KG,2.87,22/05/1444
+12/15/2022,Al Karak,"meat, fish and eggs","Fish (tuna, canned)",170 G,0.85,22/05/1444
+12/15/2022,Al Karak,"meat, fish and eggs",Meat (beef),KG,8,22/05/1444
+12/15/2022,Al Karak,"meat, fish and eggs",Meat (chicken),KG,2.28,22/05/1444
+12/15/2022,Al Karak,"meat, fish and eggs","Meat (chicken, whole)",KG,1.32,22/05/1444
+12/15/2022,Al Karak,"meat, fish and eggs",Meat (lamb),KG,8.5,22/05/1444
+12/15/2022,Al Karak,milk and dairy,Cheese (picon),160 G,0.8,22/05/1444
+12/15/2022,Al Karak,milk and dairy,"Cheese (white, boiled)",KG,5.69,22/05/1444
+12/15/2022,Al Karak,milk and dairy,Milk (pasteurized),L,1.2,22/05/1444
+12/15/2022,Al Karak,milk and dairy,Milk (powder),0.8 KG,3.95,22/05/1444
+12/15/2022,Al Karak,miscellaneous food,Salt (iodised),750 G,0.3,22/05/1444
+12/15/2022,Al Karak,miscellaneous food,Sugar,KG,0.72,22/05/1444
+12/15/2022,Al Karak,non-food,Fuel (diesel),L,0.9,22/05/1444
+12/15/2022,Al Karak,non-food,Fuel (gas),12.5 KG,7,22/05/1444
+12/15/2022,Al Karak,non-food,Fuel (kerosene),L,0.86,22/05/1444
+12/15/2022,Al Karak,non-food,Fuel (petrol-gasoline),L,0.92,22/05/1444
+12/15/2022,Al Karak,oil and fats,Oil (olive),L,5.32,22/05/1444
+12/15/2022,Al Karak,oil and fats,Oil (vegetable),1.8 L,3.19,22/05/1444
+12/15/2022,Al Karak,pulses and nuts,"Beans (fava, dry)",KG,1.49,22/05/1444
+12/15/2022,Al Karak,pulses and nuts,Chickpeas,KG,2.22,22/05/1444
+12/15/2022,Al Karak,pulses and nuts,Lentils,KG,1.68,22/05/1444
+12/15/2022,Al Karak,vegetables and fruits,Apples (red),KG,1.26,22/05/1444
+12/15/2022,Al Karak,vegetables and fruits,Bananas,KG,0.82,22/05/1444
+12/15/2022,Al Karak,vegetables and fruits,Cucumbers,KG,0.54,22/05/1444
+12/15/2022,Al Karak,vegetables and fruits,Garlic,KG,2.83,22/05/1444
+12/15/2022,Al Karak,vegetables and fruits,Onions,KG,0.57,22/05/1444
+12/15/2022,Al Karak,vegetables and fruits,Oranges (big size),KG,1.4,22/05/1444
+12/15/2022,Al Karak,vegetables and fruits,Spinach,KG,0.51,22/05/1444
+12/15/2022,Al Karak,vegetables and fruits,Tomatoes,KG,0.35,22/05/1444
+12/15/2022,Al Mafraq,cereals and tubers,Bread (pita),KG,0.32,22/05/1444
+12/15/2022,Al Mafraq,cereals and tubers,Bulgur,KG,0.75,22/05/1444
+12/15/2022,Al Mafraq,cereals and tubers,Pasta,300 G,0.35,22/05/1444
+12/15/2022,Al Mafraq,cereals and tubers,Potatoes,KG,0.69,22/05/1444
+12/15/2022,Al Mafraq,cereals and tubers,Rice (imported),KG,1.27,22/05/1444
+12/15/2022,Al Mafraq,cereals and tubers,Wheat flour,1.5 KG,0.83,22/05/1444
+12/15/2022,Al Mafraq,"meat, fish and eggs",Eggs,2 KG,2.67,22/05/1444
+12/15/2022,Al Mafraq,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.23,22/05/1444
+12/15/2022,Al Mafraq,"meat, fish and eggs",Meat (beef),KG,8,22/05/1444
+12/15/2022,Al Mafraq,"meat, fish and eggs",Meat (chicken),KG,1.88,22/05/1444
+12/15/2022,Al Mafraq,"meat, fish and eggs","Meat (chicken, whole)",KG,1.23,22/05/1444
+12/15/2022,Al Mafraq,"meat, fish and eggs",Meat (lamb),KG,9.43,22/05/1444
+12/15/2022,Al Mafraq,milk and dairy,Cheese (picon),160 G,0.84,22/05/1444
+12/15/2022,Al Mafraq,milk and dairy,"Cheese (white, boiled)",KG,6,22/05/1444
+12/15/2022,Al Mafraq,milk and dairy,Milk (pasteurized),L,1.2,22/05/1444
+12/15/2022,Al Mafraq,milk and dairy,Milk (powder),0.8 KG,4.02,22/05/1444
+12/15/2022,Al Mafraq,miscellaneous food,Salt (iodised),750 G,0.31,22/05/1444
+12/15/2022,Al Mafraq,miscellaneous food,Sugar,KG,0.7,22/05/1444
+12/15/2022,Al Mafraq,non-food,Fuel (diesel),L,0.9,22/05/1444
+12/15/2022,Al Mafraq,non-food,Fuel (gas),12.5 KG,7,22/05/1444
+12/15/2022,Al Mafraq,non-food,Fuel (kerosene),L,0.86,22/05/1444
+12/15/2022,Al Mafraq,non-food,Fuel (petrol-gasoline),L,0.92,22/05/1444
+12/15/2022,Al Mafraq,oil and fats,Oil (olive),L,6.34,22/05/1444
+12/15/2022,Al Mafraq,oil and fats,Oil (vegetable),1.8 L,2.66,22/05/1444
+12/15/2022,Al Mafraq,pulses and nuts,"Beans (fava, dry)",KG,1.71,22/05/1444
+12/15/2022,Al Mafraq,pulses and nuts,Chickpeas,KG,1.7,22/05/1444
+12/15/2022,Al Mafraq,pulses and nuts,Lentils,KG,1.24,22/05/1444
+12/15/2022,Al Mafraq,vegetables and fruits,Apples (red),KG,1.34,22/05/1444
+12/15/2022,Al Mafraq,vegetables and fruits,Bananas,KG,0.87,22/05/1444
+12/15/2022,Al Mafraq,vegetables and fruits,Cucumbers,KG,0.46,22/05/1444
+12/15/2022,Al Mafraq,vegetables and fruits,Garlic,KG,2.56,22/05/1444
+12/15/2022,Al Mafraq,vegetables and fruits,Onions,KG,0.65,22/05/1444
+12/15/2022,Al Mafraq,vegetables and fruits,Spinach,KG,0.33,22/05/1444
+12/15/2022,Al Mafraq,vegetables and fruits,Tomatoes,KG,0.35,22/05/1444
+12/15/2022,Al Tafilah,cereals and tubers,Bread (pita),KG,0.32,22/05/1444
+12/15/2022,Al Tafilah,cereals and tubers,Bulgur,KG,0.82,22/05/1444
+12/15/2022,Al Tafilah,cereals and tubers,Pasta,300 G,0.37,22/05/1444
+12/15/2022,Al Tafilah,cereals and tubers,Potatoes,KG,0.7,22/05/1444
+12/15/2022,Al Tafilah,cereals and tubers,Rice (imported),KG,1.25,22/05/1444
+12/15/2022,Al Tafilah,cereals and tubers,Wheat flour,1.5 KG,1.04,22/05/1444
+12/15/2022,Al Tafilah,"meat, fish and eggs",Eggs,2 KG,2.77,22/05/1444
+12/15/2022,Al Tafilah,"meat, fish and eggs","Fish (tuna, canned)",170 G,0.88,22/05/1444
+12/15/2022,Al Tafilah,"meat, fish and eggs",Meat (beef),KG,8.59,22/05/1444
+12/15/2022,Al Tafilah,"meat, fish and eggs",Meat (chicken),KG,2.01,22/05/1444
+12/15/2022,Al Tafilah,"meat, fish and eggs","Meat (chicken, whole)",KG,1.31,22/05/1444
+12/15/2022,Al Tafilah,"meat, fish and eggs",Meat (lamb),KG,9.1,22/05/1444
+12/15/2022,Al Tafilah,milk and dairy,Cheese (picon),160 G,0.78,22/05/1444
+12/15/2022,Al Tafilah,milk and dairy,"Cheese (white, boiled)",KG,5.08,22/05/1444
+12/15/2022,Al Tafilah,milk and dairy,Milk (pasteurized),L,1.11,22/05/1444
+12/15/2022,Al Tafilah,milk and dairy,Milk (powder),0.8 KG,4.02,22/05/1444
+12/15/2022,Al Tafilah,miscellaneous food,Salt (iodised),750 G,0.31,22/05/1444
+12/15/2022,Al Tafilah,miscellaneous food,Sugar,KG,0.76,22/05/1444
+12/15/2022,Al Tafilah,non-food,Fuel (diesel),L,0.9,22/05/1444
+12/15/2022,Al Tafilah,non-food,Fuel (gas),12.5 KG,7,22/05/1444
+12/15/2022,Al Tafilah,non-food,Fuel (kerosene),L,0.86,22/05/1444
+12/15/2022,Al Tafilah,non-food,Fuel (petrol-gasoline),L,0.92,22/05/1444
+12/15/2022,Al Tafilah,oil and fats,Oil (olive),L,5.58,22/05/1444
+12/15/2022,Al Tafilah,oil and fats,Oil (vegetable),1.8 L,2.79,22/05/1444
+12/15/2022,Al Tafilah,pulses and nuts,"Beans (fava, dry)",KG,1.41,22/05/1444
+12/15/2022,Al Tafilah,pulses and nuts,Chickpeas,KG,1.75,22/05/1444
+12/15/2022,Al Tafilah,pulses and nuts,Lentils,KG,1.58,22/05/1444
+12/15/2022,Al Tafilah,vegetables and fruits,Apples (red),KG,1,22/05/1444
+12/15/2022,Al Tafilah,vegetables and fruits,Bananas,KG,0.9,22/05/1444
+12/15/2022,Al Tafilah,vegetables and fruits,Cucumbers,KG,0.49,22/05/1444
+12/15/2022,Al Tafilah,vegetables and fruits,Garlic,KG,2.52,22/05/1444
+12/15/2022,Al Tafilah,vegetables and fruits,Onions,KG,0.51,22/05/1444
+12/15/2022,Al Tafilah,vegetables and fruits,Spinach,KG,0.43,22/05/1444
+12/15/2022,Al Tafilah,vegetables and fruits,Tomatoes,KG,0.35,22/05/1444
+12/15/2022,Amman,cereals and tubers,Bread (pita),KG,0.32,22/05/1444
+12/15/2022,Amman,cereals and tubers,Bulgur,KG,0.87,22/05/1444
+12/15/2022,Amman,cereals and tubers,Pasta,300 G,0.35,22/05/1444
+12/15/2022,Amman,cereals and tubers,Potatoes,KG,0.75,22/05/1444
+12/15/2022,Amman,cereals and tubers,Rice (imported),KG,1.35,22/05/1444
+12/15/2022,Amman,cereals and tubers,Wheat flour,1.5 KG,0.85,22/05/1444
+12/15/2022,Amman,"meat, fish and eggs",Eggs,2 KG,2.96,22/05/1444
+12/15/2022,Amman,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.15,22/05/1444
+12/15/2022,Amman,"meat, fish and eggs",Meat (beef),KG,8.98,22/05/1444
+12/15/2022,Amman,"meat, fish and eggs",Meat (chicken),KG,2.26,22/05/1444
+12/15/2022,Amman,"meat, fish and eggs","Meat (chicken, whole)",KG,1.32,22/05/1444
+12/15/2022,Amman,"meat, fish and eggs",Meat (lamb),KG,10.56,22/05/1444
+12/15/2022,Amman,milk and dairy,Cheese (picon),160 G,0.81,22/05/1444
+12/15/2022,Amman,milk and dairy,"Cheese (white, boiled)",KG,6.26,22/05/1444
+12/15/2022,Amman,milk and dairy,Milk (pasteurized),L,1.05,22/05/1444
+12/15/2022,Amman,milk and dairy,Milk (powder),0.8 KG,4.17,22/05/1444
+12/15/2022,Amman,miscellaneous food,Salt (iodised),750 G,0.3,22/05/1444
+12/15/2022,Amman,miscellaneous food,Sugar,KG,0.69,22/05/1444
+12/15/2022,Amman,non-food,Fuel (diesel),L,0.9,22/05/1444
+12/15/2022,Amman,non-food,Fuel (gas),12.5 KG,7,22/05/1444
+12/15/2022,Amman,non-food,Fuel (kerosene),L,0.86,22/05/1444
+12/15/2022,Amman,non-food,Fuel (petrol-gasoline),L,0.92,22/05/1444
+12/15/2022,Amman,oil and fats,Oil (olive),L,7.09,22/05/1444
+12/15/2022,Amman,oil and fats,Oil (vegetable),1.8 L,2.77,22/05/1444
+12/15/2022,Amman,pulses and nuts,"Beans (fava, dry)",KG,1.69,22/05/1444
+12/15/2022,Amman,pulses and nuts,Chickpeas,KG,1.86,22/05/1444
+12/15/2022,Amman,pulses and nuts,Lentils,KG,1.24,22/05/1444
+12/15/2022,Amman,vegetables and fruits,Apples (red),KG,1.86,22/05/1444
+12/15/2022,Amman,vegetables and fruits,Bananas,KG,0.89,22/05/1444
+12/15/2022,Amman,vegetables and fruits,Cucumbers,KG,0.49,22/05/1444
+12/15/2022,Amman,vegetables and fruits,Garlic,KG,3,22/05/1444
+12/15/2022,Amman,vegetables and fruits,Onions,KG,0.67,22/05/1444
+12/15/2022,Amman,vegetables and fruits,Oranges (big size),KG,1.6,22/05/1444
+12/15/2022,Amman,vegetables and fruits,Spinach,KG,0.42,22/05/1444
+12/15/2022,Amman,vegetables and fruits,Tomatoes,KG,0.46,22/05/1444
+12/15/2022,Irbid,cereals and tubers,Bread (pita),KG,0.33,22/05/1444
+12/15/2022,Irbid,cereals and tubers,Bulgur,KG,0.94,22/05/1444
+12/15/2022,Irbid,cereals and tubers,Pasta,300 G,0.34,22/05/1444
+12/15/2022,Irbid,cereals and tubers,Potatoes,KG,0.75,22/05/1444
+12/15/2022,Irbid,cereals and tubers,Rice (imported),KG,1.41,22/05/1444
+12/15/2022,Irbid,cereals and tubers,Wheat flour,1.5 KG,0.89,22/05/1444
+12/15/2022,Irbid,"meat, fish and eggs",Eggs,2 KG,2.78,22/05/1444
+12/15/2022,Irbid,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.22,22/05/1444
+12/15/2022,Irbid,"meat, fish and eggs",Meat (beef),KG,7.79,22/05/1444
+12/15/2022,Irbid,"meat, fish and eggs",Meat (chicken),KG,2.1,22/05/1444
+12/15/2022,Irbid,"meat, fish and eggs","Meat (chicken, whole)",KG,1.35,22/05/1444
+12/15/2022,Irbid,"meat, fish and eggs",Meat (lamb),KG,9.2,22/05/1444
+12/15/2022,Irbid,milk and dairy,Cheese (picon),160 G,0.79,22/05/1444
+12/15/2022,Irbid,milk and dairy,"Cheese (white, boiled)",KG,5.85,22/05/1444
+12/15/2022,Irbid,milk and dairy,Milk (pasteurized),L,1.02,22/05/1444
+12/15/2022,Irbid,milk and dairy,Milk (powder),0.8 KG,4.06,22/05/1444
+12/15/2022,Irbid,miscellaneous food,Salt (iodised),750 G,0.28,22/05/1444
+12/15/2022,Irbid,miscellaneous food,Sugar,KG,0.72,22/05/1444
+12/15/2022,Irbid,non-food,Fuel (diesel),L,0.9,22/05/1444
+12/15/2022,Irbid,non-food,Fuel (gas),12.5 KG,7,22/05/1444
+12/15/2022,Irbid,non-food,Fuel (kerosene),L,0.86,22/05/1444
+12/15/2022,Irbid,non-food,Fuel (petrol-gasoline),L,0.92,22/05/1444
+12/15/2022,Irbid,oil and fats,Oil (olive),L,6.47,22/05/1444
+12/15/2022,Irbid,oil and fats,Oil (vegetable),1.8 L,2.55,22/05/1444
+12/15/2022,Irbid,pulses and nuts,"Beans (fava, dry)",KG,1.48,22/05/1444
+12/15/2022,Irbid,pulses and nuts,Chickpeas,KG,1.73,22/05/1444
+12/15/2022,Irbid,pulses and nuts,Lentils,KG,1.28,22/05/1444
+12/15/2022,Irbid,vegetables and fruits,Apples (red),KG,1.49,22/05/1444
+12/15/2022,Irbid,vegetables and fruits,Bananas,KG,0.95,22/05/1444
+12/15/2022,Irbid,vegetables and fruits,Cucumbers,KG,0.46,22/05/1444
+12/15/2022,Irbid,vegetables and fruits,Garlic,KG,2.09,22/05/1444
+12/15/2022,Irbid,vegetables and fruits,Onions,KG,0.63,22/05/1444
+12/15/2022,Irbid,vegetables and fruits,Oranges (big size),KG,1.25,22/05/1444
+12/15/2022,Irbid,vegetables and fruits,Spinach,KG,0.33,22/05/1444
+12/15/2022,Irbid,vegetables and fruits,Tomatoes,KG,0.42,22/05/1444
+12/15/2022,Jarash,cereals and tubers,Bread (pita),KG,0.35,22/05/1444
+12/15/2022,Jarash,cereals and tubers,Bulgur,KG,0.83,22/05/1444
+12/15/2022,Jarash,cereals and tubers,Pasta,300 G,0.38,22/05/1444
+12/15/2022,Jarash,cereals and tubers,Potatoes,KG,0.71,22/05/1444
+12/15/2022,Jarash,cereals and tubers,Rice (imported),KG,1.35,22/05/1444
+12/15/2022,Jarash,cereals and tubers,Wheat flour,1.5 KG,1.39,22/05/1444
+12/15/2022,Jarash,"meat, fish and eggs",Eggs,2 KG,2.81,22/05/1444
+12/15/2022,Jarash,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.19,22/05/1444
+12/15/2022,Jarash,"meat, fish and eggs",Meat (beef),KG,8.41,22/05/1444
+12/15/2022,Jarash,"meat, fish and eggs",Meat (chicken),KG,1.82,22/05/1444
+12/15/2022,Jarash,"meat, fish and eggs","Meat (chicken, whole)",KG,1.22,22/05/1444
+12/15/2022,Jarash,"meat, fish and eggs",Meat (lamb),KG,9.82,22/05/1444
+12/15/2022,Jarash,milk and dairy,Cheese (picon),160 G,0.83,22/05/1444
+12/15/2022,Jarash,milk and dairy,"Cheese (white, boiled)",KG,6,22/05/1444
+12/15/2022,Jarash,milk and dairy,Milk (pasteurized),L,1.16,22/05/1444
+12/15/2022,Jarash,milk and dairy,Milk (powder),0.8 KG,3.92,22/05/1444
+12/15/2022,Jarash,miscellaneous food,Salt (iodised),750 G,0.29,22/05/1444
+12/15/2022,Jarash,miscellaneous food,Sugar,KG,0.71,22/05/1444
+12/15/2022,Jarash,non-food,Fuel (diesel),L,0.9,22/05/1444
+12/15/2022,Jarash,non-food,Fuel (gas),12.5 KG,7,22/05/1444
+12/15/2022,Jarash,non-food,Fuel (kerosene),L,0.86,22/05/1444
+12/15/2022,Jarash,non-food,Fuel (petrol-gasoline),L,0.92,22/05/1444
+12/15/2022,Jarash,oil and fats,Oil (olive),L,6,22/05/1444
+12/15/2022,Jarash,oil and fats,Oil (vegetable),1.8 L,2.72,22/05/1444
+12/15/2022,Jarash,pulses and nuts,"Beans (fava, dry)",KG,1.61,22/05/1444
+12/15/2022,Jarash,pulses and nuts,Chickpeas,KG,1.69,22/05/1444
+12/15/2022,Jarash,pulses and nuts,Lentils,KG,1.21,22/05/1444
+12/15/2022,Jarash,vegetables and fruits,Apples (red),KG,1.31,22/05/1444
+12/15/2022,Jarash,vegetables and fruits,Bananas,KG,0.8,22/05/1444
+12/15/2022,Jarash,vegetables and fruits,Cucumbers,KG,0.51,22/05/1444
+12/15/2022,Jarash,vegetables and fruits,Garlic,KG,2.71,22/05/1444
+12/15/2022,Jarash,vegetables and fruits,Onions,KG,0.68,22/05/1444
+12/15/2022,Jarash,vegetables and fruits,Spinach,KG,0.54,22/05/1444
+12/15/2022,Jarash,vegetables and fruits,Tomatoes,KG,0.33,22/05/1444
+12/15/2022,Maan,cereals and tubers,Bread (pita),KG,0.32,22/05/1444
+12/15/2022,Maan,cereals and tubers,Bulgur,KG,0.94,22/05/1444
+12/15/2022,Maan,cereals and tubers,Pasta,300 G,0.36,22/05/1444
+12/15/2022,Maan,cereals and tubers,Potatoes,KG,0.64,22/05/1444
+12/15/2022,Maan,cereals and tubers,Rice (imported),KG,1.26,22/05/1444
+12/15/2022,Maan,cereals and tubers,Wheat flour,1.5 KG,0.95,22/05/1444
+12/15/2022,Maan,"meat, fish and eggs",Eggs,2 KG,2.94,22/05/1444
+12/15/2022,Maan,"meat, fish and eggs","Fish (tuna, canned)",170 G,0.91,22/05/1444
+12/15/2022,Maan,"meat, fish and eggs",Meat (beef),KG,8.02,22/05/1444
+12/15/2022,Maan,"meat, fish and eggs",Meat (chicken),KG,2,22/05/1444
+12/15/2022,Maan,"meat, fish and eggs","Meat (chicken, whole)",KG,1.15,22/05/1444
+12/15/2022,Maan,"meat, fish and eggs",Meat (lamb),KG,9.32,22/05/1444
+12/15/2022,Maan,milk and dairy,Cheese (picon),160 G,0.75,22/05/1444
+12/15/2022,Maan,milk and dairy,"Cheese (white, boiled)",KG,5.06,22/05/1444
+12/15/2022,Maan,milk and dairy,Milk (pasteurized),L,1.11,22/05/1444
+12/15/2022,Maan,milk and dairy,Milk (powder),0.8 KG,4.08,22/05/1444
+12/15/2022,Maan,miscellaneous food,Salt (iodised),750 G,0.25,22/05/1444
+12/15/2022,Maan,miscellaneous food,Sugar,KG,0.73,22/05/1444
+12/15/2022,Maan,non-food,Fuel (diesel),L,0.9,22/05/1444
+12/15/2022,Maan,non-food,Fuel (gas),12.5 KG,7,22/05/1444
+12/15/2022,Maan,non-food,Fuel (kerosene),L,0.86,22/05/1444
+12/15/2022,Maan,non-food,Fuel (petrol-gasoline),L,0.92,22/05/1444
+12/15/2022,Maan,oil and fats,Oil (olive),L,6.09,22/05/1444
+12/15/2022,Maan,oil and fats,Oil (vegetable),1.8 L,2.77,22/05/1444
+12/15/2022,Maan,pulses and nuts,"Beans (fava, dry)",KG,1.25,22/05/1444
+12/15/2022,Maan,pulses and nuts,Chickpeas,KG,2.14,22/05/1444
+12/15/2022,Maan,pulses and nuts,Lentils,KG,1.13,22/05/1444
+12/15/2022,Maan,vegetables and fruits,Apples (red),KG,1.49,22/05/1444
+12/15/2022,Maan,vegetables and fruits,Bananas,KG,0.95,22/05/1444
+12/15/2022,Maan,vegetables and fruits,Cucumbers,KG,0.36,22/05/1444
+12/15/2022,Maan,vegetables and fruits,Garlic,KG,2.01,22/05/1444
+12/15/2022,Maan,vegetables and fruits,Onions,KG,0.57,22/05/1444
+12/15/2022,Maan,vegetables and fruits,Spinach,KG,0.61,22/05/1444
+12/15/2022,Maan,vegetables and fruits,Tomatoes,KG,0.42,22/05/1444
+12/15/2022,Madaba,cereals and tubers,Bread (pita),KG,0.32,22/05/1444
+12/15/2022,Madaba,cereals and tubers,Bulgur,KG,0.95,22/05/1444
+12/15/2022,Madaba,cereals and tubers,Pasta,300 G,0.39,22/05/1444
+12/15/2022,Madaba,cereals and tubers,Potatoes,KG,0.75,22/05/1444
+12/15/2022,Madaba,cereals and tubers,Rice (imported),KG,1.41,22/05/1444
+12/15/2022,Madaba,cereals and tubers,Wheat flour,1.5 KG,1.12,22/05/1444
+12/15/2022,Madaba,"meat, fish and eggs",Eggs,2 KG,2.81,22/05/1444
+12/15/2022,Madaba,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.3,22/05/1444
+12/15/2022,Madaba,"meat, fish and eggs",Meat (beef),KG,8.7,22/05/1444
+12/15/2022,Madaba,"meat, fish and eggs",Meat (chicken),KG,2,22/05/1444
+12/15/2022,Madaba,"meat, fish and eggs","Meat (chicken, whole)",KG,1.45,22/05/1444
+12/15/2022,Madaba,"meat, fish and eggs",Meat (lamb),KG,10.29,22/05/1444
+12/15/2022,Madaba,milk and dairy,Cheese (picon),160 G,0.82,22/05/1444
+12/15/2022,Madaba,milk and dairy,"Cheese (white, boiled)",KG,5.75,22/05/1444
+12/15/2022,Madaba,milk and dairy,Milk (pasteurized),L,1.03,22/05/1444
+12/15/2022,Madaba,milk and dairy,Milk (powder),0.8 KG,4.3,22/05/1444
+12/15/2022,Madaba,miscellaneous food,Salt (iodised),750 G,0.28,22/05/1444
+12/15/2022,Madaba,miscellaneous food,Sugar,KG,0.74,22/05/1444
+12/15/2022,Madaba,non-food,Fuel (diesel),L,0.9,22/05/1444
+12/15/2022,Madaba,non-food,Fuel (gas),12.5 KG,7,22/05/1444
+12/15/2022,Madaba,non-food,Fuel (kerosene),L,0.86,22/05/1444
+12/15/2022,Madaba,non-food,Fuel (petrol-gasoline),L,0.92,22/05/1444
+12/15/2022,Madaba,oil and fats,Oil (olive),L,6.75,22/05/1444
+12/15/2022,Madaba,oil and fats,Oil (vegetable),1.8 L,2.62,22/05/1444
+12/15/2022,Madaba,pulses and nuts,"Beans (fava, dry)",KG,1.31,22/05/1444
+12/15/2022,Madaba,pulses and nuts,Chickpeas,KG,2.1,22/05/1444
+12/15/2022,Madaba,pulses and nuts,Lentils,KG,1.22,22/05/1444
+12/15/2022,Madaba,vegetables and fruits,Apples (red),KG,1.2,22/05/1444
+12/15/2022,Madaba,vegetables and fruits,Bananas,KG,0.85,22/05/1444
+12/15/2022,Madaba,vegetables and fruits,Cucumbers,KG,0.46,22/05/1444
+12/15/2022,Madaba,vegetables and fruits,Garlic,KG,2.11,22/05/1444
+12/15/2022,Madaba,vegetables and fruits,Onions,KG,0.68,22/05/1444
+12/15/2022,Madaba,vegetables and fruits,Spinach,KG,0.38,22/05/1444
+12/15/2022,Madaba,vegetables and fruits,Tomatoes,KG,0.39,22/05/1444
+12/15/2022,Zarqa,cereals and tubers,Bread (pita),KG,0.32,22/05/1444
+12/15/2022,Zarqa,cereals and tubers,Bulgur,KG,0.86,22/05/1444
+12/15/2022,Zarqa,cereals and tubers,Pasta,300 G,0.35,22/05/1444
+12/15/2022,Zarqa,cereals and tubers,Potatoes,KG,0.67,22/05/1444
+12/15/2022,Zarqa,cereals and tubers,Rice (imported),KG,1.31,22/05/1444
+12/15/2022,Zarqa,cereals and tubers,Wheat flour,1.5 KG,0.88,22/05/1444
+12/15/2022,Zarqa,"meat, fish and eggs",Eggs,2 KG,2.81,22/05/1444
+12/15/2022,Zarqa,"meat, fish and eggs","Fish (tuna, canned)",170 G,1.3,22/05/1444
+12/15/2022,Zarqa,"meat, fish and eggs",Meat (beef),KG,10.18,22/05/1444
+12/15/2022,Zarqa,"meat, fish and eggs",Meat (chicken),KG,2.37,22/05/1444
+12/15/2022,Zarqa,"meat, fish and eggs","Meat (chicken, whole)",KG,1.31,22/05/1444
+12/15/2022,Zarqa,"meat, fish and eggs",Meat (lamb),KG,9.99,22/05/1444
+12/15/2022,Zarqa,milk and dairy,Cheese (picon),160 G,0.78,22/05/1444
+12/15/2022,Zarqa,milk and dairy,"Cheese (white, boiled)",KG,5.05,22/05/1444
+12/15/2022,Zarqa,milk and dairy,Milk (pasteurized),L,1.01,22/05/1444
+12/15/2022,Zarqa,milk and dairy,Milk (powder),0.8 KG,4.23,22/05/1444
+12/15/2022,Zarqa,miscellaneous food,Salt (iodised),750 G,0.28,22/05/1444
+12/15/2022,Zarqa,miscellaneous food,Sugar,KG,0.71,22/05/1444
+12/15/2022,Zarqa,non-food,Fuel (diesel),L,0.9,22/05/1444
+12/15/2022,Zarqa,non-food,Fuel (gas),12.5 KG,7,22/05/1444
+12/15/2022,Zarqa,non-food,Fuel (kerosene),L,0.86,22/05/1444
+12/15/2022,Zarqa,non-food,Fuel (petrol-gasoline),L,0.92,22/05/1444
+12/15/2022,Zarqa,oil and fats,Oil (olive),L,6.46,22/05/1444
+12/15/2022,Zarqa,oil and fats,Oil (vegetable),1.8 L,2.91,22/05/1444
+12/15/2022,Zarqa,pulses and nuts,"Beans (fava, dry)",KG,1.53,22/05/1444
+12/15/2022,Zarqa,pulses and nuts,Chickpeas,KG,1.58,22/05/1444
+12/15/2022,Zarqa,pulses and nuts,Lentils,KG,1.27,22/05/1444
+12/15/2022,Zarqa,vegetables and fruits,Apples (red),KG,1.36,22/05/1444
+12/15/2022,Zarqa,vegetables and fruits,Bananas,KG,0.89,22/05/1444
+12/15/2022,Zarqa,vegetables and fruits,Cucumbers,KG,0.41,22/05/1444
+12/15/2022,Zarqa,vegetables and fruits,Garlic,KG,3.41,22/05/1444
+12/15/2022,Zarqa,vegetables and fruits,Onions,KG,0.58,22/05/1444
+12/15/2022,Zarqa,vegetables and fruits,Oranges (big size),KG,1.19,22/05/1444
+12/15/2022,Zarqa,vegetables and fruits,Spinach,KG,0.29,22/05/1444
+12/15/2022,Zarqa,vegetables and fruits,Tomatoes,KG,0.43,22/05/1444
